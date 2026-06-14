@@ -9,6 +9,7 @@ def load_json(path):
         return json.load(f)
 
 def get_json_label_list_files(folder="label_files"):
+
     priority_order = [
         "US.en.json",
         "JP.ja.json",
@@ -16,7 +17,6 @@ def get_json_label_list_files(folder="label_files"):
         "KR.ko.json"
     ]
 
-    # lista finale
     ordered_files_names = []
     ordered_files = []
 
@@ -63,9 +63,9 @@ def find_game_name(title_id, json_labels_list):
 
 ## MAIN FLOW STARTS HERE ##
 data = load_json(INPUT_JSON)
-print("Load JSON labels files...")
+print("Loading JSON label files...")
 json_labels_list = get_json_label_list_files("label_files")
-print("JSON labels files loaded into memory. Initiating extraction")
+print("JSON label files loaded. Initiating extraction")
 
 for title_id, build_id_data in data.items():
 
@@ -74,13 +74,12 @@ for title_id, build_id_data in data.items():
 
     game_name = sanitize_filename(find_game_name(title_id, json_labels_list))
 
-    # file info gioco
+    # txt file that contains the localized name of the current game
     info_path = os.path.join(title_id, f"{game_name}.txt")
 
     with open(info_path, "w", encoding="utf-8") as f:
         f.write(game_name + "\n")
 
-    # cheats
     for build_id, cheats in build_id_data.items():
 
         output_file = os.path.join(cheats_dir, f"{build_id}.txt")
@@ -89,6 +88,8 @@ for title_id, build_id_data in data.items():
 
             for cheat_id, cheat_info in cheats.items():
 
+                # ignore "version" element 
+                # and any other JSON element that is not a dict type
                 if not isinstance(cheat_info, dict):
                     continue
 

@@ -1,0 +1,2 @@
+[Optanic Power Bomb No Decrease]
+04000000 008547DC 1E2703E1

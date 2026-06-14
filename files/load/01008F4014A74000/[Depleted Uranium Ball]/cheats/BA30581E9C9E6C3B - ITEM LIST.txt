@@ -1,0 +1,2 @@
+[Depleted Uranium Ball]
+040C0000 09E834DC 00000001

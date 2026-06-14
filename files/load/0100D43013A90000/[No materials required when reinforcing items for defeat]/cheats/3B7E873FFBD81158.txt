@@ -1,0 +1,2 @@
+[No materials required when reinforcing items for defeat]
+04000000 01FDF710 2A1F03E0

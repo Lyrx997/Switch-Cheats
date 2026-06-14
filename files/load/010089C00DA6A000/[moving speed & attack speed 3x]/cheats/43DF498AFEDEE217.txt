@@ -1,0 +1,2 @@
+[moving speed & attack speed 3x]
+04000000 004AE7D0 1E211000

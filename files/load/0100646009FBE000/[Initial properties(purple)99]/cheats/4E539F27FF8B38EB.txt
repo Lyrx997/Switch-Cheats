@@ -1,0 +1,2 @@
+[Initial properties(purple)99]
+04000000 003613F0 11018C08

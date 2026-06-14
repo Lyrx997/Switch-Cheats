@@ -1,0 +1,2 @@
+[2.ZR+A button Keep 96 materials on your body when storing them.]
+04000000 0268E6E4 52800C08

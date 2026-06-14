@@ -1,0 +1,2 @@
+[#14. 5x Confidant Raising Speed]
+040E0000 00858DB4 0B010834

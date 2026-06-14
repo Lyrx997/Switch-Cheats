@@ -1,0 +1,2 @@
+[Item Slot 1 Chaos x98]
+04100000 63C9E634 0000C45D

@@ -1,0 +1,2 @@
+[Have All Moves Alastor]
+01100000 A080266B 0000007F

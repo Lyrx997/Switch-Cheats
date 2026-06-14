@@ -1,0 +1,2 @@
+[enemy no attack on]
+04000000 006F1850 D503201F

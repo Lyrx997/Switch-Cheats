@@ -1,0 +1,2 @@
+[05# Fast Amulet Charge]
+040A0000 00A4F914 1E2E1001

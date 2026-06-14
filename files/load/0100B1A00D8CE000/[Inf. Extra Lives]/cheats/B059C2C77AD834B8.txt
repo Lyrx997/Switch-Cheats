@@ -1,0 +1,2 @@
+[Inf. Extra Lives]
+040C0000 069CCF58 00000001

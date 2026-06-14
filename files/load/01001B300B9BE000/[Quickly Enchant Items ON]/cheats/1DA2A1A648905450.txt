@@ -1,0 +1,2 @@
+[Quickly Enchant Items ON]
+04000000 001D80B4 11000508

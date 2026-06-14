@@ -1,0 +1,2 @@
+[Golden Axe 3 Full Potions]
+01000000 030F729D 00000006

@@ -1,0 +1,2 @@
+[lock hp bar off]
+04000000 00112D0C 1E2ACC00

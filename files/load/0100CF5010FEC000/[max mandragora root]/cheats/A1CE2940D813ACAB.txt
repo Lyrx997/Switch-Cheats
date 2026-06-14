@@ -1,0 +1,2 @@
+[max mandragora root]
+040B0000 00B90C78 B90E5D2A

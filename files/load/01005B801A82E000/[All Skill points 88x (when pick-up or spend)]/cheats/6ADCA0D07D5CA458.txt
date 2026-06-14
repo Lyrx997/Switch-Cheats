@@ -1,0 +1,3 @@
+[All Skill points 88x (when pick-up or spend)]
+04000000 01C14FB8 B9402119
+04000000 01C14FB8 52800B19

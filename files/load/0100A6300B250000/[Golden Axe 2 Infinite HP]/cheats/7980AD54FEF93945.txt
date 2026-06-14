@@ -1,0 +1,2 @@
+[Golden Axe 2 Infinite HP]
+01000000 030EB1E7 00000005

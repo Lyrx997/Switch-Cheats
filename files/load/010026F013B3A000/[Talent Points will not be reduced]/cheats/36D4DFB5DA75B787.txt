@@ -1,0 +1,2 @@
+[Talent Points will not be reduced]
+010E0000 02160436 0000001F

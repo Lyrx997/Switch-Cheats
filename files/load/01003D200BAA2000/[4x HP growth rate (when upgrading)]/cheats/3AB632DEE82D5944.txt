@@ -1,0 +1,2 @@
+[4x HP growth rate (when upgrading)]
+04000000 026CC568 0B140AA8

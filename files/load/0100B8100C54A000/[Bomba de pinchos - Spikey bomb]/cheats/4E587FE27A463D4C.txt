@@ -1,0 +1,2 @@
+[Bomba de pinchos - Spikey bomb]
+04100000 A8E41900 00000009

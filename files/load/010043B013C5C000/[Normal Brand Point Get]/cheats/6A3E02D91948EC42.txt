@@ -1,0 +1,2 @@
+[Normal Brand Point Get]
+040E0000 02006898 2A0203F3

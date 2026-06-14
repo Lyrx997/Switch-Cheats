@@ -1,0 +1,2 @@
+[Restore Code (Use after unchecking any cheats below)]
+040E0000 005D6714 0B080128

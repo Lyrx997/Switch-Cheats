@@ -1,0 +1,2 @@
+[Fireball Mario]
+011F0000 93D4EC18 00000002

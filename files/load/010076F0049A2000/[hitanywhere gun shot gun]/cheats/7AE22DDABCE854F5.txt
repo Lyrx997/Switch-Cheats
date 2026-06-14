@@ -1,0 +1,2 @@
+[hitanywhere gun shot gun]
+04000000 00043264 D65F03C0

@@ -1,0 +1,2 @@
+[#07. Item (include Ammo) does not decrease]
+040E0000 00807700 D65F03C0

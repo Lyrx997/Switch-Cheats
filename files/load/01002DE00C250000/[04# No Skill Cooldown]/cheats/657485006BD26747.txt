@@ -1,0 +1,2 @@
+[04# No Skill Cooldown]
+040A0000 0004AAC4 52800020

@@ -1,0 +1,2 @@
+[1p damager attack normal]
+04000000 02D45A0C 1E2E1000

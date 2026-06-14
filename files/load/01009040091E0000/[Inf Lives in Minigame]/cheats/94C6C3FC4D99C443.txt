@@ -1,0 +1,2 @@
+[Inf Lives in Minigame]
+04000000 010B4B58 D503201F

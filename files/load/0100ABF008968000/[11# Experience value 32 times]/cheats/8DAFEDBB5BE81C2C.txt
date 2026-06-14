@@ -1,0 +1,2 @@
+[11# Experience value 32 times]
+04000000 007F27AC 0B011536

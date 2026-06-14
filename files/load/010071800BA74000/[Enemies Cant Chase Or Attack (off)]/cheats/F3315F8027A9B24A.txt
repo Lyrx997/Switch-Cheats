@@ -1,0 +1,2 @@
+[Enemies Cant Chase Or Attack (off)]
+04000000 0068E0F0 F81D0FF5

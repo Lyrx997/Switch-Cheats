@@ -1,0 +1,2 @@
+[No reduction in battery power]
+04000000 003680C8 944460A5

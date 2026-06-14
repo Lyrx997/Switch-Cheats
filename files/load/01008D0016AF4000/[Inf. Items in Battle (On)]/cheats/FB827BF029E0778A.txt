@@ -1,0 +1,2 @@
+[Inf. Items in Battle (On)]
+04000000 00062A80 0B1F0108

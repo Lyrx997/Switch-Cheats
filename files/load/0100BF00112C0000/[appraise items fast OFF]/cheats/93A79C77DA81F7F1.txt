@@ -1,0 +1,2 @@
+[appraise items fast OFF]
+04000000 001F998C 1E213800

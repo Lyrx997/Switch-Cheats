@@ -1,0 +1,3 @@
+[Soulstones Drop Rate back to normal]
+04000000 003506DC 11000401
+04000000 00350728 1E213800

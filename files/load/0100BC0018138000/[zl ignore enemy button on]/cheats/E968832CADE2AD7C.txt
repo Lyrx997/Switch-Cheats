@@ -1,0 +1,4 @@
+[zl ignore enemy button on]
+80000100
+040E0000 01B29BB0 D503201F
+20000000

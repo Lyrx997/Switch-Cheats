@@ -1,0 +1,2 @@
+[Gain 1x WeaponParts]
+04000000 004DF874 0B010129

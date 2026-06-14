@@ -1,0 +1,2 @@
+[Have Inf Stamina]
+04070000 02F07E0C BD402500

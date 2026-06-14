@@ -1,0 +1,2 @@
+[Antique Stone 99]
+04000000 00E0FA0E 000003E7

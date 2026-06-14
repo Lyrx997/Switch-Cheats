@@ -1,0 +1,2 @@
+[  Piranha Plant Figure]
+01000000 01CC07C8 00000080

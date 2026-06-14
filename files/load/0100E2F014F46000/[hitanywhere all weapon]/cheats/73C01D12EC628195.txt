@@ -1,0 +1,2 @@
+[hitanywhere all weapon]
+04000000 00569630 D503201F

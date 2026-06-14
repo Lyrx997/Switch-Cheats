@@ -1,0 +1,2 @@
+[Change Z Coin Max]
+04000000 00244CF4 AA0A03E9

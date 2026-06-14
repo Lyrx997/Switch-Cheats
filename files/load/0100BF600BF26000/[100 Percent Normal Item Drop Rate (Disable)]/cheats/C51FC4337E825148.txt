@@ -1,0 +1,2 @@
+[100 Percent Normal Item Drop Rate (Disable)]
+04000000 0000D0E0 B9404C00

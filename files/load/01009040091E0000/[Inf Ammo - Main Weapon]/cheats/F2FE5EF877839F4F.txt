@@ -1,0 +1,2 @@
+[Inf Ammo - Main Weapon]
+04000000 01063D6C D503201F

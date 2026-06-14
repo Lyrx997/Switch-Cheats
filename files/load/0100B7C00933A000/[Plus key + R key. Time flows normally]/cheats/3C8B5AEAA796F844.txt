@@ -1,0 +1,4 @@
+[Plus key + R key. Time flows normally]
+80000480
+04000000 01DC6C08 1E202828
+20000000

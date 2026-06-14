@@ -1,0 +1,2 @@
+[Slot1 lily-of-the-valley]
+04100000 AC3B90C0 00001DE3

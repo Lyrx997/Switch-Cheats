@@ -1,0 +1,2 @@
+[#01 Ball Count never increase]
+010E0000 02832FE8 00000001

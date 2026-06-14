@@ -1,0 +1,2 @@
+[Weapons Unbreakable]
+040E0000 018C7C04 52800020

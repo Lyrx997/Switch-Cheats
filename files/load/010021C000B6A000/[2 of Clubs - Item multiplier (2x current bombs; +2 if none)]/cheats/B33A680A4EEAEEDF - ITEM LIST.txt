@@ -1,0 +1,3 @@
+[2 of Clubs - Item multiplier (2x current bombs; +2 if none)]
+40000000 00000000 00001C00
+640C0100 00000000 00000017

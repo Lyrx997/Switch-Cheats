@@ -1,0 +1,2 @@
+[Attack Distance Reset]
+04000000 0231DE94 1E2638A6

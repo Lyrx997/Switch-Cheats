@@ -1,0 +1,2 @@
+[05# Level up after fight]
+04000000 00550DCC 5284E1F8

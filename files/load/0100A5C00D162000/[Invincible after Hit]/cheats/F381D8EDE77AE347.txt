@@ -1,0 +1,2 @@
+[Invincible after Hit]
+04000000 00414594 1E2E1008

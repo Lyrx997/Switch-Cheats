@@ -1,0 +1,2 @@
+[Max Stamina Limit]
+040C0000 039B7A9C BD434528

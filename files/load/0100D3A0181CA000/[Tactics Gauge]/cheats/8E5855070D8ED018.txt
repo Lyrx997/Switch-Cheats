@@ -1,0 +1,2 @@
+[Tactics Gauge]
+04000000 019B7ADC 52800C81

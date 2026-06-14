@@ -1,0 +1,2 @@
+[05# No damage also for enemy (Off)]
+04000000 002ECA00 F81D0FF5

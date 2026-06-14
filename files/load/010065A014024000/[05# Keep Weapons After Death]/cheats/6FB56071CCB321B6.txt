@@ -1,0 +1,2 @@
+[05# Keep Weapons After Death]
+040A0000 010DEC60 D65F03C0

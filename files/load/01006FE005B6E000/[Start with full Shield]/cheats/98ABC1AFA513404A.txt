@@ -1,0 +1,2 @@
+[Start with full Shield]
+04100000 01CC1E58 00000F27

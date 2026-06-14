@@ -1,0 +1,2 @@
+[Have Monster HP 1 after Dec Disable]
+04070000 02C373A4 1E283800

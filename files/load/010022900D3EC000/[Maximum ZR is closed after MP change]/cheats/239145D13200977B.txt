@@ -1,0 +1,4 @@
+[Maximum ZR is closed after MP change]
+80000200
+04000000 0041CB00 1A89B008
+20000000

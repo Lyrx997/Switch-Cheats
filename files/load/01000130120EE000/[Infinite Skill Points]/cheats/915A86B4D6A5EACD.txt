@@ -1,0 +1,2 @@
+[Infinite Skill Points]
+010E0000 0065AA22 0000001F

@@ -1,0 +1,2 @@
+[Max Bullet & Storage Slot]
+040C0000 00BE3B10 79492C00

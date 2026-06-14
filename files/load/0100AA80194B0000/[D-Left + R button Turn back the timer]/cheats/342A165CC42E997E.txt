@@ -1,0 +1,4 @@
+[D-Left + R button Turn back the timer]
+80001080
+04000000 00001AD4 1E203820
+20000000

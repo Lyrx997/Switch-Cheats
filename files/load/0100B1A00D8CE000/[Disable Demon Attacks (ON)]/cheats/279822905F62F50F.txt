@@ -1,0 +1,2 @@
+[Disable Demon Attacks (ON)]
+040C0000 0690B4E0 00000000

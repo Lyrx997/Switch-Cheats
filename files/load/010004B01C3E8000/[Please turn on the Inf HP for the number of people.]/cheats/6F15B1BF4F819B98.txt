@@ -1,0 +1,2 @@
+[Please turn on the Inf HP for the number of people.]
+20000000

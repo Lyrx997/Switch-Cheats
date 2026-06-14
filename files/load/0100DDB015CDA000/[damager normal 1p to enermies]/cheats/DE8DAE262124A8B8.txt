@@ -1,0 +1,2 @@
+[damager normal 1p to enermies]
+04000000 00912EB4 1E2E1000

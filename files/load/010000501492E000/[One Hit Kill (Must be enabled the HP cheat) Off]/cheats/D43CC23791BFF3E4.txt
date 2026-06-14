@@ -1,0 +1,2 @@
+[One Hit Kill (Must be enabled the HP cheat) Off]
+04000000 020D0F30 D503201F

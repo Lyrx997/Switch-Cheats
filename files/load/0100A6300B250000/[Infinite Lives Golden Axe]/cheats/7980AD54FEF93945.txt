@@ -1,0 +1,2 @@
+[Infinite Lives Golden Axe]
+010F0000 030FA825 00000003

@@ -1,0 +1,3 @@
+[1st slot modifier L + A (goto https://pastebin.com/B8N5KKsh for xxxx Item ids)]
+80000041
+04100000 AC3B90C0 0000

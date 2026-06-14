@@ -1,0 +1,2 @@
+[Inf Fire extinguisher]
+040A0000 01821184 1E282920

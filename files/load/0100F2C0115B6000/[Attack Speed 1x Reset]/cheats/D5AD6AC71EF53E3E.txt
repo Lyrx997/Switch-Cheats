@@ -1,0 +1,2 @@
+[Attack Speed 1x Reset]
+040E0000 006920EC 1E2E1000

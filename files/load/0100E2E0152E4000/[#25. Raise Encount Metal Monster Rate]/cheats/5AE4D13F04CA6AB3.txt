@@ -1,0 +1,2 @@
+[#25. Raise Encount Metal Monster Rate]
+040E0000 0052EB14 1E27F000

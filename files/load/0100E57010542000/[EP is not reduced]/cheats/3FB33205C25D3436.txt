@@ -1,0 +1,2 @@
+[EP is not reduced]
+04000000 000CCE98 1A8AB149

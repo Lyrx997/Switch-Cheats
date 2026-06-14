@@ -1,0 +1,2 @@
+[Small game ammunition is not reduced / / Inf Ammo in Minigame]
+04000000 0108FB98 D503201F

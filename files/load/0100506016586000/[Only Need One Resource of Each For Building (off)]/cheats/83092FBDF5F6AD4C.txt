@@ -1,0 +1,2 @@
+[Only Need One Resource of Each For Building (off)]
+040A0000 0150372C B9001AE8

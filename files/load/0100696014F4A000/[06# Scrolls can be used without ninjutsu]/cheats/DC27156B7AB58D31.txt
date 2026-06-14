@@ -1,0 +1,3 @@
+[06# Scrolls can be used without ninjutsu]
+04000000 006FB998 52800000
+04000000 006FB9B8 52800000

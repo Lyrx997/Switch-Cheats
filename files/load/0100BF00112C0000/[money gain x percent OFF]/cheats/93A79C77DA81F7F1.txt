@@ -1,0 +1,2 @@
+[money gain x percent OFF]
+04000000 004582D4 92407C21

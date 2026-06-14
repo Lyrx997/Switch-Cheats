@@ -1,0 +1,2 @@
+[â„–11. When exchange skills, money is not reduced]
+080E0000 010A2BE4 D503201F 2A1F03E9

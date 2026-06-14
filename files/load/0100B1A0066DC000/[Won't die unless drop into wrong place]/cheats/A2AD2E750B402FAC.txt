@@ -1,0 +1,4 @@
+[Won't die unless drop into wrong place]
+540F0000 001B1A54
+780F0000 00000176
+620F0000 00000000 00000200

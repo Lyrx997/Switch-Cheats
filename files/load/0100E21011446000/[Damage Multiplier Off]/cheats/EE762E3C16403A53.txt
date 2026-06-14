@@ -1,0 +1,2 @@
+[Damage Multiplier Off]
+040C0000 00C35E00 AA0003F3

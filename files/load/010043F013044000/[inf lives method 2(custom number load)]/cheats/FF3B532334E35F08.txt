@@ -1,0 +1,3 @@
+[inf lives method 2(custom number load)]
+04000000 0080937C 18FFFE89
+04000000 0080934C 00000009

@@ -1,0 +1,2 @@
+[Inf Gyrocopter Fuel (off)]
+040A0000 0184DEAC 1E203900

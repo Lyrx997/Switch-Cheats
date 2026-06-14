@@ -1,0 +1,2 @@
+[Fog Of War Multiplier (off)]
+040A0000 013BD560 1E2E1000

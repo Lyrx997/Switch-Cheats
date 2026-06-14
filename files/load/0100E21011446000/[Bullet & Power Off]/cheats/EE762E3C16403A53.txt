@@ -1,0 +1,2 @@
+[Bullet & Power Off]
+040C0000 00BE3B10 79492800

@@ -1,0 +1,2 @@
+[#02. Unlimited Bullet]
+040E0000 00CE2EF0 52800029

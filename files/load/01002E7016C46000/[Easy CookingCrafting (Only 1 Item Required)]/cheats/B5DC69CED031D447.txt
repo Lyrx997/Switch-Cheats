@@ -1,0 +1,3 @@
+[Easy Cooking/Crafting (Only 1 Item Required)]
+040C0000 018F1D48 52807CF3
+040C0000 018F2050 0B1F0108

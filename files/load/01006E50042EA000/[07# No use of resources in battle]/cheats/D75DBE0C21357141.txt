@@ -1,0 +1,2 @@
+[07# No use of resources in battle]
+04000000 00DDC598 D503201F

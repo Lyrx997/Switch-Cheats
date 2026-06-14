@@ -1,0 +1,2 @@
+[No decrease for Soul]
+040E0000 004FCA1C 4B1F0129

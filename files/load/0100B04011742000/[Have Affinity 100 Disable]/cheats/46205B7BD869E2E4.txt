@@ -1,0 +1,2 @@
+[Have Affinity 100 Disable]
+04070000 02CEEB20 5400006B

@@ -1,0 +1,2 @@
+[Max Mana (Open Drink Bar)]
+040C0000 006F280C 94204906

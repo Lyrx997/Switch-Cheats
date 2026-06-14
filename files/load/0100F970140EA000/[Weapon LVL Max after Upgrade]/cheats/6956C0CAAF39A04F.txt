@@ -1,0 +1,2 @@
+[Weapon LVL Max after Upgrade]
+04000000 02248044 528000A8

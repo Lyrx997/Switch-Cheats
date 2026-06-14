@@ -1,0 +1,4 @@
+[L pad on no dead call at fight time]
+80000040
+04000000 0301BBD0 D65F03C0
+20000000

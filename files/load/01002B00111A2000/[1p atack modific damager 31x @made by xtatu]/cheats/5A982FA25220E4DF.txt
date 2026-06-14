@@ -1,0 +1,2 @@
+[1p atack modific damager 31x @made by xtatu]
+04000000 000106EC 1E27F009

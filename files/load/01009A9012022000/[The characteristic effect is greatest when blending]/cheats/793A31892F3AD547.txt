@@ -1,0 +1,2 @@
+[The characteristic effect is greatest when blending]
+040B0000 005B45CC 52800C88

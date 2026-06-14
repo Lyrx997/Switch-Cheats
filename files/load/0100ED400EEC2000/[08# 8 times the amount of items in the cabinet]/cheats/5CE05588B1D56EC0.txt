@@ -1,0 +1,2 @@
+[08# 8 times the amount of items in the cabinet]
+04000000 003CA774 0B150D29

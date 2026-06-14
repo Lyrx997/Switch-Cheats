@@ -1,0 +1,2 @@
+[Cpu No Support slot (off)]
+040A0000 0197CE2C 1E282800

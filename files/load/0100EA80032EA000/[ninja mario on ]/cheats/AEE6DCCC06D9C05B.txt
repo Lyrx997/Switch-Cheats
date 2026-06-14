@@ -1,0 +1,2 @@
+[ninja mario on ]
+04000000 007C66AC E320F000

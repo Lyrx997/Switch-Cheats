@@ -1,0 +1,3 @@
+[Always drop biggest treasure chest (off)]
+04000000 000FBF90 D10243FF
+04000000 000FBF94 A9036FFC

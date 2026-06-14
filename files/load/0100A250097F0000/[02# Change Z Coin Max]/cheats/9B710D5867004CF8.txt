@@ -1,0 +1,2 @@
+[02# Change Z Coin Max]
+04000000 0025A684 AA0A03E9

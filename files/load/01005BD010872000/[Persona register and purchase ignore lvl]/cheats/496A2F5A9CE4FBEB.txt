@@ -1,0 +1,3 @@
+[Persona register and purchase ignore lvl]
+040B0000 007443B0 52800C6A
+040B0000 007A8B80 52800028

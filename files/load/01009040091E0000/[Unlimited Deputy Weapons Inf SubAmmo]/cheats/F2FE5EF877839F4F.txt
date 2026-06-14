@@ -1,0 +1,2 @@
+[Unlimited Deputy Weapons / / Inf SubAmmo]
+04000000 0107B5EC 2A0003E8

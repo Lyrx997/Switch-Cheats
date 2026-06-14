@@ -1,0 +1,2 @@
+[Inf. Throw Items (OFF)]
+040A0000 0654ED30 00000000

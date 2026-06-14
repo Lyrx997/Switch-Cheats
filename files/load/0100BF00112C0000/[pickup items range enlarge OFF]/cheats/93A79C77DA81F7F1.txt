@@ -1,0 +1,2 @@
+[pickup items range enlarge OFF]
+04000000 004582D0 F940B400

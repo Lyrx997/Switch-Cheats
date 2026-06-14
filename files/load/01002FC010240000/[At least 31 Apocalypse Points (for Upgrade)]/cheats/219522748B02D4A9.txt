@@ -1,0 +1,2 @@
+[At least 31 Apocalypse Points (for Upgrade)]
+040E0000 0059E4E8 1E27F001

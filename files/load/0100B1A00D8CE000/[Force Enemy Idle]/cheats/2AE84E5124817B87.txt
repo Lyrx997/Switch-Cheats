@@ -1,0 +1,2 @@
+[Force Enemy Idle]
+040C0000 0694A8C8 00000001

@@ -1,0 +1,2 @@
+[always have SP to spend]
+04000000 01797AC8 528D2DC8

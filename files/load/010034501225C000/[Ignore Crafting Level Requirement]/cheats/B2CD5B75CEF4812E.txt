@@ -1,0 +1,2 @@
+[Ignore Crafting Level Requirement]
+040C0000 003ADD58 52800C80

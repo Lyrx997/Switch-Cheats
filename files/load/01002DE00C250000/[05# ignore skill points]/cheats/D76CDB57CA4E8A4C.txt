@@ -1,0 +1,2 @@
+[05# ignore skill points]
+04000000 00CAEC1C 6B00001F

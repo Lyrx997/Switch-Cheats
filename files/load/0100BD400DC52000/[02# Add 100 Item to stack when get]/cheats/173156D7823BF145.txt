@@ -1,0 +1,2 @@
+[02# Add 100 Item to stack when get]
+04000000 000FF40C 52800C88

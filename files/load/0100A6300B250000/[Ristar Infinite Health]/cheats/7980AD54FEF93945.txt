@@ -1,0 +1,2 @@
+[Ristar Infinite Health]
+010F0000 030F69E1 00000004

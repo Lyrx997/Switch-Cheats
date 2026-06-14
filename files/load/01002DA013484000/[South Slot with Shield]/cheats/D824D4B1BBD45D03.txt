@@ -1,0 +1,2 @@
+[South Slot with Shield]
+04000000 05AEB520 0064007D

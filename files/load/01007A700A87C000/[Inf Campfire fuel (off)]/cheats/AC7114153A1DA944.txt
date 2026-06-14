@@ -1,0 +1,2 @@
+[Inf Campfire fuel (off)]
+04000000 01C79AA8 51000508

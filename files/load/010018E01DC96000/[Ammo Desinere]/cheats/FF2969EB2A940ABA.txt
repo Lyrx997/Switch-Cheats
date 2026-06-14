@@ -1,0 +1,2 @@
+[*Ammo Desinere]
+04000000 01BE3EC8 4B1402A1

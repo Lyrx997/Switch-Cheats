@@ -1,0 +1,2 @@
+[05# Infinite Upgrade Points (Open Upgrade Menu)]
+04000000 019C3C00 52807CE0

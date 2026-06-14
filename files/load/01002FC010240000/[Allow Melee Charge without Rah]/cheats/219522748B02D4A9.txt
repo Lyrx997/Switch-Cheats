@@ -1,0 +1,2 @@
+[Allow Melee Charge without Rah]
+040E0000 0059BC60 52800020

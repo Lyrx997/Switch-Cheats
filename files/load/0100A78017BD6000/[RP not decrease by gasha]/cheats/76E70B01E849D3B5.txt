@@ -1,0 +1,2 @@
+[RP not decrease by gasha]
+040F0000 007285C8 CB000117

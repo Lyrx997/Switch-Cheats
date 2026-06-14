@@ -1,0 +1,2 @@
+[Damage boost is closed after viewing the menu]
+040B0000 00589E94 AA0103F6

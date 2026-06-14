@@ -1,0 +1,2 @@
+[Super Mario Galaxy Infinite Star Bits]
+020F0000 01BBFEC0 000003E7

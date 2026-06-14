@@ -1,0 +1,2 @@
+[Hold ZL and ZR]
+80000300

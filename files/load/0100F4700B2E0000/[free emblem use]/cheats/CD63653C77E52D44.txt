@@ -1,0 +1,2 @@
+[free emblem use]
+04000000 004BECC8 52800000

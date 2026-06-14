@@ -1,0 +1,2 @@
+[R power user recover hp+TTD+speed move 5x]
+04000000 014E3D70 1E229008

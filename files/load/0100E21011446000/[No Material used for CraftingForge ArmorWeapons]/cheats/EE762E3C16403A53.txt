@@ -1,0 +1,3 @@
+[No Material used for Crafting/Forge: Armor/Weapons]
+040C0000 0071D598 D503201F
+040C0000 0071D600 D503201F

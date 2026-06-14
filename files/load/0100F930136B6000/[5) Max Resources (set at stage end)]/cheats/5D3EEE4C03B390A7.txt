@@ -1,0 +1,3 @@
+[5) Max Resources (set at stage end)]
+040E0000 00B481DC 1A89B12B
+040E0000 00B481F8 1A89B129

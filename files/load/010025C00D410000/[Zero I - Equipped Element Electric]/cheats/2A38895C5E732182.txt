@@ -1,0 +1,2 @@
+[Zero I - Equipped Element Electric]
+01000000 02FB66DD 00000001

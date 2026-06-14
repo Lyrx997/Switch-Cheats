@@ -1,0 +1,2 @@
+[Little game HP does not reduce / / Inf HP in Minigame]
+04000000 0108DA7C 52800008

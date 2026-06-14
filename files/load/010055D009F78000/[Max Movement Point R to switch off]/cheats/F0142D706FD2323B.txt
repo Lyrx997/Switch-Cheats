@@ -1,0 +1,4 @@
+[Max Movement Point R to switch off]
+80000080
+04000000 000AFCC4 1A88B2E0
+20000000

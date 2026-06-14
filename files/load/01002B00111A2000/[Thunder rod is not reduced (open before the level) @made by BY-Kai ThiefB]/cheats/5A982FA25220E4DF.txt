@@ -1,0 +1,2 @@
+[Thunder rod is not reduced (open before the level) @made by BY-Kai ThiefB]
+040B0000 00667380 52807CEA

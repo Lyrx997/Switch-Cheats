@@ -1,0 +1,2 @@
+[RP not decrease - gasha]
+040F0000 007285C8 D1000117

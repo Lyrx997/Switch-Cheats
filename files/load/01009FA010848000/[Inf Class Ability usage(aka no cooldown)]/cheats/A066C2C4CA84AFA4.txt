@@ -1,0 +1,2 @@
+[Inf Class Ability usage(aka no cooldown)]
+04100000 758B8A68 00000000

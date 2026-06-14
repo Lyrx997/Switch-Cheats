@@ -1,0 +1,2 @@
+[hit range normal]
+04000000 00A18FA4 1E2E1001

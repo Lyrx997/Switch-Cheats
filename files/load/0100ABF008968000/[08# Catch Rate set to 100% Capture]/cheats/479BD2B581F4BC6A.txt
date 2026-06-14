@@ -1,0 +1,2 @@
+[08# Catch Rate set to 100% Capture]
+04000000 0077F6E8 529FFFE0

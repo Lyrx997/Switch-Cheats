@@ -1,0 +1,2 @@
+[05# Enemies Cant Chase Or Attack]
+04000000 0068E0F0 D65F03C0

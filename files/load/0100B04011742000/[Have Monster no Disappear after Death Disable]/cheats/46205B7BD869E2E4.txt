@@ -1,0 +1,2 @@
+[Have Monster no Disappear after Death Disable]
+04070000 02E0D7BC B9406E88

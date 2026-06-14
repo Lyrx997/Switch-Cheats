@@ -1,0 +1,2 @@
+[â™¯ 3. No Spell Cooldown]
+040E0000 015BC614 1C98EF48

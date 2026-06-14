@@ -1,0 +1,3 @@
+[07# 8 times increase in refrigerator items]
+04000000 003CA360 0B150D29
+04000000 003CA4C0 0B0E0DAD

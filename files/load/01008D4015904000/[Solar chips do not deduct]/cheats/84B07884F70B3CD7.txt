@@ -1,0 +1,2 @@
+[Solar chips do not deduct]
+010E0000 0166451A 0000001F

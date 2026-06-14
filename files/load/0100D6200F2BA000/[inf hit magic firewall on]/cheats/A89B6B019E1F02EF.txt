@@ -1,0 +1,2 @@
+[inf hit magic firewall on]
+04000000 00584420 1E27F000

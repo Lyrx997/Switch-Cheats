@@ -1,0 +1,2 @@
+[Highly toxic immunity after equipping any chip]
+04000000 0005EBA4 52800C88

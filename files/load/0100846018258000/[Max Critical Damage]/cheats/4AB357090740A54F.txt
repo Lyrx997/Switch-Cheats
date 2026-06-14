@@ -1,0 +1,2 @@
+[Max Critical Damage]
+040C0000 01E12250 14C29107

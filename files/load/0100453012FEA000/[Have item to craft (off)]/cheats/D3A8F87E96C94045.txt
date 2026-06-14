@@ -1,0 +1,2 @@
+[Have item to craft (off)]
+040A0000 01457634 940A680B

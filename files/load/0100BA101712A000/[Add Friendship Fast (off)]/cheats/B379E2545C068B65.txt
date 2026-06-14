@@ -1,0 +1,2 @@
+[Add Friendship Fast (off)]
+040A0000 0156A8C0 0B150295

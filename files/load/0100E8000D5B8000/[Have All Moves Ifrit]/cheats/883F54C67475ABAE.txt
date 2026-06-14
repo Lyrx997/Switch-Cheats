@@ -1,0 +1,2 @@
+[Have All Moves Ifrit]
+01100000 A080266A 000000FE

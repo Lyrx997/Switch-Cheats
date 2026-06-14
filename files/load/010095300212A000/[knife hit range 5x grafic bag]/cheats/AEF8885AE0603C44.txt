@@ -1,0 +1,2 @@
+[knife hit range 5x grafic bag]
+04000000 00B0E190 1E229002

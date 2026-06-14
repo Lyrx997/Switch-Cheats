@@ -1,0 +1,2 @@
+[No Crafting Material Requirement (off)]
+040A0000 008F49D4 2A0303F5

@@ -1,0 +1,2 @@
+[Item Pick-up Multiplier 4x]
+04000000 02351F68 0B161108

@@ -1,0 +1,2 @@
+[1p+enemies invicible ]
+04000000 014400F8 1E3E1000

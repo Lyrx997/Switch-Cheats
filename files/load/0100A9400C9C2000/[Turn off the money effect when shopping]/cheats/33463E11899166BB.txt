@@ -1,0 +1,3 @@
+[Turn off the money effect when shopping]
+04000000 000CB34C E0821001
+04000000 00154C60 E0820000

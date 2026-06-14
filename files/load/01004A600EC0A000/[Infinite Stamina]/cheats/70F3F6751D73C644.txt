@@ -1,0 +1,2 @@
+[Infinite Stamina]
+04000000 03FB6C38 D503201F

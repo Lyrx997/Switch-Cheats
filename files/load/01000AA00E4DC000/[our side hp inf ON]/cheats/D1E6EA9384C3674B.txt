@@ -1,0 +1,2 @@
+[our side hp inf ON]
+04000000 00191B38 D65F03C0

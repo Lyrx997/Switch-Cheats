@@ -1,0 +1,2 @@
+[HIT Max after equipping any chip]
+04000000 0005EAFC 52807D08

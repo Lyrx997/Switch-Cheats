@@ -1,0 +1,3 @@
+[07# Multiply items in refrigerator]
+04000000 003CA390 0B152129
+04000000 003CA4F0 0B0E21AD

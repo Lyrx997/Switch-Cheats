@@ -1,0 +1,2 @@
+[Enemy drops 9999 JobPoints]
+04000000 00285F98 5284E1F5

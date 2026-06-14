@@ -1,0 +1,7 @@
+[call only in game never dead L on pad R pad off change player]
+80000040
+04000000 00344670 D65F03C0
+20000000
+80000080
+04000000 00344670 D10083FF
+20000000

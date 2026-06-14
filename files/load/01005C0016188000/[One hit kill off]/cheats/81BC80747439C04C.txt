@@ -1,0 +1,2 @@
+[One hit kill off]
+04000000 01B4AFF8 BD001A60

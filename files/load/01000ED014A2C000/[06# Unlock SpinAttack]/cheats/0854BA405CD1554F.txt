@@ -1,0 +1,2 @@
+[06# Unlock SpinAttack]
+040A0000 01A0A1B0 52800029

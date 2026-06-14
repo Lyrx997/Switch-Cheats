@@ -1,0 +1,2 @@
+[Always Devil Trigger On (Infinite)]
+041F0000 A0805C93 07500000

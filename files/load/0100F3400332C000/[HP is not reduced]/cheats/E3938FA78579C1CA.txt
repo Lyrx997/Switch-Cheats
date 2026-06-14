@@ -1,0 +1,2 @@
+[HP is not reduced]
+040B0000 0051DFE4 4B180129

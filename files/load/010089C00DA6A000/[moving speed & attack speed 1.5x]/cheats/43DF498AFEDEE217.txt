@@ -1,0 +1,2 @@
+[moving speed & attack speed 1.5x]
+04000000 004AE7D0 1E2F1000

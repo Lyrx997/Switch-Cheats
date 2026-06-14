@@ -1,0 +1,2 @@
+[01# Remove Item Durability]
+04000000 008AB780 D65F03C0

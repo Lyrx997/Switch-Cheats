@@ -1,0 +1,2 @@
+[28# Money doesn't decrease]
+04000000 0137B94C 4B1F0108

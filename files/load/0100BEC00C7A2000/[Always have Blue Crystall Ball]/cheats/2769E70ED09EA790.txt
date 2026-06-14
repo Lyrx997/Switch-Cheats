@@ -1,0 +1,2 @@
+[Always have Blue Crystall Ball]
+01100000 01E8E344 00000087

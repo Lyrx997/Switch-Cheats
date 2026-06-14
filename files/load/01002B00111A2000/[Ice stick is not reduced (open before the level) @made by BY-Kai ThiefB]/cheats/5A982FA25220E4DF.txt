@@ -1,0 +1,2 @@
+[Ice stick is not reduced (open before the level) @made by BY-Kai ThiefB]
+040B0000 00667378 52807CEA

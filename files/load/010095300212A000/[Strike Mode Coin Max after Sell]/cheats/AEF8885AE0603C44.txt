@@ -1,0 +1,2 @@
+[Strike Mode Coin Max after Sell]
+04000000 0078F45C AA0803F5

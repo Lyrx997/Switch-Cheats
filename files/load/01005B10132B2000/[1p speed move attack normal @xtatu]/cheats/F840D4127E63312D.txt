@@ -1,0 +1,2 @@
+[1p speed move attack normal @xtatu]
+04000000 000E19A4 EEF70A00

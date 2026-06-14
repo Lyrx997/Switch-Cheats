@@ -1,0 +1,2 @@
+[Items are not reduced//Inf Item]
+04070000 0173E1FC 71000116

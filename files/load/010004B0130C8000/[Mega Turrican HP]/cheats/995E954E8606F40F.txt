@@ -1,0 +1,2 @@
+[Mega Turrican HP]
+01000000 00CDE0AE 00000040

@@ -1,0 +1,2 @@
+[No runeskill cooldowns]
+04000000 021F0598 1E2703E0

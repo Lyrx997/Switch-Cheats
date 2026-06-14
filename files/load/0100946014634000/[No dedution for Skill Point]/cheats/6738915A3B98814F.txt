@@ -1,0 +1,2 @@
+[No dedution for Skill Point]
+040E0000 01600178 1F0BA100

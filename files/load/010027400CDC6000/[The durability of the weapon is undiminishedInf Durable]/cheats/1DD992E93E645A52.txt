@@ -1,0 +1,2 @@
+[The durability of the weapon is undiminished//Inf Durable]
+04070000 01B7B210 52800015

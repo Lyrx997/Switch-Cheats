@@ -1,0 +1,2 @@
+[â„– 2. Unlimited Special Weapon Gauge]
+040E0000 0288D5B8 D503201F

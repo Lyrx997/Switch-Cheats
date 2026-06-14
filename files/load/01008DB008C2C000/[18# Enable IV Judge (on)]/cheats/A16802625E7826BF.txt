@@ -1,0 +1,2 @@
+[18# Enable IV Judge (on)]
+04000000 00ABD2E0 52800020

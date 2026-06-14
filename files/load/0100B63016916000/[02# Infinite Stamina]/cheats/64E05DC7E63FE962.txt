@@ -1,0 +1,2 @@
+[02# Infinite Stamina]
+040A0000 050D5FE8 00000002

@@ -1,0 +1,2 @@
+[hit range normal off @xtatu]
+04000000 004191F0 EEF65A00

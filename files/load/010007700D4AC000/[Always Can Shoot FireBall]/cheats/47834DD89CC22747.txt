@@ -1,0 +1,2 @@
+[Always Can Shoot FireBall]
+04000000 001C06A0 1E204001

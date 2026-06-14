@@ -1,0 +1,2 @@
+[inf user musou]
+04000000 00D68C90 D65F03C0

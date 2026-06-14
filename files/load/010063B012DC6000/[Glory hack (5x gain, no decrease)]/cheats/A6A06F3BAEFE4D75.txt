@@ -1,0 +1,2 @@
+[Glory hack (5x gain, no decrease)]
+040E0000 012689F4 94AE893B

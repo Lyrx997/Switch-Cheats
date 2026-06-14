@@ -1,0 +1,4 @@
+[inf heath & inf heath enemies off R pad]
+80000080
+04000000 013BB938 1E2E1002
+20000000

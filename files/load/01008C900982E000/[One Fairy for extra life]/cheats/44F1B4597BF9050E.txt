@@ -1,0 +1,2 @@
+[One Fairy for extra life]
+01100000 019C6238 00000009

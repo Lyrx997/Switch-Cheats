@@ -1,0 +1,2 @@
+[Next Star always 70000pts PL1]
+01100000 017F90BC 00000007

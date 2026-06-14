@@ -1,0 +1,2 @@
+[No decrease for Enchant in God Screen]
+040E0000 015902E0 17FFFF42

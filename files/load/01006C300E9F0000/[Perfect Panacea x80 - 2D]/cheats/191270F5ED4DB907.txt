@@ -1,0 +1,2 @@
+[Perfect Panacea x80 - 2D]
+04000000 08D65B60 0050000C

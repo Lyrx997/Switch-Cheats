@@ -1,0 +1,2 @@
+[lightning ring strengthen(normal weapon)]
+04000000 05697110 00005431

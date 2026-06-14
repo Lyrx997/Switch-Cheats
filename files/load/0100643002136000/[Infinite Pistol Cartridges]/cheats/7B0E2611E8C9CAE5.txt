@@ -1,0 +1,2 @@
+[Infinite Pistol Cartridges]
+01100000 2C2338C4 00000050

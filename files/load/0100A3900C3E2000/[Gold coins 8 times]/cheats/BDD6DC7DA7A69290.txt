@@ -1,0 +1,2 @@
+[Gold coins 8 times]
+040B0000 005223D0 0B080D4A

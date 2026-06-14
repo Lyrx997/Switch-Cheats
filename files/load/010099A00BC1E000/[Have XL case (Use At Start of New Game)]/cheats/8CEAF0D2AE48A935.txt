@@ -1,0 +1,2 @@
+[Have XL case (Use At Start of New Game)]
+02100000 2A6C9B80 0000007F

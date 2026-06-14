@@ -1,0 +1,2 @@
+[1p to enemies invicible fire,explosion,others off]
+04000000 0177E2C0 F81D0FF5

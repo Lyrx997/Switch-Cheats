@@ -1,0 +1,2 @@
+[Inf Stamina (off)]
+04000000 00D75450 6DBD23E9

@@ -1,0 +1,2 @@
+[Production facilities speed max]
+04000000 004A64E8 943F678E

@@ -1,0 +1,4 @@
+[Y pad desable invicible enemies hit]
+80000008
+04000000 014400F8 1E2E1000
+20000000

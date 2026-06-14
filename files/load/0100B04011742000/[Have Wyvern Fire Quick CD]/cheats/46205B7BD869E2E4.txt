@@ -1,0 +1,2 @@
+[Have Wyvern Fire Quick CD]
+04070000 02D06AEC D503201F

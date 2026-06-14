@@ -1,0 +1,2 @@
+[Optanic Samus Speed 1.5x]
+04100000 33D400F8 3FC00000

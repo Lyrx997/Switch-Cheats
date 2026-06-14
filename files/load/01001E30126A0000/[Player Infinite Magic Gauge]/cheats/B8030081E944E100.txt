@@ -1,0 +1,2 @@
+[Player Infinite Magic Gauge]
+04000000 09271890 00009C40

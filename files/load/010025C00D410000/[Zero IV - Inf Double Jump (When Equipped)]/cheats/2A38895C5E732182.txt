@@ -1,0 +1,2 @@
+[Zero IV - Inf Double Jump (When Equipped)]
+01000000 02FD5606 00000000

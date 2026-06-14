@@ -1,0 +1,2 @@
+[â„– 7. Max Detection Radius]
+010E0000 050C1FFD 00000001

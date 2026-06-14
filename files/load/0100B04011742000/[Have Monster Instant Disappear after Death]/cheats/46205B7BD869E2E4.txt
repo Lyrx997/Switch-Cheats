@@ -1,0 +1,2 @@
+[Have Monster Instant Disappear after Death]
+04070000 02E0D830 52800035

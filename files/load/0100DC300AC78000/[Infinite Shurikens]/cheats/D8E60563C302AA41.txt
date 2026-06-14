@@ -1,0 +1,3 @@
+[Infinite Shurikens]
+04100000 9534BEEC
+00000009

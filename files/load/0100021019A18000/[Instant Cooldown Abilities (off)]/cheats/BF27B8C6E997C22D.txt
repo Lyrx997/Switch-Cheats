@@ -1,0 +1,2 @@
+[Instant Cooldown Abilities (off)]
+040A0000 01AF0500 BD410808

@@ -1,0 +1,2 @@
+[equip lvl up skills no cost]
+04000000 0100AF8C 4B180001

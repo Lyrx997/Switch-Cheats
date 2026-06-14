@@ -1,0 +1,2 @@
+[only 1p attacks off]
+04000000 034C24C4 7100011F

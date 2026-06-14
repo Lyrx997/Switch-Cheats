@@ -1,0 +1,2 @@
+[skill upgrade limit off]
+04000000 0045AD9C 2A1F03E1

@@ -1,0 +1,2 @@
+[Slot 1 Max Critical]
+02000000 05DD657A 00006464

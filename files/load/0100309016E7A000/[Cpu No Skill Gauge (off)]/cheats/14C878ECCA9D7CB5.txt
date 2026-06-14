@@ -1,0 +1,2 @@
+[Cpu No Skill Gauge (off)]
+040A0000 017CB400 BD40C908

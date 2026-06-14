@@ -1,0 +1,2 @@
+[Max Vitality (Open Menu/Character)]
+040C0000 04286C14 9408342E

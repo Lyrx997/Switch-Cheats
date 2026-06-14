@@ -1,0 +1,2 @@
+[hit kill both]
+04000000 006B6B30 D65F03C0

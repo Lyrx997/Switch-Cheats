@@ -1,0 +1,2 @@
+[OFF Miner's cave mineral Availability]
+04000000 01723B48 0B020100

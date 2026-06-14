@@ -1,0 +1,2 @@
+[Upgrade to get 99 Blood Medal]
+04000000 003044CC 52800C62

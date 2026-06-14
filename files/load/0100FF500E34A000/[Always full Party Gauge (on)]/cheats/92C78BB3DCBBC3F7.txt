@@ -1,0 +1,2 @@
+[Always full Party Gauge (on)]
+040B0000 0054A114 1A89B128

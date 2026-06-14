@@ -1,0 +1,2 @@
+[Infinite Lives ignore icon display]
+01000000 00B5AEFD 00000001

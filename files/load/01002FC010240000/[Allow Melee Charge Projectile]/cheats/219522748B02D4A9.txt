@@ -1,0 +1,2 @@
+[Allow Melee Charge Projectile]
+040E0000 0059BC80 52800020

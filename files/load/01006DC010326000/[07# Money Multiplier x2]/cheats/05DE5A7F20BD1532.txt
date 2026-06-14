@@ -1,0 +1,2 @@
+[07# Money Multiplier x2]
+04000000 0099BE54 0B010508

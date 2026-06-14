@@ -1,0 +1,2 @@
+[enemy 1hit max musou]
+04000000 00CD5514 1E2C1009

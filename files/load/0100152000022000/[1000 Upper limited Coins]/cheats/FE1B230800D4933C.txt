@@ -1,0 +1,2 @@
+[1000 Upper limited Coins]
+040E0000 007E1F20 E3A05FFA

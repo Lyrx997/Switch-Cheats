@@ -1,0 +1,2 @@
+[EXC does not decrease after use]
+04000000 004D72A0 6B1F0128

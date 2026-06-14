@@ -1,0 +1,2 @@
+[Inf. Commandment Stones]
+040C0000 01989D50 52800033

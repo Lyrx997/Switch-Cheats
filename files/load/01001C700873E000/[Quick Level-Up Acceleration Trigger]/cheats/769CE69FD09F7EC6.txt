@@ -1,0 +1,2 @@
+[Quick Level-Up Acceleration Trigger]
+04000000 00AA06FC 52800020

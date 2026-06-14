@@ -1,0 +1,2 @@
+[Item no decrease]
+04000000 02921A1C D503201F

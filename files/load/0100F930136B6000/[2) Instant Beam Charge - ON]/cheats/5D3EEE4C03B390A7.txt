@@ -1,0 +1,2 @@
+[2) Instant Beam Charge - ON]
+040E0000 00D48884 BD043E60

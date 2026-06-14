@@ -1,0 +1,2 @@
+[#07. One-Hit-Kill (Itigeki)]
+040E0000 0083561C B940BE88

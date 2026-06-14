@@ -1,0 +1,2 @@
+[item no cooldown]
+040B0000 00523C34 1C4E95C0

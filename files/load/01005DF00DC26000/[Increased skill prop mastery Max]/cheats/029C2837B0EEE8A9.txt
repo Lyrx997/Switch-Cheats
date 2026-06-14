@@ -1,0 +1,2 @@
+[Increased skill / prop mastery Max]
+04000000 00A9B694 1A8CB18C

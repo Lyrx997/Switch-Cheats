@@ -1,0 +1,2 @@
+[noppon stone inf]
+040B0000 003518DC 1B1F7EB4

@@ -1,0 +1,2 @@
+[Inf Health And Armor (off)]
+040A0000 00FF3D18 BD44D780

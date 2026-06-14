@@ -1,0 +1,2 @@
+[character 10 defence]
+04000000 021228B4 0000270F

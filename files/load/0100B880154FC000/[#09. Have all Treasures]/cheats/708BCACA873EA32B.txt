@@ -1,0 +1,2 @@
+[#09. Have all Treasures]
+040E0000 0088C0EC 52800020

@@ -1,0 +1,2 @@
+[No reduction for Spending Residues]
+010E0000 006B9D72 0000001F

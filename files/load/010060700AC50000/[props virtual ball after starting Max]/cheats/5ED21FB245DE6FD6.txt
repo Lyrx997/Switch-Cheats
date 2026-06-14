@@ -1,0 +1,3 @@
+[props / virtual ball after starting Max]
+04000000 00241C90 9A8B256A
+04000000 00241D00 9A8B256A

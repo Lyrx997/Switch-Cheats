@@ -1,0 +1,2 @@
+[Moving Power Max (Official Enemy) OFF]
+04000000 000ACF14 1A88B2E0

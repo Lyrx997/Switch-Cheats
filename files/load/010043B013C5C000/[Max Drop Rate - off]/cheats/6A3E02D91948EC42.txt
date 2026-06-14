@@ -1,0 +1,2 @@
+[Max Drop Rate - off]
+040E0000 01FFAFCC 9412BE21

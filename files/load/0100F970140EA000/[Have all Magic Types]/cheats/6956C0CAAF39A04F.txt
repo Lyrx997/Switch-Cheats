@@ -1,0 +1,2 @@
+[Have all Magic Types]
+04000000 022957B0 52800C60

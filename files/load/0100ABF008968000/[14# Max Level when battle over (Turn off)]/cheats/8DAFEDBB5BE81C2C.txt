@@ -1,0 +1,2 @@
+[14# Max Level when battle over (Turn off)]
+04000000 007F27AC 0B010136

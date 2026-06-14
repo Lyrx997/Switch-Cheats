@@ -1,0 +1,2 @@
+[hit range 31x @xtatu]
+04000000 004191F0 EEF35A0F

@@ -1,0 +1,2 @@
+[02# Inf Stamina (off)]
+04000000 0349DDE8 BD01EAA8

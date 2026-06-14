@@ -1,0 +1,3 @@
+[Free adjustment of core crystal]
+040B0000 00312364 52800000
+040B0000 00312610 6B1F0128

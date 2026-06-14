@@ -1,0 +1,2 @@
+[Magic Beast Hide x80 - 2D]
+04000000 08D65CF8 00500072

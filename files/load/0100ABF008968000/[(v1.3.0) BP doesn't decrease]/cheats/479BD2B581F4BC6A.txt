@@ -1,0 +1,2 @@
+[(v1.3.0) BP doesn't decrease]
+04000000 014AD798 4B1F0101

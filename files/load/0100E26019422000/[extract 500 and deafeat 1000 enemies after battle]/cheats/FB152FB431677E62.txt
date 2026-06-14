@@ -1,0 +1,2 @@
+[extract 500 and deafeat 1000 enemies after battle]
+040B0000 0355B068 52807D08

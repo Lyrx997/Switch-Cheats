@@ -1,0 +1,2 @@
+[Start with full Laser]
+04100000 01CC1E50 00000F27

@@ -1,0 +1,2 @@
+[Always Encounter: #004 Charmander]
+08000000 00766F58 00000004 00000000

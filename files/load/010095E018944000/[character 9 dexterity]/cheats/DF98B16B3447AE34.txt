@@ -1,0 +1,2 @@
+[character 9 dexterity]
+04000000 0212222C 000003E7

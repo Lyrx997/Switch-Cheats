@@ -1,0 +1,4 @@
+[Invincible/Not working restart the game]
+581F0000 00A2FCD0
+780F0000 00001EA0
+640F0000 00000000 40000000

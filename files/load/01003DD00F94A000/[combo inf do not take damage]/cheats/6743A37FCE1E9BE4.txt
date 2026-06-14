@@ -1,0 +1,2 @@
+[combo inf do not take damage]
+04000000 00001778 D503201F

@@ -1,0 +1,4 @@
+[Infinite Arrows (Right Stick Down)]
+80800000
+01000000 01CC077F 0000001E
+20000000

@@ -1,0 +1,2 @@
+[4) Gems - increase normally]
+040E0000 003311C0 0B0A0108

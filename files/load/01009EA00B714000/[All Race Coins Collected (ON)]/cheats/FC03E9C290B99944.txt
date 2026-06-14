@@ -1,0 +1,2 @@
+[All Race Coins Collected (ON)]
+04000000 000DFF30 B9405C00

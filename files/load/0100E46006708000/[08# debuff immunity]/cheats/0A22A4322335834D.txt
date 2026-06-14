@@ -1,0 +1,2 @@
+[08# debuff immunity]
+04000000 00394A10 D65F03C0

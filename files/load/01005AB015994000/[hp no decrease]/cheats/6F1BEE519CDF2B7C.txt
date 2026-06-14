@@ -1,0 +1,2 @@
+[hp no decrease]
+04000000 0165AC88 D503201F

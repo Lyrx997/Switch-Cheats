@@ -1,0 +1,2 @@
+[o Clear Save Rebecca (Wesker Mode)]
+08100000 03BC4154 00000001 0400000C

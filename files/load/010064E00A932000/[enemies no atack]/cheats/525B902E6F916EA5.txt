@@ -1,0 +1,2 @@
+[enemies no atack]
+04000000 004A6770 D65F03C0

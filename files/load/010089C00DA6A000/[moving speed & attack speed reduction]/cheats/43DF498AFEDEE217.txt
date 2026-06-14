@@ -1,0 +1,2 @@
+[moving speed & attack speed reduction]
+04000000 004AE7D0 1E2E1000

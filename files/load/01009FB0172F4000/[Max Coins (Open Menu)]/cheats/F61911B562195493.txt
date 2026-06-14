@@ -1,0 +1,2 @@
+[Max Coins (Open Menu)]
+040C0000 00FAFC08 94D6429F

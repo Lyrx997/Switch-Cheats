@@ -1,0 +1,4 @@
+[Food and Tools (Type)(1st)]
+04100000 4BEFA024 0000XXXX
+XXXX = ID
+NEXT +10H

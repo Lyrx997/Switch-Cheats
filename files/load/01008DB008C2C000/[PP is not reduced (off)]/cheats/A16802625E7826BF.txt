@@ -1,0 +1,2 @@
+[PP is not reduced (off)]
+04000000 007E25B8 4B020142

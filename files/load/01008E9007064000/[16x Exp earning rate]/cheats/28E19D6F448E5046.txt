@@ -1,0 +1,2 @@
+[16x Exp earning rate]
+040E0000 005EE0D0 531C6C34

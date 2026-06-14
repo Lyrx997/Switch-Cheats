@@ -1,0 +1,5 @@
+[no one can die - press ZL to kill monster with empty bar]
+04000000 013ED660 52800020
+80000100
+04000000 013ED660 97DB6916
+20000000

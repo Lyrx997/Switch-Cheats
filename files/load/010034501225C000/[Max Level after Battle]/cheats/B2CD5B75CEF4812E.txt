@@ -1,0 +1,2 @@
+[Max Level after Battle]
+040C0000 002095A0 14498463

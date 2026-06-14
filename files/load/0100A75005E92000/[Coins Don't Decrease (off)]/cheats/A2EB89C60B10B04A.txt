@@ -1,0 +1,2 @@
+[Coins Don't Decrease (off)]
+040A0000 013E250C 4B010129

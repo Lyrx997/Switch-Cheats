@@ -1,0 +1,2 @@
+[Desativar captura automatica]
+04000000 004D6B3C 340000A8

@@ -1,0 +1,2 @@
+[#19. 2x Team Artifact Value Gained (Easy LV up)]
+040E0000 0082AC5C 8B010508

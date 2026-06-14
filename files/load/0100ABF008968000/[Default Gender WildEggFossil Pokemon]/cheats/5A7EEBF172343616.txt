@@ -1,0 +1,2 @@
+[Default Gender Wild/Egg/Fossil Pokemon]
+04000000 00770A88 79406261

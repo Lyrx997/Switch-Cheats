@@ -1,0 +1,2 @@
+[inf reload all ammo]
+04000000 00B285F0 D65F03C0

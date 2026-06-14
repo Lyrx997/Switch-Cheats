@@ -1,0 +1,2 @@
+[(Restore the original code)Timer stop(for emulator)]
+04000000 01DC6C08 1E202828

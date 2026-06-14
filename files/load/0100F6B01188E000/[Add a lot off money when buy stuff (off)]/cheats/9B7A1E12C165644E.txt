@@ -1,0 +1,3 @@
+[Add a lot off money when buy stuff (off)]
+04000000 0189458C D503201F
+04000000 01894590 CB010000

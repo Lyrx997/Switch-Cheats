@@ -1,0 +1,2 @@
+[Get Max EXP for Kill]
+04000000 002CEB98 52986A09

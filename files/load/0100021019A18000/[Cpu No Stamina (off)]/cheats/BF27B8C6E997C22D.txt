@@ -1,0 +1,2 @@
+[Cpu No Stamina (off)]
+040A0000 01BEBAAC BD40BA60

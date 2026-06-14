@@ -1,0 +1,3 @@
+[Off code (use after disabled cheats)]
+04000000 01E46498 BD40C660
+04000000 01E456B4 BD40CE61

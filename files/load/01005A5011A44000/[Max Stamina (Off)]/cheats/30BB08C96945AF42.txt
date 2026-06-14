@@ -1,0 +1,2 @@
+[Max Stamina (Off)]
+04000000 0049FB30 2A0003F5

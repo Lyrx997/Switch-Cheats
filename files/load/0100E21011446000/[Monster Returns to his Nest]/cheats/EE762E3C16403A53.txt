@@ -1,0 +1,2 @@
+[Monster Returns to his Nest]
+040C0000 00BD682C 52800C80

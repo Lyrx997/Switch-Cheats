@@ -1,0 +1,4 @@
+[The first item of the prop bag is constantly waving the house (???)]
+08000000 0601CC90 00000001 000000D2
+08000000 0601CC98 0000082F 00000002
+04000000 0601CCA0 01020109

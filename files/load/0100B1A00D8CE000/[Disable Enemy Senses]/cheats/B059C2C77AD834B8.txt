@@ -1,0 +1,2 @@
+[Disable Enemy Senses]
+040C0000 06904A58 00000000

@@ -1,0 +1,2 @@
+[Worshippers Max Loyalty]
+040C0000 02346B60 9492C428

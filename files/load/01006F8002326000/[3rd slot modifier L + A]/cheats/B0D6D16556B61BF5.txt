@@ -1,0 +1,3 @@
+[3rd slot modifier L + A]
+80000041
+04100000 AC3B90D0 0000

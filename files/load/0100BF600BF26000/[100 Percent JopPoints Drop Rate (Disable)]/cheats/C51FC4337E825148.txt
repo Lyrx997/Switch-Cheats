@@ -1,0 +1,2 @@
+[100 Percent JopPoints Drop Rate (Disable)]
+04000000 0000D120 B9405C00

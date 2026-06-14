@@ -1,0 +1,4 @@
+[ZL key to restore copper coin calculation (challenge mode)]
+80000100
+04000000 018A25A0 A900266A
+20000000

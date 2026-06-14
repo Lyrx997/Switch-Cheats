@@ -1,0 +1,2 @@
+[Max Costume Tiers (Open Menu)]
+040A0000 00FCBDC4 94D5F2A5

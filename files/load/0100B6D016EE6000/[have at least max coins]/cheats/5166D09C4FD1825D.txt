@@ -1,0 +1,2 @@
+[have at least max coins]
+04000000 01B8FE10 1A8AB129

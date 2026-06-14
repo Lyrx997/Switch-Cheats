@@ -1,0 +1,2 @@
+[spirir gauge inf (sheathe wpn to OFF)]
+04000000 001CE7F4 1E204100

@@ -1,0 +1,5 @@
+[Experience increased after browsing synthetic interface weapons @made by BY-Kai ThiefB]
+040B0000 019663C0 B9000AF8
+040B0000 019663C4 2A1603E0
+040B0000 019663C8 D65F03C0
+040B0000 00BDEEB8 94361D42

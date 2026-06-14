@@ -1,0 +1,2 @@
+[Defense Rate Disable]
+040C0000 037C6F98 1E215800

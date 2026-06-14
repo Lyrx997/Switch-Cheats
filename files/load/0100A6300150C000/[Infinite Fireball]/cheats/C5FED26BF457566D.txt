@@ -1,0 +1,3 @@
+[Infinite Fireball]
+01000000 002DD306
+00000009

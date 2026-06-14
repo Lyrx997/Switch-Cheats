@@ -1,0 +1,2 @@
+[Attack Range Extender Distancee 10x]
+04000000 0231DE94 1E249000

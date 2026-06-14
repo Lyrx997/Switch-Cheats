@@ -1,0 +1,2 @@
+[Shining Crystal 99]
+04000000 00E0FBBE 000003E7

@@ -1,0 +1,2 @@
+[(v1.2.0) Watts doesn't decrease]
+04000000 01400AEC 4B1F0108

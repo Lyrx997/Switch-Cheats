@@ -1,0 +1,2 @@
+[Freeze SkillPoints off]
+04000000 01BB5920 51000508

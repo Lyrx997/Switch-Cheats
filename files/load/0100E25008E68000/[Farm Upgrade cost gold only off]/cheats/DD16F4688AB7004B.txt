@@ -1,0 +1,2 @@
+[Farm Upgrade cost gold only off]
+04000000 00A191F0 D101C3FF

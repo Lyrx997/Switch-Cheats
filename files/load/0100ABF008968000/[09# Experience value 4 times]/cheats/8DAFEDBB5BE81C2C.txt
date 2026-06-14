@@ -1,0 +1,2 @@
+[09# Experience value 4 times]
+04000000 007F27AC 0B010936

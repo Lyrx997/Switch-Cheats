@@ -1,0 +1,2 @@
+[Can turn in quest with incomplete objective?]
+040B0000 0127C314 6A09013F

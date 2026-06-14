@@ -1,0 +1,2 @@
+[Max weapon attack x10]
+04000000 049A9FF0 0000000A

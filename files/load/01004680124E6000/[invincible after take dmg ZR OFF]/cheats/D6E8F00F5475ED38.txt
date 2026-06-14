@@ -1,0 +1,4 @@
+[invincible after take dmg ZR OFF]
+80000200
+040B0000 0061EF90 BD4AC2C1
+20000000

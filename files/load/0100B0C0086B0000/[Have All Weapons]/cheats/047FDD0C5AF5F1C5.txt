@@ -1,0 +1,2 @@
+[Have All Weapons]
+02100000 0D52C9C8 000007FF

@@ -1,0 +1,2 @@
+[100 Percent BuddyPoints Drop Rate (Enable)]
+04000000 0000D160 52800C80

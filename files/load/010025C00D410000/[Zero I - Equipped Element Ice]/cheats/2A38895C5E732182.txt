@@ -1,0 +1,2 @@
+[Zero I - Equipped Element Ice]
+01000000 02FB66DD 00000003

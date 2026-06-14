@@ -1,0 +1,2 @@
+[Slot machine score 8 times]
+040B0000 0064FBF4 0B090D4A

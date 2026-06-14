@@ -1,0 +1,2 @@
+[No Restart Penalty]
+04000000 010D03B0 940000CE

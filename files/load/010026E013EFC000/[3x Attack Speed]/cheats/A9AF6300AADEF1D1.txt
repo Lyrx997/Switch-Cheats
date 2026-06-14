@@ -1,0 +1,2 @@
+[3x Attack Speed]
+040E0000 01B675C0 1CFFFE6C

@@ -1,0 +1,3 @@
+[10 times the amount of Ethereum obtained from slot machines]
+040B0000 0064FC8C 1100294A
+040B0000 0064FC9C 1100294A

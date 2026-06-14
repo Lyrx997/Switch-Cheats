@@ -1,0 +1,2 @@
+[Always have Gold Necklace]
+01100000 01E8E343 0000008B

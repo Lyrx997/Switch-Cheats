@@ -1,0 +1,2 @@
+[One-Hit kill enemy]
+040E0000 0196E634 D503201F

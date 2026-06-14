@@ -1,0 +1,2 @@
+[Equipment Bag 1st slot -2D ONLY]
+04000000 08D65E00 0002013F

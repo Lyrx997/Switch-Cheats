@@ -1,0 +1,5 @@
+[Press the A button and hit 100% after selecting the target]
+04000000 000D59D8 1A89B100
+80000001
+04000000 000D59D8 1A89B120
+20000000

@@ -1,0 +1,2 @@
+[add shield -> max shield]
+04000000 0157D938 52807CF4

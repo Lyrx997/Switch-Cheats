@@ -1,0 +1,2 @@
+[Worshippers max Loyalty after Blessing]
+080C0000 01EFF9A4 1E200800 1E249000

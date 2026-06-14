@@ -1,0 +1,4 @@
+[Invincible (Press Dpad-Left to open Doors/Menus/Interact)]
+04100000 A0805864 00000009
+80001000 04100000 A0805864 00000000
+20000000

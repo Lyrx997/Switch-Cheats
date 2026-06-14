@@ -1,0 +1,2 @@
+[Money no decrease when buying]
+04000000 025707F0 D503201F

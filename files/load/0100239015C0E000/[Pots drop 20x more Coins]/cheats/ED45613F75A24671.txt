@@ -1,0 +1,2 @@
+[Pots drop 20x more Coins]
+040C0000 043CC570 94031DEA

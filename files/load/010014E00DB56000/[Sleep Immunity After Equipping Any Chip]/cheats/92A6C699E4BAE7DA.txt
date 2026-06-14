@@ -1,0 +1,2 @@
+[Sleep Immunity After Equipping Any Chip]
+04000000 0005EBCC 52800C88

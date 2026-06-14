@@ -1,0 +1,2 @@
+[ 1p invicible X pad special work hit+Walk through Walls]
+04000000 002CEB20 D65F03C0

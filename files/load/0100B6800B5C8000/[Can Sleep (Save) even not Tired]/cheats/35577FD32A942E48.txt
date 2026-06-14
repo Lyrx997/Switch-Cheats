@@ -1,0 +1,2 @@
+[Can Sleep (Save) even not Tired]
+040E0000 0034074C 1400000A

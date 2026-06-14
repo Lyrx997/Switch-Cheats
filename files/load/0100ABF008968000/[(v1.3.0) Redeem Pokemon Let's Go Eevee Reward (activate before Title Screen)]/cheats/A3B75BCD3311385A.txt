@@ -1,0 +1,2 @@
+[(v1.3.0) Redeem Pokemon Let's Go Eevee Reward (activate before Title Screen)]
+04000000 00C87E68 6B1F011F

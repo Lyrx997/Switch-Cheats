@@ -1,0 +1,3 @@
+[All Essences are available during Essence Fusion]
+040B0000 0136EFFC 1400004D
+040B0000 01370A94 52800020

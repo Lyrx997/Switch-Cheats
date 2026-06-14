@@ -1,0 +1,2 @@
+[(v1.2.0) Redeem Pokemon Quest Reward (activate before Title Screen)]
+04000000 00C78F24 6B1F011F

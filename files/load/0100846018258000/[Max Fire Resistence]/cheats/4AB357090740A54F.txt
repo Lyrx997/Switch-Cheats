@@ -1,0 +1,2 @@
+[Max Fire Resistence]
+040C0000 01E122B0 14C290EF

@@ -1,0 +1,2 @@
+[Hand Item Slot 7 x99]
+021F0000 41C84ACA 00000063

@@ -1,0 +1,4 @@
+[#10. (LStick) Add Shield (Absorbs 10 Hits)]
+80000010
+010F0000 0213CFC8 0000000A
+20000000

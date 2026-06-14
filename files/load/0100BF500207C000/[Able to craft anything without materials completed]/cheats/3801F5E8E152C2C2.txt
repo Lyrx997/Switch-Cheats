@@ -1,0 +1,3 @@
+[Able to craft anything without materials completed]
+04000000 000CA638
+0A080120

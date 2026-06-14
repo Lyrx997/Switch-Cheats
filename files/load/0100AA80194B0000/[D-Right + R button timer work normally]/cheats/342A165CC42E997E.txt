@@ -1,0 +1,4 @@
+[D-Right + R button timer work normally]
+80004080
+04000000 00001AD4 1E202820
+20000000

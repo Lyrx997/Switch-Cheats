@@ -1,0 +1,3 @@
+[all cpu no move]
+04000000 002D8E30 D65F03C0
+BOSS NO WORK

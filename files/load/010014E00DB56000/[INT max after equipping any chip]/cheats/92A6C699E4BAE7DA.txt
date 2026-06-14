@@ -1,0 +1,2 @@
+[INT max after equipping any chip]
+04000000 0005EAE0 52807D08

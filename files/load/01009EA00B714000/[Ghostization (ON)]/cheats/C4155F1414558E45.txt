@@ -1,0 +1,2 @@
+[Ghostization (ON)]
+04000000 002D7E50 D65F03C0

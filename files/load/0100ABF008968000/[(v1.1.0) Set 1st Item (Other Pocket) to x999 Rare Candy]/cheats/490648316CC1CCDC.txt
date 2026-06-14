@@ -1,0 +1,2 @@
+[(v1.1.0) Set 1st Item (Other Pocket) to x999 Rare Candy]
+04100000 42934CC0 01F38032

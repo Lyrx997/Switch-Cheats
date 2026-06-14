@@ -1,0 +1,2 @@
+[Feche bloqueios de material como furador de gemas]
+04000000 0046EFA4 CB130113

@@ -1,0 +1,2 @@
+[Max Money after change]
+04000000 00067F54 1A89B128

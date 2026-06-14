@@ -1,0 +1,2 @@
+[Max EXP After Battle]
+04100000 76D396C0 05F5E0FF

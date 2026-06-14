@@ -1,0 +1,3 @@
+[get money from chest to have max]
+04000000 00985480 52993FE9
+04000000 00985484 72A77349

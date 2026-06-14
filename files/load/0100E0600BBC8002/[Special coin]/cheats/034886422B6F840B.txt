@@ -1,0 +1,2 @@
+[Special coin]
+041F0000 909D6E28 000F423F

@@ -1,0 +1,2 @@
+[Experience value 8 times]
+04000000 00A72DFC 0B010D08

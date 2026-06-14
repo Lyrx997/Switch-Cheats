@@ -1,0 +1,2 @@
+[â„– 7. Red Spirit Stone do not decrease]
+040E0000 008A0350 D503201F

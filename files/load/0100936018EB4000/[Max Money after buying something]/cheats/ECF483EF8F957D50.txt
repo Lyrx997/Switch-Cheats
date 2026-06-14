@@ -1,0 +1,2 @@
+[Max Money after buying something]
+040C0000 00A312B0 940BAE8C

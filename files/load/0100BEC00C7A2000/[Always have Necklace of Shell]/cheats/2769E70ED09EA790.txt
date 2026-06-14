@@ -1,0 +1,2 @@
+[Always have Necklace of Shell]
+01100000 01E8E349 00000087

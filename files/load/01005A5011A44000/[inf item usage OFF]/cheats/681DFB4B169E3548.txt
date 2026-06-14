@@ -1,0 +1,2 @@
+[inf item usage OFF]
+04000000 018663FC 4B0002E0

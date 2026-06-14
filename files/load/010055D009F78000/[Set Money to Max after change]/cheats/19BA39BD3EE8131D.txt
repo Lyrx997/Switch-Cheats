@@ -1,0 +1,2 @@
+[Set Money to Max after change]
+04000000 003A25B0 1A893128

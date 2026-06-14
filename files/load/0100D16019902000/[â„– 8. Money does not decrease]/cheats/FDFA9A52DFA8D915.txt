@@ -1,0 +1,2 @@
+[â„– 8. Money does not decrease]
+040E0000 008D2780 4B1F0100

@@ -1,0 +1,2 @@
+[Enable Hidden Characters Smoker1]
+01000000 0125D66B 00000001

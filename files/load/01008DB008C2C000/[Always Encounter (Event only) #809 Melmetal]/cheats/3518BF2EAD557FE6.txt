@@ -1,0 +1,2 @@
+[Always Encounter (Event only): #809 Melmetal]
+08000000 007709E8 00000329 00000000

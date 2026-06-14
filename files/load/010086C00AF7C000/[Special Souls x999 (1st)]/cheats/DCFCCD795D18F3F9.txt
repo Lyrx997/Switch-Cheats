@@ -1,0 +1,3 @@
+[Special Souls x999 (1st)]
+02100000 4BF04B64 000003E7
+NEXT +10H

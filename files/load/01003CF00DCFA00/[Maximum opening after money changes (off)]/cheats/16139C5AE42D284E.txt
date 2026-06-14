@@ -1,0 +1,2 @@
+[Maximum opening after money changes (off)]
+04000000 00B26D34 9A8BB14B

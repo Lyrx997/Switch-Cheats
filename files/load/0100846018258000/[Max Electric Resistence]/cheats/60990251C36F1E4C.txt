@@ -1,0 +1,2 @@
+[Max Electric Resistence]
+040C0000 020E93F0 14B73463

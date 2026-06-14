@@ -1,0 +1,2 @@
+[Flame no Overheat]
+04070000 00EA8F7C 1E204020

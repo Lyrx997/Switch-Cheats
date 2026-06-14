@@ -1,0 +1,2 @@
+[Skill points no reduction(off)]
+04000000 015984C8 4B080128

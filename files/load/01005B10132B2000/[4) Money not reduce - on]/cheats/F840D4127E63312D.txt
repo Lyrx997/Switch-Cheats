@@ -1,0 +1,2 @@
+[4) Money not reduce - on]
+040E0000 00165144 E1A01002

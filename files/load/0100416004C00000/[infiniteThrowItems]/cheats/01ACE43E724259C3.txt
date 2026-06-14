@@ -1,0 +1,2 @@
+[infiniteThrowItems]
+04000000 073BB420 00000001

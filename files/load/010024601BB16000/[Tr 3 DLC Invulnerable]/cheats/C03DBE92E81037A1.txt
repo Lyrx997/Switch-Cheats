@@ -1,0 +1,2 @@
+[Tr 3 DLC Invulnerable]
+04000000 00DA3CCE 000003E8

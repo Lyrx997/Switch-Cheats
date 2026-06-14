@@ -1,0 +1,2 @@
+[Inf Item in Hand]
+04000000 0026ACA4 4B1F0129

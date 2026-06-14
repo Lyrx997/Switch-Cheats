@@ -1,0 +1,2 @@
+[Start with full Mega Bombs]
+04100000 01CC1E54 00000F27

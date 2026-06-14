@@ -1,0 +1,2 @@
+[Superior Medicine x80 - 2D]
+04000000 08D65B3C 00500003

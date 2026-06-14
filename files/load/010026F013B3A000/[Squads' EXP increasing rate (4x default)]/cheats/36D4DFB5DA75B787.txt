@@ -1,0 +1,2 @@
+[Squads' EXP increasing rate (4x default)]
+010E0000 01DBA06D 00000009

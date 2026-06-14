@@ -1,0 +1,2 @@
+[damager 31x 1p to enermies]
+04000000 00912EB4 1E27F000

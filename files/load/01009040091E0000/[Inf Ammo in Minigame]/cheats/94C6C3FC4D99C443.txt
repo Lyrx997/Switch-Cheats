@@ -1,0 +1,2 @@
+[Inf Ammo in Minigame]
+04000000 0108D40C D503201F

@@ -1,0 +1,2 @@
+[Mana not decrease - parliament]
+040F0000 00666478 4B0803E8

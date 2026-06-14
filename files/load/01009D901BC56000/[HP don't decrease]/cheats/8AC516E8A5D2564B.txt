@@ -1,0 +1,2 @@
+[HP don't decrease]
+04000000 023C76A0 D503201F

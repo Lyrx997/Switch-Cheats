@@ -1,0 +1,2 @@
+[Begin With Invincibility]
+01000000 001A3BA8 00000029

@@ -1,0 +1,2 @@
+[Money doesnt decrease]
+04000000 00E5141C D503201F

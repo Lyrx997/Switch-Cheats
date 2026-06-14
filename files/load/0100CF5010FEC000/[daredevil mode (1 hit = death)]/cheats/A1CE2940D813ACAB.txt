@@ -1,0 +1,2 @@
+[daredevil mode (1 hit = death)]
+04000000 00972AC4 4B0A014A

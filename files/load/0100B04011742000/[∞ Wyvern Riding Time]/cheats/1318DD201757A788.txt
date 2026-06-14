@@ -1,0 +1,2 @@
+[∞ Wyvern Riding Time]
+040C0000 0317DE40 1E222840

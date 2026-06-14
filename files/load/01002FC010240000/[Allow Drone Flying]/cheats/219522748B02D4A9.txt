@@ -1,0 +1,2 @@
+[Allow Drone Flying]
+040E0000 0059BB10 52800020

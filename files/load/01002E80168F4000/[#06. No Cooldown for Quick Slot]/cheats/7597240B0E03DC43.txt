@@ -1,0 +1,2 @@
+[#06. No Cooldown for Quick Slot]
+040E0000 01B0E064 1E2703E0

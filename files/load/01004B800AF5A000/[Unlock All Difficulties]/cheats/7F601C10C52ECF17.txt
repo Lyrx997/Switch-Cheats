@@ -1,0 +1,2 @@
+[Unlock All Difficulties]
+01100000 00A4619C 000000FF

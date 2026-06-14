@@ -1,0 +1,2 @@
+[Secondary Weapon Inf]
+04000000 001134A8 D503201F

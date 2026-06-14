@@ -1,0 +1,2 @@
+[Max Groove at Battle Start]
+040E0000 0156B1E4 52807CE8

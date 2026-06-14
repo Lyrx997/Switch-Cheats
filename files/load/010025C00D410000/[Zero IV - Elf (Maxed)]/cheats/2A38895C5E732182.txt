@@ -1,0 +1,2 @@
+[Zero IV - Elf (Maxed)]
+01000000 02FD55AC 00000007

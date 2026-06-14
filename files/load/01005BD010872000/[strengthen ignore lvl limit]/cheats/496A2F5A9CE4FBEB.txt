@@ -1,0 +1,2 @@
+[strengthen ignore lvl limit]
+040B0000 007492FC 52800C68

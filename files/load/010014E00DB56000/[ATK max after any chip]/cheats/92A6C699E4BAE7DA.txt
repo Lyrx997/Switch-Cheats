@@ -1,0 +1,2 @@
+[ATK max after any chip]
+04000000 0005EAC4 52807D08

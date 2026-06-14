@@ -1,0 +1,2 @@
+[Player Infinite Moon Gauge]
+04000000 092721EC 00002710

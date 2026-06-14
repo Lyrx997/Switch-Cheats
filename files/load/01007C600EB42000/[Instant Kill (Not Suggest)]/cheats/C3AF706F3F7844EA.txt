@@ -1,0 +1,2 @@
+[Instant Kill (Not Suggest)]
+010E0000 019561D0 0000001F

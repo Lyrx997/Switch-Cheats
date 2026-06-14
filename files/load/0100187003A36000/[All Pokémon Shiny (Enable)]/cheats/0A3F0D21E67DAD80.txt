@@ -1,0 +1,2 @@
+[All Pokémon Shiny (Enable)]
+04000000 007399F4 14000027

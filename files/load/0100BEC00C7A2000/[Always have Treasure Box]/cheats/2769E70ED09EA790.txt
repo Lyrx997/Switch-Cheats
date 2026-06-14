@@ -1,0 +1,2 @@
+[Always have Treasure Box]
+01100000 01E8E344 0000008F

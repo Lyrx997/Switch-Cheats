@@ -1,0 +1,2 @@
+[Max Ingredient when collect]
+040E0000 0199AFDC B9407A77

@@ -1,0 +1,2 @@
+[No decrease for Items sold (for earn soul)]
+040E0000 004FCB04 2A1F03F5

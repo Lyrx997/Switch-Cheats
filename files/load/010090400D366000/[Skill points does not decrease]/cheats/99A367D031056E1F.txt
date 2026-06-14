@@ -1,0 +1,2 @@
+[Skill points does not decrease]
+04000000 0052DF54 71000108

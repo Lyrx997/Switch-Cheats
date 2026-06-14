@@ -1,0 +1,4 @@
+[(L3) Insta-Kill Highlighted Unit (Team + Enemies)]
+80000010
+040C0000 005BC210 9424CC8A
+20000000

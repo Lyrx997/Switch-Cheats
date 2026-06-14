@@ -1,0 +1,2 @@
+[L.Gem Upgrade Reward Not reduced ON]
+04000000 00864F3C 710002E1

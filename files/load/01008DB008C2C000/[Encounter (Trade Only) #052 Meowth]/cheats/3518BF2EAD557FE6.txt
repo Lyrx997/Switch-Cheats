@@ -1,0 +1,2 @@
+[Encounter (Trade Only): #052 Meowth]
+08000000 007709E8 00000034 00000000

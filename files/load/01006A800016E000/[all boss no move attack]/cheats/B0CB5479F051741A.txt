@@ -1,0 +1,2 @@
+[all boss no move attack]
+04000000 01536DA0 D65F03C0

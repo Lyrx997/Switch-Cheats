@@ -1,0 +1,2 @@
+[Gold increases instead of decrease]
+04000000 009F5414 2B010108

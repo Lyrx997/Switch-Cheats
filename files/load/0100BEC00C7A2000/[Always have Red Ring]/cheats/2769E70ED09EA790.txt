@@ -1,0 +1,2 @@
+[Always have Red Ring]
+01100000 01E8E342 0000008B

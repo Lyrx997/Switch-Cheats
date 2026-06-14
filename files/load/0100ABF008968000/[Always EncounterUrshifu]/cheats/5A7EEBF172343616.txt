@@ -1,0 +1,2 @@
+[Always Encounter:Urshifu]
+08000000 007709E8 0000037C 00000002

@@ -1,0 +1,4 @@
+[Weapons with Status Projectile shots does not decrease]
+04000000 01B83304 D503201F
+04000000 01B83308 D503201F
+04000000 01B83300 D503201F

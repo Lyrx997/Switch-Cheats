@@ -1,0 +1,2 @@
+[acceleration SLOW 0.5X]
+04000000 014D4C50 1E2C1000

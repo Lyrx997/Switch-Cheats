@@ -1,0 +1,2 @@
+[Dark properties free of injury after equipping any chip]
+04000000 0005EB88 52800C88

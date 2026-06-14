@@ -1,0 +1,2 @@
+[Player Infinite Magic Circuit Count]
+04000000 0925A9F8 00009C40

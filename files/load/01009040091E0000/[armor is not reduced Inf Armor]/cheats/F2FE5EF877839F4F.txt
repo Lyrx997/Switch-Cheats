@@ -1,0 +1,3 @@
+[armor is not reduced / / Inf Armor]
+04000000 00D90D88 1E2703E0
+04000000 00D90D8C 1400000B

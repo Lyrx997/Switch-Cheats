@@ -1,0 +1,2 @@
+[The enemy takes damageÃ—10]
+04000000 015AFA64 0000000A

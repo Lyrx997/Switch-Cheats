@@ -1,0 +1,2 @@
+[13# No Crafting Material Requirement]
+040A0000 008F49D4 52800015

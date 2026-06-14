@@ -1,0 +1,2 @@
+[No reduction for DNA]
+040E0000 0094456C 4B1F0141

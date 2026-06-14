@@ -1,0 +1,2 @@
+[Golden Axe Infinite HP]
+01000000 030FA837 00000050

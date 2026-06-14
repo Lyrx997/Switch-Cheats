@@ -1,0 +1,2 @@
+[100 Percent JopPoints Drop Rate (Enable)]
+04000000 0000D120 52800C80

@@ -1,0 +1,4 @@
+[No damage (Right-Stick press in)]
+80000020
+040E0000 01627318 2A1F03E9
+20000000

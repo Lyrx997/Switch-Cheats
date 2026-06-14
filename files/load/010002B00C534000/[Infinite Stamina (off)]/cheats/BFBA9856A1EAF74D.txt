@@ -1,0 +1,2 @@
+[Infinite Stamina (off)]
+04000000 01A87730 6DBC23E9

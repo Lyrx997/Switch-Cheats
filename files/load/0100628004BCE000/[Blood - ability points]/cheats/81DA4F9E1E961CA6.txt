@@ -1,0 +1,2 @@
+[Blood - ability points]
+041E0000 34B497B0 0000270F

@@ -1,0 +1,2 @@
+[Enemy drops Normal Amount JobPoints]
+04000000 00285F98 2A0103F5

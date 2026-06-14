@@ -1,0 +1,2 @@
+[Capability Beads/Credit Points Increase Max]
+04000000 00241C4C 9A8C258A

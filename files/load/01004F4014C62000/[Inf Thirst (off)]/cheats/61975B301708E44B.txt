@@ -1,0 +1,2 @@
+[Inf Thirst (off)]
+040A0000 018FAD84 BD005668

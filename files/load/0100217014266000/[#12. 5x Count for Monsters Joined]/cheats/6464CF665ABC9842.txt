@@ -1,0 +1,2 @@
+[#12. 5x Count for Monsters Joined]
+040E0000 00826328 0B020853

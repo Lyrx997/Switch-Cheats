@@ -1,0 +1,2 @@
+[12# Inf Fire extinguisher]
+040A0000 02DE5CAC 1E282920

@@ -1,0 +1,2 @@
+[Always Barrier All Powers PL1]
+01100000 017F90EE 0000001F

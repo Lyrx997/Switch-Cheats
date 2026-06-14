@@ -1,0 +1,2 @@
+[3x stamina Cooldown Rate]
+040E0000 01B675CC 1CFFFE0D

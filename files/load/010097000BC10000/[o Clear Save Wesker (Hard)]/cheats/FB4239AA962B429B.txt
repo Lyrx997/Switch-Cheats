@@ -1,0 +1,2 @@
+[o Clear Save Wesker (Hard)]
+08100000 03BC4154 00000000 0202000C

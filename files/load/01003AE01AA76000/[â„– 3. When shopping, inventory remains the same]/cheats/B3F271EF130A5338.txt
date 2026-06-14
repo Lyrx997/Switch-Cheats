@@ -1,0 +1,2 @@
+[â„– 3. When shopping, inventory remains the same]
+040E0000 00DE29D8 4B1F0149

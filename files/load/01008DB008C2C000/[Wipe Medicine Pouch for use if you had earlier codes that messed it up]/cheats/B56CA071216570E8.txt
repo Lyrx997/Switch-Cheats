@@ -1,0 +1,5 @@
+[Wipe Medicine Pouch for use if you had earlier codes that messed it up]
+300F0000 0000003A
+041A0000 429349C8 00000000
+740A0000 00000004
+310F0000

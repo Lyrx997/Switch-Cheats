@@ -1,0 +1,2 @@
+[spirir gauge x16]
+04000000 001CDD3C 0B1412E8

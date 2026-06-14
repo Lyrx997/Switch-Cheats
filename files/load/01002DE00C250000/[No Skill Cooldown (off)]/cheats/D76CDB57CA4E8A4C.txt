@@ -1,0 +1,2 @@
+[No Skill Cooldown (off)]
+04000000 001F2224 2A1F03E0

@@ -1,0 +1,2 @@
+[Virtua Fighter Infinite Health]
+040F0000 030F8688 8070001C

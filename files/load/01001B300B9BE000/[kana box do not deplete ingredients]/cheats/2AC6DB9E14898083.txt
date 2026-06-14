@@ -1,0 +1,2 @@
+[kana box do not deplete ingredients]
+04000000 0085B920 D65F03C0

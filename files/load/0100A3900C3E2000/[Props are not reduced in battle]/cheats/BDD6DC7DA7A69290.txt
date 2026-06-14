@@ -1,0 +1,3 @@
+[Props are not reduced in battle]
+040B0000 003EA800 7100016C
+040B0000 004851EC 710001AE

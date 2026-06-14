@@ -1,0 +1,3 @@
+[The Soul of Youkai (Gold) x99 (1st)]
+01100000 4BF051A8 00000063
+NEXT +18H

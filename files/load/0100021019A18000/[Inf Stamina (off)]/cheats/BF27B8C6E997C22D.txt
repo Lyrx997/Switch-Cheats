@@ -1,0 +1,2 @@
+[Inf Stamina (off)]
+040A0000 01BEBA4C 39430668

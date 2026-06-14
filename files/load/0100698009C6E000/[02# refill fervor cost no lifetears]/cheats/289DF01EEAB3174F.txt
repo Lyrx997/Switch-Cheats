@@ -1,0 +1,3 @@
+[02# refill fervor cost no life/tears]
+04000000 0047C810 1E2703E9
+04000000 0047C8F4 D503201F

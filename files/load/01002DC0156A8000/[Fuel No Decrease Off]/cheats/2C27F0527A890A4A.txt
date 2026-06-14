@@ -1,0 +1,2 @@
+[Fuel No Decrease Off]
+04000000 016588E8 1E203900

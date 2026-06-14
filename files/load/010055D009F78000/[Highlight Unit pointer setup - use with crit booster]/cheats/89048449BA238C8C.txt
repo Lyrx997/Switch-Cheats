@@ -1,0 +1,3 @@
+[Highlight Unit pointer setup - use with crit booster]
+580B0000 01ACA288
+580B1000 00021068

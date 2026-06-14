@@ -1,0 +1,2 @@
+[Unlock Challenge Mode Sound Mode]
+01000000 00B32BC0 00000007

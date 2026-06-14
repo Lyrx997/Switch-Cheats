@@ -1,0 +1,2 @@
+[Freeze Mana - Disable]
+04000000 0051C710 FC1D0FE8

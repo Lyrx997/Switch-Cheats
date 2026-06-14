@@ -1,0 +1,2 @@
+[strong status do not disappear]
+04000000 00454DBC 79046E60

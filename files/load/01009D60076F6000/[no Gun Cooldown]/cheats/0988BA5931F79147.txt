@@ -1,0 +1,2 @@
+[no Gun Cooldown]
+04000000 005EE90C D503201F

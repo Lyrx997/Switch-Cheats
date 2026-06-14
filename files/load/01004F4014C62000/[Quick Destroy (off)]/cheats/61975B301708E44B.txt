@@ -1,0 +1,2 @@
+[Quick Destroy (off)]
+040A0000 016470D0 BD406C00

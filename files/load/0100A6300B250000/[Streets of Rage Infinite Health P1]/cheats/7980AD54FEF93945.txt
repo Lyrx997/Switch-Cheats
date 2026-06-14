@@ -1,0 +1,2 @@
+[Streets of Rage Infinite Health P1]
+010F0000 030F61DA 00000054

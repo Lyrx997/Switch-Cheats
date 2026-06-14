@@ -1,0 +1,2 @@
+[Materia Slot 1 MP Turbo]
+04100000 63C9E8B4 FFFFFF1A

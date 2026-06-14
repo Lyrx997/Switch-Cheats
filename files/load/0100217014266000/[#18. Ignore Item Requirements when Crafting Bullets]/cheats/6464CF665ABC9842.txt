@@ -1,0 +1,3 @@
+[#18. Ignore Item Requirements when Crafting Bullets]
+040E0000 00AA923C 52800C80
+040E0000 00ADC76C 52800C80

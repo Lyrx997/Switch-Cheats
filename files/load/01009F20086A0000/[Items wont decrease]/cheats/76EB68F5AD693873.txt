@@ -1,0 +1,2 @@
+[Items wont decrease]
+040A0000 024D7860 51000108

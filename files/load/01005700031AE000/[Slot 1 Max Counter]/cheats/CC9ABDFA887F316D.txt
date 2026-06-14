@@ -1,0 +1,2 @@
+[Slot 1 Max Counter]
+02000000 05DD6576 00000A0A

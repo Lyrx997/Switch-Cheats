@@ -1,0 +1,2 @@
+[Have All Armors]
+04100000 9AE10540 000000FF

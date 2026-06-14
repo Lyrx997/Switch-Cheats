@@ -1,0 +1,2 @@
+[Crafting no Money Costs]
+040C0000 0039DE4C 2A1F03F3

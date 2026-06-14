@@ -1,0 +1,3 @@
+[Recompensa de atualizacao de gema lendaria 20 vezes]
+04000000 00752BEC 52800299
+04000000 00752E4C 52800299

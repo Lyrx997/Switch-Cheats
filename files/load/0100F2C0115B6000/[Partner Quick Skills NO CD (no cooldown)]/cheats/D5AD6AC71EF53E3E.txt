@@ -1,0 +1,2 @@
+[Partner Quick Skills NO CD (no cooldown)]
+04000000 00A26BEC 1E202800

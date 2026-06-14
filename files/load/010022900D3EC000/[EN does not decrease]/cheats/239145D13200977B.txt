@@ -1,0 +1,2 @@
+[EN does not decrease]
+04000000 0041C364 1A80B008

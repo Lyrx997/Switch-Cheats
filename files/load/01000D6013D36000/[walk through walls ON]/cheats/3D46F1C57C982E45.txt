@@ -1,0 +1,2 @@
+[walk through walls ON]
+04000000 0177647C 1E27F000

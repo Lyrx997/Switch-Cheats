@@ -1,0 +1,2 @@
+[Ignore Crafting Item Requirements]
+040C0000 008FEC1C 360006DB

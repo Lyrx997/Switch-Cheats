@@ -1,0 +1,2 @@
+[Money is not reduced (off)]
+04000000 003C6E6C 4B090108

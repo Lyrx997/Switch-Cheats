@@ -1,0 +1,3 @@
+[Change Z Coin Max]
+04000000 002411C4
+AA0A03E9

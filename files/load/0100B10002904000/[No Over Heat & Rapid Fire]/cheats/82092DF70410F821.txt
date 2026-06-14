@@ -1,0 +1,2 @@
+[No Over Heat & Rapid Fire]
+040F0000 00625BBC 00000000

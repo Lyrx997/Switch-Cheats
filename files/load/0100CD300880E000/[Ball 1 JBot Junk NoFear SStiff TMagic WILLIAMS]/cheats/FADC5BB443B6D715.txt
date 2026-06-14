@@ -1,0 +1,2 @@
+[Ball 1 JBot Junk NoFear SStiff TMagic WILLIAMS]
+01000000 1557D60B 00000001

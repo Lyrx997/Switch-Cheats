@@ -1,0 +1,2 @@
+[Zero I - Ability Bitfield]
+01000000 02FB66BA 0000003F

@@ -1,0 +1,2 @@
+[ink incl gold multiplier reset]
+04000000 00147258 2A0203F5

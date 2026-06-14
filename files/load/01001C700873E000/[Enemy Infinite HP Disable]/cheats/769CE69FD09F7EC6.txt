@@ -1,0 +1,2 @@
+[Enemy Infinite HP Disable]
+04000000 0068CE5C 4EA91D20

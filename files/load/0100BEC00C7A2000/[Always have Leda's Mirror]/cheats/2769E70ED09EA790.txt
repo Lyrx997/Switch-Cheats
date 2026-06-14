@@ -1,0 +1,2 @@
+[Always have Leda's Mirror]
+01100000 01E8E347 0000008B

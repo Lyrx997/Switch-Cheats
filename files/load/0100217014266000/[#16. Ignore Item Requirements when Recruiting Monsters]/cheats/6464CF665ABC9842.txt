@@ -1,0 +1,2 @@
+[#16. Ignore Item Requirements when Recruiting Monsters]
+040E0000 00AA91C0 52800C80

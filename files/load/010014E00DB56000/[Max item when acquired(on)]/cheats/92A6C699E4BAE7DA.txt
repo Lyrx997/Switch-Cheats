@@ -1,0 +1,2 @@
+[Max item when acquired(on)]
+04000000 000652EC 1A8BB16B

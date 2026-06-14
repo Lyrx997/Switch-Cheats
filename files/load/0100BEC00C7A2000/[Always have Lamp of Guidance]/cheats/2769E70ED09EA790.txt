@@ -1,0 +1,2 @@
+[Always have Lamp of Guidance]
+01100000 01E8E346 0000008B

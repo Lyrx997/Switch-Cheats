@@ -1,0 +1,2 @@
+[Max EXP after Battle off]
+04000000 00270460 B9402800

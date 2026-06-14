@@ -1,0 +1,2 @@
+[P1 Play as Rugal Lose for Form 2 Smoker1]
+01000000 01240578 00000008

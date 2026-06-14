@@ -1,0 +1,2 @@
+[Shiny Trophy Buckle]
+640C0000 00000000 00021B1A

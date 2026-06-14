@@ -1,0 +1,2 @@
+[Have Stamina Limit Max]
+04070000 02F0A078 BD434528

@@ -1,0 +1,2 @@
+[#10. Resources for unlocking skills do not decrease]
+040E0000 007309AC D65F03C0

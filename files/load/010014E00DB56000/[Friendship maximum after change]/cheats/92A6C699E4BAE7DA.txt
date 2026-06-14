@@ -1,0 +1,2 @@
+[Friendship maximum after change]
+04000000 000543E4 1A88C128

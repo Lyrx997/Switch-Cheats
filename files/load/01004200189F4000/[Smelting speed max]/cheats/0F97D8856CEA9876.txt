@@ -1,0 +1,2 @@
+[Smelting speed max]
+04000000 003EF090 1E612801

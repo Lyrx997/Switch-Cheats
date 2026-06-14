@@ -1,0 +1,2 @@
+[Unlock all bikes enable only at bike selection screen]
+04000000 0151ABE0 52800020

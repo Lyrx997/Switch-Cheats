@@ -1,0 +1,2 @@
+[â„–25. All Attack Critical]
+010E0000 03FA1FEB 00000012

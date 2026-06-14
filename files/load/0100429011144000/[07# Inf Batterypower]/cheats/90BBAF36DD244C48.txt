@@ -1,0 +1,2 @@
+[07# Inf Batterypower]
+040A0000 02E65FE4 1E29280B

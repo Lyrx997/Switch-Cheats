@@ -1,0 +1,2 @@
+[4) Gems - 8x increase *]
+040E0000 003311C0 0B0A0D08

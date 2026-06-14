@@ -1,0 +1,4 @@
+[Increase L key for smelting material crystal value]
+80000040
+040B0000 001CF64C 52801FE0
+20000000

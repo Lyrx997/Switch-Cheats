@@ -1,0 +1,2 @@
+[08# Ignore gemstone]
+040A0000 000436FBC 6B09013F

@@ -1,0 +1,6 @@
+[skill point (pointer version, it looks static, pointer version as a backup)]
+580F0000 05B52A60
+580F1000 000003F0
+580F1000 00000070
+780F0000 0000012B
+640F0000 00000000 00000008

@@ -1,0 +1,2 @@
+[Tactics Gauge Off]
+04000000 0199583C 0B130101

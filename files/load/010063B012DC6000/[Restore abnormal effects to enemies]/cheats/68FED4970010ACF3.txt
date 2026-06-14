@@ -1,0 +1,2 @@
+[Restore abnormal effects to enemies]
+040B0000 01189B44 0AA97D29

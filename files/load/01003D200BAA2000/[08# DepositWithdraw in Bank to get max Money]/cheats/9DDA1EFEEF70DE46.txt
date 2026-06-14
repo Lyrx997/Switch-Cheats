@@ -1,0 +1,3 @@
+[08# Deposit/Withdraw in Bank to get max Money]
+04000000 0261A604 0098967F
+04000000 0261A5EC 180000C1

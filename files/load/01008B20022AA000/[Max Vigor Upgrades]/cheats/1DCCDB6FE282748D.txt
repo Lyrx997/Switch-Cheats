@@ -1,0 +1,2 @@
+[Max Vigor Upgrades]
+01000000 00E8EAD8 00000011

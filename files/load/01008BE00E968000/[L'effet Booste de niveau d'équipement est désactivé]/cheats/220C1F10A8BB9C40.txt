@@ -1,0 +1,3 @@
+[L'effet Booste de niveau d'équipement est désactivé]
+04000000 002FDC20 0B160000
+04000000 00EF26C0 6B01001F

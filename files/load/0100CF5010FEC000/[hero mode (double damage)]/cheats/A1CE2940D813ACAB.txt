@@ -1,0 +1,2 @@
+[hero mode (double damage)]
+04000000 00972AC4 4B08054A

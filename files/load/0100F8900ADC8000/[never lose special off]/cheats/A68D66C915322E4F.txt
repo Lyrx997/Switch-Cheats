@@ -1,0 +1,2 @@
+[never lose special off]
+04000000 0031E15C 6DB63B14

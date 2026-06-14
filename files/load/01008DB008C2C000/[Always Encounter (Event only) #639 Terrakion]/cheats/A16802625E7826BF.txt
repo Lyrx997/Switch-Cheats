@@ -1,0 +1,2 @@
+[Always Encounter (Event only): #639 Terrakion]
+08000000 00766F58 0000027F 00000000

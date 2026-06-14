@@ -1,0 +1,2 @@
+[Pots always drop Items]
+040C0000 043CC8AC 94031D18

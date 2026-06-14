@@ -1,0 +1,3 @@
+[Worshippers Max Level after collecting Loyalty Reward]
+040C0000 02346B60 9492C428
+040C0000 0234EB30 528003A0

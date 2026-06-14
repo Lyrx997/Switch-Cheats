@@ -1,0 +1,2 @@
+[Always Encounter:Zarude]
+08000000 007709E8 0000037D 00000000

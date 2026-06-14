@@ -1,0 +1,2 @@
+[3) Coins - increase normally]
+040E0000 00330F7C 2A0203F8

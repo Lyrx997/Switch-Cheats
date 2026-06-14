@@ -1,0 +1,2 @@
+[speed game normal X pad menu come back later enter]
+04000000 0195F5F8 1E2E1000

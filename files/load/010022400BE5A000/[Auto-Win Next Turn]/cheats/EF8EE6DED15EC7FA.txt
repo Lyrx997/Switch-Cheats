@@ -1,0 +1,2 @@
+[Auto-Win Next Turn]
+04000000 014F7BC8 00000000

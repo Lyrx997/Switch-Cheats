@@ -1,0 +1,2 @@
+[Props without cooldown]
+04000000 00115DA8 14526722

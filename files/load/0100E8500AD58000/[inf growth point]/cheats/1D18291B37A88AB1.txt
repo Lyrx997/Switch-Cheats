@@ -1,0 +1,2 @@
+[inf growth point]
+041F0000 119FC818 000F423F

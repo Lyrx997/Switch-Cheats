@@ -1,0 +1,2 @@
+[Hover over the character and press the button.]
+20000000

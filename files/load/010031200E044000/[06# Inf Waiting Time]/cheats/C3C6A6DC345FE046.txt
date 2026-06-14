@@ -1,0 +1,2 @@
+[06# Inf Waiting Time]
+040A0000 005A9AEC D503201F

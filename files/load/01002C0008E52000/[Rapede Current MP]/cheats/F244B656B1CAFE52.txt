@@ -1,0 +1,2 @@
+[Rapede Current MP]
+04000000 01262BD8 000003E7

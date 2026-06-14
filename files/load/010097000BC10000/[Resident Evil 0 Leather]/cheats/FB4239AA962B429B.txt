@@ -1,0 +1,2 @@
+[Resident Evil 0 Leather]
+081F0000 13EF7258 00000006 84830881

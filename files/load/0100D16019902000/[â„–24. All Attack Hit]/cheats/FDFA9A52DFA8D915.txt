@@ -1,0 +1,2 @@
+[â„–24. All Attack Hit]
+010E0000 03FA9FEA 00000011

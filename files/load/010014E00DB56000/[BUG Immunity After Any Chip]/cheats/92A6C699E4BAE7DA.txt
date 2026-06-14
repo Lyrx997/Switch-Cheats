@@ -1,0 +1,2 @@
+[BUG Immunity After Any Chip]
+04000000 0005EBF8 52800C88

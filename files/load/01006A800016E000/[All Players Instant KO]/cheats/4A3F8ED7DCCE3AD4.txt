@@ -1,0 +1,2 @@
+[All Players Instant KO]
+04000000 006BD110 D65F03C0

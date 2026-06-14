@@ -1,0 +1,2 @@
+[Noppon Max Coin use 1 time then turn off]
+04100000 28DD3050 05F5E0FF

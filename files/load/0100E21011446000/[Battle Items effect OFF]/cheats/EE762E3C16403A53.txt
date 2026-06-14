@@ -1,0 +1,2 @@
+[Battle Items effect OFF]
+040C0000 0095106C 4B020129

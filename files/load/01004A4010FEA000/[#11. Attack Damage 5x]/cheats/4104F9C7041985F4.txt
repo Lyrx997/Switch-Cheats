@@ -1,0 +1,2 @@
+[#11. Attack Damage 5x]
+040E0000 000D40DC 0B010835

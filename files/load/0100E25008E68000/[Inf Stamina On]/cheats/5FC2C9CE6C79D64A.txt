@@ -1,0 +1,2 @@
+[Inf Stamina On]
+04000000 003017B0 D65F03C0

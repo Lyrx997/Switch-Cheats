@@ -1,0 +1,2 @@
+[Stamina Inf Off]
+04000000 01B7AD3C 1E213800

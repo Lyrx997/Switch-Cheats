@@ -1,0 +1,2 @@
+[Inf Character Select Turn off after]
+01000000 01290D8A 00000048

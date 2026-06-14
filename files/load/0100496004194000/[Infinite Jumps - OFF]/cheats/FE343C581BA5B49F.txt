@@ -1,0 +1,2 @@
+[Infinite Jumps - OFF]
+04000000 0012FB18 394A8800

@@ -1,0 +1,4 @@
+[zr ignore enemy button off]
+80000200
+040E0000 01B29BB0 36000194
+20000000

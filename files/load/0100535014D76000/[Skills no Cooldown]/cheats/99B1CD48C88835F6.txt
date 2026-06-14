@@ -1,0 +1,2 @@
+[Skills no Cooldown]
+04000000 016FD894 1E2703E1

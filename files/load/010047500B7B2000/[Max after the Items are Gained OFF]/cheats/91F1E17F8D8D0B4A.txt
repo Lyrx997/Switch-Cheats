@@ -1,0 +1,2 @@
+[Max after the Items are Gained OFF]
+04000000 01670E34 0B010108

@@ -1,0 +1,2 @@
+[Unlimited Crafting (off)]
+040A0000 017D964C 2A0203F4

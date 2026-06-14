@@ -1,0 +1,2 @@
+[Have Wyvernblast Quick CD]
+04070000 02F0493C 1E204020

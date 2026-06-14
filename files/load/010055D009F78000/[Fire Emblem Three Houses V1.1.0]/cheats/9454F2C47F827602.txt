@@ -1,0 +1,3 @@
+[Fire Emblem Three Houses V1.1.0]
+580F0000 01ABAF60
+580E0000 01A2F1B8

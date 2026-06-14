@@ -1,0 +1,2 @@
+[Store inventory Maximum @(Kaito B) from 91wii]
+040B0000 00B6FF28 782A69CC

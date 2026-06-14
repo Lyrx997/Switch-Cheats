@@ -1,0 +1,3 @@
+[game to work again Pick HP code lower then max HP]
+14060000 02251AA8 00000000
+20000000

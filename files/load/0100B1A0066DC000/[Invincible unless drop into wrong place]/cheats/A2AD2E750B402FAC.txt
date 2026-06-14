@@ -1,0 +1,4 @@
+[Invincible unless drop into wrong place]
+540F0000 001B1A54
+780F0000 0000017B
+610F0000 18000100 02000018

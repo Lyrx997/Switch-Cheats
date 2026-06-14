@@ -1,0 +1,2 @@
+[1p to enemies invincible off]
+04000000 01FD9EF0 D10383FF

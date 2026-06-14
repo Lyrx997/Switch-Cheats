@@ -1,0 +1,4 @@
+[(R) Inf. Health (Team + Enemies)]
+80000080
+040C0000 00347EB4 D503201F
+20000000

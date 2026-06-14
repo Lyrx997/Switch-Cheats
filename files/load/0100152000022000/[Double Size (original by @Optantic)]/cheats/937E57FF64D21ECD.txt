@@ -1,0 +1,3 @@
+[Double Size (original by @Optantic)]
+010E0000 000DBEF2 000000B0
+010E0000 000DBFE6 000000B0

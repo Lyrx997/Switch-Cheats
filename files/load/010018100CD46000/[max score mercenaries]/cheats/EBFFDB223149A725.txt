@@ -1,0 +1,2 @@
+[max score mercenaries]
+041F0000 08169B30 497423F0

@@ -1,0 +1,2 @@
+[Arcade Mode - Inf Lives ON]
+01000000 006BED89 00000002

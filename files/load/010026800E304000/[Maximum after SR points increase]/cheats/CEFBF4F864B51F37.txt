@@ -1,0 +1,2 @@
+[Maximum after SR points increase]
+04000000 006131D4 52800689

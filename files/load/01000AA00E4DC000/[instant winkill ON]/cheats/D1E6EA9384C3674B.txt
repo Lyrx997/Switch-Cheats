@@ -1,0 +1,2 @@
+[instant win/kill ON]
+04000000 00191B44 B900051F

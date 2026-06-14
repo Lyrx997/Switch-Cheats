@@ -1,0 +1,2 @@
+[Player accumulates Giga Energy quickly and unlimited]
+04000000 019AD698 15039D2A

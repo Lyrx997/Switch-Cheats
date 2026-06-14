@@ -1,0 +1,2 @@
+[01# Inf special meter]
+040A0000 01B1F9F4 1E204001

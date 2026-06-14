@@ -1,0 +1,2 @@
+[Picked Up Item x4]
+040C0000 018CEDC4 0B140908

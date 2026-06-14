@@ -1,0 +1,2 @@
+[One hit kill non hero]
+04000000 01C101A4 2A1F03E8

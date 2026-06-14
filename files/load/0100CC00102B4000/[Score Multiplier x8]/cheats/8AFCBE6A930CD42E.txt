@@ -1,0 +1,2 @@
+[Score Multiplier x8]
+040A0000 0184A4C0 0B080D3B

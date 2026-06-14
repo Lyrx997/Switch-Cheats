@@ -1,0 +1,2 @@
+[put in pikmin increased by 100 times]
+04000000 0008CC9C 11019129

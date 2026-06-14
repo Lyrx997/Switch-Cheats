@@ -1,0 +1,2 @@
+[Max Strength (Open Menu/Character)]
+040C0000 042743E4 9408B7D6

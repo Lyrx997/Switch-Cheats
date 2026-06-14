@@ -1,0 +1,2 @@
+[11# Unlock Collection Chars Stages OFF]
+08000000 02CEF840 A9016FFC D101C3FF

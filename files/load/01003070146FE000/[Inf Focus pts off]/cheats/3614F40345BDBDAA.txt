@@ -1,0 +1,2 @@
+[Inf Focus pts off]
+04000000 01BDA93C B9409013

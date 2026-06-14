@@ -1,0 +1,2 @@
+[Use of SP is not reduced]
+04000000 00A85374 4B1F0108

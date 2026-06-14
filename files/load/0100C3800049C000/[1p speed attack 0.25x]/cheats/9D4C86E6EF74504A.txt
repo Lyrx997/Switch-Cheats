@@ -1,0 +1,3 @@
+[1p speed attack 0.25x]
+04000000 00534F4C EEB00A04
+1

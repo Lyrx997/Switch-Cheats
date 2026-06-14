@@ -1,0 +1,2 @@
+[get max score on change @made by BlackDeath]
+04000000 00326930 1C000D40

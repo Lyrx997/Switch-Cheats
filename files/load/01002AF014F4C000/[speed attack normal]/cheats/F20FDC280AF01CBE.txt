@@ -1,0 +1,2 @@
+[speed attack normal]
+04000000 000120B0 1E2E1008

@@ -1,0 +1,3 @@
+[1 Blue Orb To Win Checkpoint Bonus Stage Press L]
+80000040 01110000
+2EC448C8 00000000

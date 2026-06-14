@@ -1,0 +1,3 @@
+[Slot 30 nursery money tree (unlimited)]
+04100000 AC3B9050 00001154
+04100000 AC3B9054 00000009

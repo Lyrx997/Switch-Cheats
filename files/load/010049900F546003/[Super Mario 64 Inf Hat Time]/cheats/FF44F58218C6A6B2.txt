@@ -1,0 +1,2 @@
+[Super Mario 64 Inf Hat Time]
+02100000 38742A95 00007000

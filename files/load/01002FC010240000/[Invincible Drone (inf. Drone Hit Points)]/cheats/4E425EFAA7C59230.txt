@@ -1,0 +1,2 @@
+[Invincible Drone (inf. Drone Hit Points)]
+010E0000 0059FB2A 0000001F

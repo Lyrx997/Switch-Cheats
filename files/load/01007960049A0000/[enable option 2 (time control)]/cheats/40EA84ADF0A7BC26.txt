@@ -1,0 +1,4 @@
+[enable option 2 (time control)]
+80000010
+04000000 0120DF3C 00000002
+20000000

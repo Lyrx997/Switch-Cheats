@@ -1,0 +1,2 @@
+[character 11 defence]
+04000000 02122F44 0000270F

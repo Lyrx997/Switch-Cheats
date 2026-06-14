@@ -1,0 +1,2 @@
+[scan rate after battle Max]
+04000000 0004FFF8 52801909

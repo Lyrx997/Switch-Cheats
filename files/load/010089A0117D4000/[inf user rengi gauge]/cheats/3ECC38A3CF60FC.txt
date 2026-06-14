@@ -1,0 +1,2 @@
+[inf user rengi gauge]
+04000000 00D678E0 D65F03C0

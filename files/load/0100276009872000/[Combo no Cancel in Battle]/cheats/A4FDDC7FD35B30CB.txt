@@ -1,0 +1,3 @@
+[Combo no Cancel in Battle]
+04000000 000703F8
+2A0003E0

@@ -1,0 +1,2 @@
+[Super Mario 64 No Hits]
+02100000 38742A06 0000FFFF

@@ -1,0 +1,2 @@
+[Cheat Mini Characters (off)]
+010A0000 01E91B12 00000000

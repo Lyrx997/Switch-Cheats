@@ -1,0 +1,2 @@
+[    o Reinforced Shield]
+04000000 05AEB51C 00200078

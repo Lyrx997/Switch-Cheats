@@ -1,0 +1,2 @@
+[Studs Multiplier x8]
+04000000 040D9D68 0B010D0A

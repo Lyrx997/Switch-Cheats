@@ -1,0 +1,2 @@
+[100 Percent Gil Drop Rate (Disable)]
+04000000 0000D130 B9406000

@@ -1,0 +1,2 @@
+[1p damager attack normal @xtatu]
+04000000 0347EA90 1E2E1000

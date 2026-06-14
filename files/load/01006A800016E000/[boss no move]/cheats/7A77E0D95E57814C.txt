@@ -1,0 +1,2 @@
+[boss no move]
+04000000 0155FDB0 D65F03C0

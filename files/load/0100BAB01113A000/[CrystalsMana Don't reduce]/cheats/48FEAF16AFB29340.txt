@@ -1,0 +1,2 @@
+[Crystals/Mana Don't reduce]
+04000000 0157F970 D65F03C0

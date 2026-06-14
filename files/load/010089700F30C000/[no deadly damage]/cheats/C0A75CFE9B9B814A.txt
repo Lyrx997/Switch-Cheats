@@ -1,0 +1,2 @@
+[no deadly damage]
+04000000 00082640 D65F03C0

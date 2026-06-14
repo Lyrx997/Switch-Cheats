@@ -1,0 +1,2 @@
+[Both Modes - Inf Lives ON]
+04000000 0021DBE0 F81D0FF5

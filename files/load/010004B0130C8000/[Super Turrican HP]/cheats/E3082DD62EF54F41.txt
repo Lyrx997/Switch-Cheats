@@ -1,0 +1,2 @@
+[Super Turrican HP]
+01000000 00DB02FC 0000000C

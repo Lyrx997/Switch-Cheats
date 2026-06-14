@@ -1,0 +1,2 @@
+[Fast Amulet Charge (off)]
+040A0000 00A4F914 BD416C01

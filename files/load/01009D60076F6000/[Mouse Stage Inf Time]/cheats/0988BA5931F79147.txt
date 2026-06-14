@@ -1,0 +1,2 @@
+[Mouse Stage Inf Time]
+04000000 011CD6B0 1E2703E8

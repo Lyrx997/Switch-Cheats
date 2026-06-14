@@ -1,0 +1,2 @@
+[Paralyzed immunity after equipping any chip]
+04000000 0005EBC0 52800C88

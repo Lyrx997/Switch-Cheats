@@ -1,0 +1,2 @@
+[Inf Stamina Off]
+04000000 002ED370 FC1D0FE8

@@ -1,0 +1,2 @@
+[Ring money / miles rate reduction]
+04000000 00FC2648 8B214115

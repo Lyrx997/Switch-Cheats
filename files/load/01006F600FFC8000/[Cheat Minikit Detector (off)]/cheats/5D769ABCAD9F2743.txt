@@ -1,0 +1,2 @@
+[Cheat Minikit Detector (off)]
+010A0000 01E91AF2 00000000

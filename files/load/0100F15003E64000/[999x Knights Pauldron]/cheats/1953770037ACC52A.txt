@@ -1,0 +1,2 @@
+[999x Knights Pauldron]
+02100000 9743C81E 000003E7

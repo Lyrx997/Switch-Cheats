@@ -1,0 +1,2 @@
+[Monster Disappear after Death ON]
+040C0000 02DF0F30 52800035

@@ -1,0 +1,2 @@
+[Unlimited Stamina (On)]
+04000000 00E44F68 1E204109

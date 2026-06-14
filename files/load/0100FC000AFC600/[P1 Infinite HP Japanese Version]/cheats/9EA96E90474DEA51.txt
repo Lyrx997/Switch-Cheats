@@ -1,0 +1,2 @@
+[P1 Infinite HP Japanese Version]
+01000000 01280478 00000048

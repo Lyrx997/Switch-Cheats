@@ -1,0 +1,2 @@
+[Inf. Attribute Points]
+080C0000 04274D00 4B1F0108 52807CE8

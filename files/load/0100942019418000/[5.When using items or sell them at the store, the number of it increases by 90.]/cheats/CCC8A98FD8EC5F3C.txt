@@ -1,0 +1,3 @@
+[5.When using items or sell them at the store, the number of it increases by 90.]
+04000000 00447928 11016908
+04000000 00450954 11016908

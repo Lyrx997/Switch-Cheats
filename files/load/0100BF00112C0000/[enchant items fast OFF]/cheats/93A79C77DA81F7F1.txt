@@ -1,0 +1,2 @@
+[enchant items fast OFF]
+04000000 001D1AA4 1101E108

@@ -1,0 +1,2 @@
+[Hat value is not reduced]
+04000000 0051F2D0 1E204020

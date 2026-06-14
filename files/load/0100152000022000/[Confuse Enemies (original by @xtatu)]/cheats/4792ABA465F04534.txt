@@ -1,0 +1,2 @@
+[Confuse Enemies (original by @xtatu)]
+020E0000 00728A12 00004448

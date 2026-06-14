@@ -1,0 +1,4 @@
+[(Restore the original code)Items keep 999 after map changed]
+04000000 01BD6EF8 5100056B
+04000000 01BD61C0 71000508
+04000000 020651DC 2B160100

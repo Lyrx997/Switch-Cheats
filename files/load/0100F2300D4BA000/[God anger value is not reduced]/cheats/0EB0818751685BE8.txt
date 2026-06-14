@@ -1,0 +1,2 @@
+[God anger value is not reduced]
+04000000 00520B9C 1E204140

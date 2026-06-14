@@ -1,0 +1,2 @@
+[Max Level after Battle]
+040C0000 0020E840 144A3DAF

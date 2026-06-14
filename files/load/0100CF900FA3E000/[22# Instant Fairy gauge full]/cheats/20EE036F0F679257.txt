@@ -1,0 +1,2 @@
+[22# Instant Fairy gauge full]
+04000000 0043BEDC 2B021508

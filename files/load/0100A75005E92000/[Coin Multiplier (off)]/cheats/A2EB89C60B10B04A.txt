@@ -1,0 +1,2 @@
+[Coin Multiplier (off)]
+040A0000 013E2A04 0B010129

@@ -1,0 +1,2 @@
+[1p invicible special work hit+Walk through Walls off ]
+04000000 002CEB20 A9BC5FF8

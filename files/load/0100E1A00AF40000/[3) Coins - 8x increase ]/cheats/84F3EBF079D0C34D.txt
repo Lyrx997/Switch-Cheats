@@ -1,0 +1,2 @@
+[3) Coins - 8x increase *]
+040E0000 00330F7C 0B020FF8

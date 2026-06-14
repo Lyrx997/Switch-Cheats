@@ -1,0 +1,2 @@
+[100% drop rate after any chip is equipped]
+04000000 0005EC4C 52800C88

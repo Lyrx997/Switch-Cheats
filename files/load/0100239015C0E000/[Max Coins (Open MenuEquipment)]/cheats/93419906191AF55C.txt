@@ -1,0 +1,2 @@
+[Max Coins (Open Menu/Equipment)]
+040C0000 0426DEF0 9408D10B

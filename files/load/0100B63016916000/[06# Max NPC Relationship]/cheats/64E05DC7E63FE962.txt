@@ -1,0 +1,2 @@
+[06# Max NPC Relationship]
+040A0000 02802D60 5284E1E0

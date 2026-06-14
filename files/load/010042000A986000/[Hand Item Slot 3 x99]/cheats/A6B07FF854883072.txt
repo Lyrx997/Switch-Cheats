@@ -1,0 +1,2 @@
+[Hand Item Slot 3 x99]
+021F0000 41C84ABA 00000063

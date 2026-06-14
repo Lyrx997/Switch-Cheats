@@ -1,0 +1,2 @@
+[Karma 0 After Battle Off]
+04000000 00281B40 1A89B3E8

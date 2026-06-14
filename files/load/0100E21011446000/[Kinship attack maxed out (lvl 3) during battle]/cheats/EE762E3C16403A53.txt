@@ -1,0 +1,2 @@
+[Kinship attack maxed out (lvl 3) during battle]
+040C0000 00953ED8 52800020

@@ -1,0 +1,3 @@
+[â™¯ 8. Unlock All Fast Travel Locations]
+040E0000 00B11020 52800028
+040E0000 00B11120 52800028

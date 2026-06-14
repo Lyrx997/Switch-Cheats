@@ -1,0 +1,2 @@
+[Max Mission Reward Points]
+04000000 0A33F1F4 05F5E0FF

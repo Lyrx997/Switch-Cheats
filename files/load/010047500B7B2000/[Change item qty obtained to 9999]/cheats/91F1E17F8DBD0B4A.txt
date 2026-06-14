@@ -1,0 +1,2 @@
+[Change item qty obtained to 9999]
+04000000 01670E3C 5284E1E9

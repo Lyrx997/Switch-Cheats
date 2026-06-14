@@ -1,0 +1,2 @@
+[No Damage to Endurance (Health)]
+040E0000 019D7B00 D65F03C0

@@ -1,0 +1,3 @@
+[Infinite Star Bits (Observatory Grounds)]
+040F0000 0222C0EC 0000270F
+040F0000 02342B14 0000270F

@@ -1,0 +1,2 @@
+[Have Move Speed/Jump Recovery]
+040B0000 00228048 8B090D08

@@ -1,0 +1,2 @@
+[8x Shopping Brand Point Get]
+040E0000 02006898 531D7053

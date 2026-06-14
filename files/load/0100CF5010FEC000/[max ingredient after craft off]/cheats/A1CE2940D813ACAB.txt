@@ -1,0 +1,3 @@
+[max ingredient after craft off]
+040B0000 01260058 4B100250
+040B0000 0126005C 4B0E002E

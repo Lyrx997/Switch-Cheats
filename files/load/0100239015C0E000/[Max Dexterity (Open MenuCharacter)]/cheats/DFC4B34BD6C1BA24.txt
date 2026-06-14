@@ -1,0 +1,2 @@
+[Max Dexterity (Open Menu/Character)]
+040C0000 0426FCB0 9408900F

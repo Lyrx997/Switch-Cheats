@@ -1,0 +1,2 @@
+[Electromagnetic Grenade]
+040C0000 09E83540 00000001

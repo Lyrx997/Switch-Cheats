@@ -1,0 +1,3 @@
+[Godmode (HP & MP not decrease) Will dead if enemy too strong]
+040E0000 01189A78 94B20522
+040E0000 01500FC8 94A427CA

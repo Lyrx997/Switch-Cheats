@@ -1,0 +1,2 @@
+[Max EXP after Quest]
+04100000 008162DC 00037928

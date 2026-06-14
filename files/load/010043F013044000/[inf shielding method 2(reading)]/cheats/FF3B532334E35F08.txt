@@ -1,0 +1,2 @@
+[inf shielding method 2(reading)]
+04000000 0083E5AC B9463268

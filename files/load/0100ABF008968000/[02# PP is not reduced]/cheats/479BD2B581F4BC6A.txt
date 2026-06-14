@@ -1,0 +1,2 @@
+[02# PP is not reduced]
+04000000 007E25B8 4B1F0142

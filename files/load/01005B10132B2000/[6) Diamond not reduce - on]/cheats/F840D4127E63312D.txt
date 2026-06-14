@@ -1,0 +1,2 @@
+[6) Diamond not reduce - on]
+040E0000 00165278 E1A01002

@@ -1,0 +1,2 @@
+[Insta-Kill all Enemies on Map]
+040C0000 04366170 2A1F03E0

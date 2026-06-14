@@ -1,0 +1,2 @@
+[#04. 8x Coins Multiplier]
+040F0000 01FEA6F8 0B130D08

@@ -1,0 +1,2 @@
+[09# Fog Of War Multiplier]
+040A0000 013BD560 1E27D000

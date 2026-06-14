@@ -1,0 +1,4 @@
+[Special Souls (Type)(1st)]
+04100000 4BF04B5C 0000XXXX
+XXXX = ID
+NEXT +10

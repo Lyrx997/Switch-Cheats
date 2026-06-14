@@ -1,0 +1,2 @@
+[Alpha Building Map]
+040C0000 09E83500 00000001

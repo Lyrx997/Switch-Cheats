@@ -1,0 +1,3 @@
+[#12. Accelerate Movement/Swimming ¥[³t²¾°Ê/´åªa]
+040E0000 04D8F944 1E27D000
+040E0000 04D8F948 1E200800

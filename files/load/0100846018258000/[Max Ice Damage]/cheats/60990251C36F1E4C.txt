@@ -1,0 +1,2 @@
+[Max Ice Damage]
+040C0000 020E93D0 14B7346B

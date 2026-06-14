@@ -1,0 +1,2 @@
+[Zero I - Equipped Element None]
+01000000 02FB66DD 00000000

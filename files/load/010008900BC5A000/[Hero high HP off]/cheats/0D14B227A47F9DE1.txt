@@ -1,0 +1,2 @@
+[Hero high HP off]
+04000000 0009514C BD407B29

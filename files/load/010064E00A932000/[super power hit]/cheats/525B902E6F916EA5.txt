@@ -1,0 +1,2 @@
+[super power hit]
+04000000 00B2B04C 1E27F001

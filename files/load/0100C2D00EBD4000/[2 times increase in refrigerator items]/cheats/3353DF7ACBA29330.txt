@@ -1,0 +1,3 @@
+[2 times increase in refrigerator items]
+04000000 003C0AC0 0B150529
+04000000 003C0C20 0B0E05AD

@@ -1,0 +1,2 @@
+[No Decrease For Player's HP]
+080E0000 01D3DEF0 B9008B68 B9509668

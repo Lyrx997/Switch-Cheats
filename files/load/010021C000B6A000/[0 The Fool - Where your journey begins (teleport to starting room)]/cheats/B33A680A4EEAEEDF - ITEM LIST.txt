@@ -1,0 +1,3 @@
+[0 The Fool - Where your journey begins (teleport to starting room)]
+40000000 00000000 00001C00
+640C0100 00000000 00000001

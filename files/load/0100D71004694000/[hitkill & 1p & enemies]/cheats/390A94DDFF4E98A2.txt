@@ -1,0 +1,2 @@
+[hitkill & 1p & enemies]
+04000000 013BB938 1E27F002

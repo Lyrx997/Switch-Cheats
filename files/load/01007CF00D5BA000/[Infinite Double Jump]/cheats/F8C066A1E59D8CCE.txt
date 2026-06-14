@@ -1,0 +1,2 @@
+[Infinite Double Jump]
+01000000 00D83C32 00000001

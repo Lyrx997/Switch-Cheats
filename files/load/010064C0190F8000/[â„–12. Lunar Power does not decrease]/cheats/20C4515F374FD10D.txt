@@ -1,0 +1,2 @@
+[â„–12. Lunar Power does not decrease]
+040E0000 007880A8 1E2703E3

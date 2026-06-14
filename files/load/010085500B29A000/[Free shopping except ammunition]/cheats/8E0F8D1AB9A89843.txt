@@ -1,0 +1,2 @@
+[Free shopping except ammunition]
+04000000 000D3160 D65F03C0

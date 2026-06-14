@@ -1,0 +1,2 @@
+[Attribute does not decrease]
+04000000 0052DF04 0B1F0108

@@ -1,0 +1,2 @@
+[Max Electric Damage]
+040C0000 020E93C0 14B7346F

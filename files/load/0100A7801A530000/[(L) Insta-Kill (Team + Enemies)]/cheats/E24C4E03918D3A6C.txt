@@ -1,0 +1,4 @@
+[(L) Insta-Kill (Team + Enemies)]
+80000040
+040C0000 0034A614 F901A6BF
+20000000

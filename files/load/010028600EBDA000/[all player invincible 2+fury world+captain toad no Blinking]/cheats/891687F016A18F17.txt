@@ -1,0 +1,2 @@
+[all player invincible 2+fury world+captain toad no Blinking]
+04000000 00390FC0 D65F03C0

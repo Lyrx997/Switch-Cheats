@@ -1,0 +1,2 @@
+[speed mod30x]
+04000000 0017FD18 EEB32A0E

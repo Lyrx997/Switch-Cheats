@@ -1,0 +1,2 @@
+[Combo Bar Not Decrease Off]
+04000000 02B9D838 1A88B028

@@ -1,0 +1,2 @@
+[16 times experience value]
+040B0000 005ADA34 0B081041

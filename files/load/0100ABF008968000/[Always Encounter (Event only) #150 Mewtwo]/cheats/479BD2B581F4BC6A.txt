@@ -1,0 +1,2 @@
+[Always Encounter (Event only): #150 Mewtwo]
+08000000 00766F58 00000096 00000000

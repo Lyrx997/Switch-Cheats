@@ -1,0 +1,2 @@
+[Dog Speed Normal]
+040C0000 032A7F04 1E2E1000

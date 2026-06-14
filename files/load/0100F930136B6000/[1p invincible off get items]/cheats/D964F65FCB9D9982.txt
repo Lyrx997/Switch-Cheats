@@ -1,0 +1,2 @@
+[1p invincible off get items]
+04000000 0308F5A0 F81D0FF5

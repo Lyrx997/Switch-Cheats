@@ -1,0 +1,4 @@
+[Smelt material crystal value is 1 L+A]
+80000041
+040B0000 001CF64C 52800020
+20000000

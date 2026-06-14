@@ -1,0 +1,2 @@
+[No Damage to Volition (Morale)]
+040E0000 019D7950 D65F03C0

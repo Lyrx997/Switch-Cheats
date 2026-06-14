@@ -1,0 +1,2 @@
+[10# Experience value 32 times (on)]
+04000000 00803FAC 0B011536

@@ -1,0 +1,2 @@
+[Instant Cooldown for Swap]
+040E0000 015A2C58 1E293928

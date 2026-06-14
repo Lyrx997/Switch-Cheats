@@ -1,0 +1,2 @@
+[4.The more you spend, the more money you get at the store.]
+04000000 008F2414 0B0A016A

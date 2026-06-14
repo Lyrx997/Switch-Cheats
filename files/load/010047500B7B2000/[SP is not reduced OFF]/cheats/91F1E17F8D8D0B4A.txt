@@ -1,0 +1,2 @@
+[SP is not reduced OFF]
+04000000 017BBDD4 B900FC08

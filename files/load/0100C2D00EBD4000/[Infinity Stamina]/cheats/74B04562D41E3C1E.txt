@@ -1,0 +1,2 @@
+[Infinity Stamina]
+04000000 0041C744 1A8BB16B

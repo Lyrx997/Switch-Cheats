@@ -1,0 +1,2 @@
+[Prop increment is closed when blending/copying]
+040B0000 0063EA14 7100043F

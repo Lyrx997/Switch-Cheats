@@ -1,0 +1,2 @@
+[shop: 1 cat food for 2M XP]
+04100000 AFE8CC10 00000001

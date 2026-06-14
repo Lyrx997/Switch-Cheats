@@ -1,0 +1,2 @@
+[Combat will be upgraded after using Magic Book once]
+04000000 0015A764 E0401004

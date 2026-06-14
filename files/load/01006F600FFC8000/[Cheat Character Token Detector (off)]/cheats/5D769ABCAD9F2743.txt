@@ -1,0 +1,2 @@
+[Cheat Character Token Detector (off)]
+010A0000 01E91B92 00000000

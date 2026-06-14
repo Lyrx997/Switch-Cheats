@@ -1,0 +1,2 @@
+[No Deduction on Satiety - off]
+040E0000 01FFC928 B9002A68

@@ -1,0 +1,2 @@
+[no move cpuoff ]
+04000000 002D9500 D10603FF

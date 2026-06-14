@@ -1,0 +1,3 @@
+[Range increase for Special move (Cancel)]
+04000000 004D558C 340000A8
+04000000 004D5598 97FFFF01

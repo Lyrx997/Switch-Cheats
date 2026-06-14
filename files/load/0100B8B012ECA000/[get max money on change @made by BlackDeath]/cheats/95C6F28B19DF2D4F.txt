@@ -1,0 +1,2 @@
+[get max money on change @made by BlackDeath]
+04000000 003269E0 1C0007C0

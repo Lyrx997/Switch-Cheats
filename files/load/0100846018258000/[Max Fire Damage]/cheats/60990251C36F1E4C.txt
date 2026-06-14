@@ -1,0 +1,2 @@
+[Max Fire Damage]
+040C0000 020E93E0 14B73467

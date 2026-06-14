@@ -1,0 +1,2 @@
+[#06. 8x EXP for Persona]
+040E0000 0088FCA4 0B010D08

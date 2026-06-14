@@ -1,0 +1,2 @@
+[Disable Level Check for Items - Makes Enemies MUCH Stronger in PT2.5]
+04000000 019434EC 12B00000

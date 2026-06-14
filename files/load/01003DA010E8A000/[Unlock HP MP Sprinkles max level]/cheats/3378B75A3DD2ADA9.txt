@@ -1,0 +1,2 @@
+[Unlock HP MP Sprinkles max level]
+01100000 7FCCAE49 00000032

@@ -1,0 +1,2 @@
+[1p invicible enermies+stealth off]
+04000000 003FF644 FC1E0FE8

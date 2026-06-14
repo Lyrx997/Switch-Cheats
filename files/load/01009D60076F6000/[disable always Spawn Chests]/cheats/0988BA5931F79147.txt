@@ -1,0 +1,2 @@
+[disable always Spawn Chests]
+04000000 00CDD214 1E2D2100

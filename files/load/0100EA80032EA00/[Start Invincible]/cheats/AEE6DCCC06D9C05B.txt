@@ -1,0 +1,2 @@
+[Start Invincible]
+01100000 4A9D5ADA 00000001

@@ -1,0 +1,2 @@
+[Inf. Special/Spin Attack (After eating Pizza)]
+04000000 0120A2C4 1E269000

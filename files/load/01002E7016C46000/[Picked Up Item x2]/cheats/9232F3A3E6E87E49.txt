@@ -1,0 +1,2 @@
+[Picked Up Item x2]
+040C0000 019D08F4 0B140508

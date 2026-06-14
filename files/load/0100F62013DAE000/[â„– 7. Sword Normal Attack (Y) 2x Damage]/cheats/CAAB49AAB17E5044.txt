@@ -1,0 +1,2 @@
+[â„– 7. Sword Normal Attack (Y) 2x Damage]
+040E0000 0132783C 52A80008

@@ -1,0 +1,2 @@
+[Justin Sword weapon exp]
+041F0000 00445290 0098967F

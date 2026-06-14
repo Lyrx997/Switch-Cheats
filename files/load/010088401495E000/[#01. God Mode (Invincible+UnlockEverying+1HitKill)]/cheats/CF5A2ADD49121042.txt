@@ -1,0 +1,2 @@
+[#01. God Mode (Invincible+UnlockEverying+1HitKill)]
+040E0000 03949DA8 52800020

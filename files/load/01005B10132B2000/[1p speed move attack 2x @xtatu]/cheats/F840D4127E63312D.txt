@@ -1,0 +1,2 @@
+[1p speed move attack 2x @xtatu]
+04000000 000E19A4 EEF00A00

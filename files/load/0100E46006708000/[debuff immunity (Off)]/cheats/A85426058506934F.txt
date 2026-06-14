@@ -1,0 +1,2 @@
+[debuff immunity (Off)]
+04000000 00441FE0 6DB733ED

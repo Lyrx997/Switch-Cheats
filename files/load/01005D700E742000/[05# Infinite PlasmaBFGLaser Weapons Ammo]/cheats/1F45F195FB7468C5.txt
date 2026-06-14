@@ -1,0 +1,2 @@
+[05# Infinite Plasma/BFG/Laser Weapons Ammo]
+04000000 010B9FB0 00000063

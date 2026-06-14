@@ -1,0 +1,2 @@
+[Inf. Ninja Power Usage]
+04000000 01390E5C 52800068

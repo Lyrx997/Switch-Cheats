@@ -1,0 +1,2 @@
+[Desative a taxa de aquisicao de itens magicos]
+04000000 00458A88 1408598E

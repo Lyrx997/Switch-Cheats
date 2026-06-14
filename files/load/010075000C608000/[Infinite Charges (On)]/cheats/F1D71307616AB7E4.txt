@@ -1,0 +1,2 @@
+[Infinite Charges (On)]
+08000000 006C089C B902BA69 52800C49

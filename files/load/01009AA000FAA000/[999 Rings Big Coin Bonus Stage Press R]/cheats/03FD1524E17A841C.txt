@@ -1,0 +1,2 @@
+[999 Rings Big Coin Bonus Stage Press R]
+80000080 02110000 2EC4462C 000003E7

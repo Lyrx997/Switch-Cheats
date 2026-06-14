@@ -1,0 +1,2 @@
+[Upgrade Sword/Shield/Tunic/Bracelet]
+04000000 01CC077C 000000FF

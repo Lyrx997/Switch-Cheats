@@ -1,0 +1,2 @@
+[Unlock All Structures]
+080C0000 02231EB0 D65F03C0 52800020

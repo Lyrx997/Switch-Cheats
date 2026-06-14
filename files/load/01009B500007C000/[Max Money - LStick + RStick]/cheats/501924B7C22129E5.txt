@@ -1,0 +1,3 @@
+[Max Money - LStick + RStick]
+80000030
+041F0000 1D07D8E0 00999999

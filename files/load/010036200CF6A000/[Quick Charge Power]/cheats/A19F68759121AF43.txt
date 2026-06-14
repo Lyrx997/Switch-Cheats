@@ -1,0 +1,2 @@
+[Quick Charge Power]
+04000000 0087BBBC 1E271000

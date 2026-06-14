@@ -1,0 +1,4 @@
+[inf hp link @made by arismendy64 on gbatemp]
+580F0000 02515630
+780F0000 001744B4
+640F0000 00000000 46D48000

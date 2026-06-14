@@ -1,0 +1,2 @@
+[Ancient White Tome]
+640C0000 00000000 00021B1E

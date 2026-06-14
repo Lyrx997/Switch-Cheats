@@ -1,0 +1,2 @@
+[inf use ultimate skill]
+04000000 00EE5F70 1E27F00C

@@ -1,0 +1,2 @@
+[Start as Helicopter]
+01100000 4A9D9AC4 00000004

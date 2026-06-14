@@ -1,0 +1,2 @@
+[Infinite Life Point]
+01000000 01642E2A 00000001

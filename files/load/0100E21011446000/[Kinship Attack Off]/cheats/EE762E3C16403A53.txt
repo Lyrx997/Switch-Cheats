@@ -1,0 +1,2 @@
+[Kinship Attack Off]
+040C0000 00BF0254 38696900

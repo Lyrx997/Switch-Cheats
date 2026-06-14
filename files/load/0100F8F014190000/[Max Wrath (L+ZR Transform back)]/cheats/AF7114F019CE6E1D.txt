@@ -1,0 +1,2 @@
+[Max Wrath (L+ZR Transform back)]
+040E0000 00488C60 1E294D22

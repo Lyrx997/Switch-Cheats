@@ -1,0 +1,4 @@
+[The enemy rounds hold ZL enemy does not move]
+80000100
+04000000 000ACF14 1A9FB3E0
+20000000

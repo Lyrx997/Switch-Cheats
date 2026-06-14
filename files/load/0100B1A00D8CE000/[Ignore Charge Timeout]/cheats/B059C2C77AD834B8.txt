@@ -1,0 +1,2 @@
+[Ignore Charge Timeout]
+040A0000 069F6720 00000001

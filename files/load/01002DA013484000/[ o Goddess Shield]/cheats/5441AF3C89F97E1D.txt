@@ -1,0 +1,2 @@
+[    o Goddess Shield]
+04000000 05AEB51C 0020007C

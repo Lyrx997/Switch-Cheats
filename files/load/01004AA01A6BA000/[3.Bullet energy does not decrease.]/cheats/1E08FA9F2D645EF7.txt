@@ -1,0 +1,2 @@
+[3.Bullet energy does not decrease.]
+04000000 022FC444 1E212800

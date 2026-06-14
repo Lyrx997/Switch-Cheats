@@ -1,0 +1,2 @@
+[1p invicible then take a coup from the enemy off]
+04000000 0029AB30 D101C3FF

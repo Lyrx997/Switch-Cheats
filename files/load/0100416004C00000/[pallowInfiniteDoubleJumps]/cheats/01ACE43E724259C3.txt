@@ -1,0 +1,2 @@
+[pallowInfiniteDoubleJumps]
+04000000 072A2428 00000001

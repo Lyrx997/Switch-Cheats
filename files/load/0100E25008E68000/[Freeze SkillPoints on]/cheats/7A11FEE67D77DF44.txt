@@ -1,0 +1,2 @@
+[Freeze SkillPoints on]
+04000000 008F42DC 51000108

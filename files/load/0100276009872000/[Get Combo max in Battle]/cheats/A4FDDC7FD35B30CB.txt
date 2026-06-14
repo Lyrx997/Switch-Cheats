@@ -1,0 +1,3 @@
+[Get Combo max in Battle]
+04000000 0009D554
+11018D09

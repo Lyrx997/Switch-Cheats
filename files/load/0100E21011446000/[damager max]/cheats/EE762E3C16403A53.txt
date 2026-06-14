@@ -1,0 +1,2 @@
+[damager max]
+04000000 00C40AB0 D65F03C0

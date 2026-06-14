@@ -1,0 +1,2 @@
+[Inf Durability (off)]
+040A0000 018574A4 1E3E1001

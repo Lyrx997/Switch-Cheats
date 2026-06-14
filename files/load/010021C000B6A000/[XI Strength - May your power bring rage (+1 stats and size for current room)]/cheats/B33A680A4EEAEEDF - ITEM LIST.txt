@@ -1,0 +1,3 @@
+[XI Strength - May your power bring rage (+1 stats and size for current room)]
+40000000 00000000 00001C00
+640C0100 00000000 0000000C

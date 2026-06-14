@@ -1,0 +1,2 @@
+[Water properties free of injury after equipping any chip]
+04000000 0005EB34 52800C88

@@ -1,0 +1,2 @@
+[20# Items are not reduced]
+04000000 013FC95C 4B1F0148

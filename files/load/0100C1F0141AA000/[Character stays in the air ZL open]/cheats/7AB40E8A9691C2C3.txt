@@ -1,0 +1,4 @@
+[Character stays in the air ZL open]
+80000100
+040B0000 0166AC38 1E204000
+20000000

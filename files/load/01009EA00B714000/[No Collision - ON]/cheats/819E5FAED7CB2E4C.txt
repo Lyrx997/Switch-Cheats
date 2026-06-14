@@ -1,0 +1,2 @@
+[No Collision - ON]
+04000000 002DB3C0 D65F03C0

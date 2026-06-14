@@ -1,0 +1,2 @@
+[Freeze Durability]
+04000000 014F1660 D65F03C0

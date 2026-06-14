@@ -1,0 +1,2 @@
+[Cheat Attract Studs (off)]
+010A0000 01E91B72 00000000

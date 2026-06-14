@@ -1,0 +1,2 @@
+[Infinite Stamina]
+040E0000 01857230 2A1F03F4

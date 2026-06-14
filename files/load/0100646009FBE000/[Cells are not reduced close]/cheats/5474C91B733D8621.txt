@@ -1,0 +1,2 @@
+[Cells are not reduced close]
+04000000 002C97AC 4B150101

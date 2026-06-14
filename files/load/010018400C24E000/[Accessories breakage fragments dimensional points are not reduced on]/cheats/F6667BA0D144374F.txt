@@ -1,0 +1,4 @@
+[Accessories / breakage fragments / dimensional points are not reduced on]
+040B0000 00109B24 2A1F03F5
+040B0000 00126270 2A1F03F4
+040B0000 00425BBC 4B1F0001

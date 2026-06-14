@@ -1,0 +1,2 @@
+[04# Infinite Infinite Gun/Chain Ammo]
+04000000 010B9FA8 00000063

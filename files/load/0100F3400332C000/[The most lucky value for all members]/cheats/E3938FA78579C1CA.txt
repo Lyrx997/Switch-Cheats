@@ -1,0 +1,2 @@
+[The most lucky value for all members]
+040B0000 0022656C 1A898133

@@ -1,0 +1,2 @@
+[Unlock Challenge, Sound Test Mode]
+01000000 00B32880 00000007

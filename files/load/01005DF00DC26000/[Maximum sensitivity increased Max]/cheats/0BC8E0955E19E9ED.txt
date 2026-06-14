@@ -1,0 +1,3 @@
+[Maximum sensitivity increased Max]
+04000000 00FB9BB8 D503201F
+04000000 010E63B4 D503201F

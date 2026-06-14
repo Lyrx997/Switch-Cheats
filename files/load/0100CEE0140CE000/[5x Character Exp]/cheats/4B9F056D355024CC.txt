@@ -1,0 +1,2 @@
+[5x Character Exp]
+020E0000 0022AE8C 0000083A

@@ -1,0 +1,2 @@
+[enemies no fire off]
+04000000 00200B24 6DBC23E9

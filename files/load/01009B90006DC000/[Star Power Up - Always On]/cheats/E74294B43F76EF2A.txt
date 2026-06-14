@@ -1,0 +1,2 @@
+[Star Power Up - Always On]
+04100000 905053B0 0000020C

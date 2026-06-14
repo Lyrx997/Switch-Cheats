@@ -1,0 +1,2 @@
+[Max increase after money]
+04000000 0039C080 1A893128

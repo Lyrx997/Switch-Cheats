@@ -1,0 +1,2 @@
+[Buy something = increase Money]
+04000000 001DE650 0B000101

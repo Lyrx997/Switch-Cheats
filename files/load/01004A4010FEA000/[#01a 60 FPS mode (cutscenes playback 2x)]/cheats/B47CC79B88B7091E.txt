@@ -1,0 +1,2 @@
+[#01a 60 FPS mode (cutscenes playback 2x)]
+080E0000 0185813C 00000001 00000001

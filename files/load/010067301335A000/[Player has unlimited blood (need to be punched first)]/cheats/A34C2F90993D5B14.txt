@@ -1,0 +1,4 @@
+[Player has unlimited blood (need to be punched first)]
+04000000 019910CC 15040E95
+04000000 05A94B2C D503201F
+04000000 05A94B30 D503201F

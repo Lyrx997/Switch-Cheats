@@ -1,0 +1,2 @@
+[both damager 0]
+04000000 0021ECC4 D65F03C0

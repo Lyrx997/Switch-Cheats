@@ -1,0 +1,2 @@
+[Max Inf Money off]
+04000000 00DAB070 B9402800

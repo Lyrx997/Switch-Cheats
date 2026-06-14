@@ -1,0 +1,2 @@
+[â„–11. Spirit Charge Meter is instantly full]
+040E0000 00794954 1E2E1000

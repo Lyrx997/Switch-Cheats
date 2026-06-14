@@ -1,0 +1,2 @@
+[Catch Rate set to 100% Capture (off)]
+04000000 0077F6E8 39406100

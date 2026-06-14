@@ -1,0 +1,2 @@
+[Faster Washtime (off)]
+04000000 00C01060 320003E0

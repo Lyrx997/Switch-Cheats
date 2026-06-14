@@ -1,0 +1,2 @@
+[Unlock All Pit Stop Items]
+04000000 010550FC 52800020

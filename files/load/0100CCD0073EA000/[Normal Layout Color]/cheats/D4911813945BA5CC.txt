@@ -1,0 +1,2 @@
+[Normal Layout Color]
+04000000 07381560 3F800000

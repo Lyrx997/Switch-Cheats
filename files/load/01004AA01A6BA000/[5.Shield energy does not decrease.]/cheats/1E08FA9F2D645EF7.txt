@@ -1,0 +1,2 @@
+[5.Shield energy does not decrease.]
+04000000 028475A0 D503201F

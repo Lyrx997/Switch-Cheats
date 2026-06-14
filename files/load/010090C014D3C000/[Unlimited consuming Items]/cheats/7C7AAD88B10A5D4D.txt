@@ -1,0 +1,2 @@
+[Unlimited consuming Items]
+010E0000 014C707E 0000001F

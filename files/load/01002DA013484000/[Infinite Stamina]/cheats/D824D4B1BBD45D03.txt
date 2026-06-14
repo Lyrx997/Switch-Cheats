@@ -1,0 +1,2 @@
+[Infinite Stamina]
+04000000 06244B58 000F4240

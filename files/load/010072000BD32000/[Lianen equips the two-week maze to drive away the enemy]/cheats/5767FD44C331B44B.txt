@@ -1,0 +1,4 @@
+[Lianen equips the two-week maze to drive away the enemy]
+580F0000 012102F0
+780F0000 00038638
+640F0000 00000000 0000003E

@@ -1,0 +1,2 @@
+[Attack Rate Disable]
+040C0000 037C6284 1E215800

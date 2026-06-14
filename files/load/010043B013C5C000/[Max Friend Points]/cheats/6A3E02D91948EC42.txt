@@ -1,0 +1,2 @@
+[Max Friend Points]
+040E0000 02009434 5284E208

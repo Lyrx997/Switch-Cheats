@@ -1,0 +1,2 @@
+[Martial art coin effect off]
+040B0000 000EF4A0 2A0203F5

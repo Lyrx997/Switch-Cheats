@@ -1,0 +1,2 @@
+[max when use credit]
+04010000 01F18150 2A0A03E8

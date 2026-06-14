@@ -1,0 +1,2 @@
+[skill pt do not decrease]
+04000000 002DA95C 2A1F03E0

@@ -1,0 +1,2 @@
+[Max items when receiving]
+040E0000 005F1390 52800C73

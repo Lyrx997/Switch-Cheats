@@ -1,0 +1,2 @@
+[God Mode Artifact]
+040C0000 09E835EC 00000001

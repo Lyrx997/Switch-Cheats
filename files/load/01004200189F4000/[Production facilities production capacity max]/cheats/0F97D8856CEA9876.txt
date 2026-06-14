@@ -1,0 +1,2 @@
+[Production facilities production capacity max]
+04000000 004A64D8 1E602800

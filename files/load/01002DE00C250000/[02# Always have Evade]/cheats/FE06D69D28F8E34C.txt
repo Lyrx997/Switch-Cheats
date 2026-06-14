@@ -1,0 +1,2 @@
+[02# Always have Evade]
+040A0000 0069254C 1E2E1000

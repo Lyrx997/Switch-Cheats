@@ -1,0 +1,2 @@
+[Fast Work Speed (off)]
+040A0000 018D1D80 BD401408

@@ -1,0 +1,2 @@
+[weapon dura inf]
+04000000 001CC528 4B1F02A8

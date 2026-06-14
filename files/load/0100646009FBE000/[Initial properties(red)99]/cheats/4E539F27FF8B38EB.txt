@@ -1,0 +1,2 @@
+[Initial properties(red)99]
+04000000 00361430 11018C08

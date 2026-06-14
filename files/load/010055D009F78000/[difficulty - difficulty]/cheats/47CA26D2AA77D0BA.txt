@@ -1,0 +1,2 @@
+[difficulty - difficulty]
+01000000 019FB460 00000001

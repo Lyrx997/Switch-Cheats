@@ -1,0 +1,2 @@
+[Add 999 BuddyPoints on Update (Enable)]
+04000000 00204630 52807CF3

@@ -1,0 +1,2 @@
+[Enemy does not attack (off)]
+04000000 0033EF80 D100C3FF

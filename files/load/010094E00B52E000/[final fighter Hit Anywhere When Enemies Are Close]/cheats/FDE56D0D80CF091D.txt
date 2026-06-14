@@ -1,0 +1,2 @@
+[final fighter Hit Anywhere When Enemies Are Close]
+04000000 00EF06D4 00046000

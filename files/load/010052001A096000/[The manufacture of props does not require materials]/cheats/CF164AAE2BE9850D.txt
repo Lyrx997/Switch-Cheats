@@ -1,0 +1,2 @@
+[The manufacture of props does not require materials]
+04000000 00C4CFD0 14F573F8

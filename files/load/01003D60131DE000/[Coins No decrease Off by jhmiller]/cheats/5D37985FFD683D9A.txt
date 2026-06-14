@@ -1,0 +1,2 @@
+[Coins No decrease Off by jhmiller]
+04000000 0274DAA4 4B010100

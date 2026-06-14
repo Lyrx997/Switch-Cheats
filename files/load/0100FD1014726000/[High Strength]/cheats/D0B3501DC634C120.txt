@@ -1,0 +1,2 @@
+[High Strength]
+04000000 003E46EC 000000FA

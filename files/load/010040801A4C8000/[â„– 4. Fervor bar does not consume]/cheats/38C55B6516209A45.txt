@@ -1,0 +1,3 @@
+[â„– 4. Fervor bar does not consume]
+040E0000 02D5B638 2A0003E2
+040E0000 02D5D7B4 2A0003E2

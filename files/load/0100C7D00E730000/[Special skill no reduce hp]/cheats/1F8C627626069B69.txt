@@ -1,0 +1,2 @@
+[Special skill no reduce hp]
+040B0000 007F30D8 4EAC1D89

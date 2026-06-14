@@ -1,0 +1,2 @@
+[walk through walls ON]
+04000000 001B97A0 D65F03C0

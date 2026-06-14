@@ -1,0 +1,2 @@
+[Coins No Decrease Off]
+04000000 0342E1EC 0B080128

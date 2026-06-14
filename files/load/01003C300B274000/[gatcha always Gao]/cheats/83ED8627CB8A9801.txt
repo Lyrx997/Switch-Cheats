@@ -1,0 +1,2 @@
+[gatcha always Gao]
+04100000 B01F46C0 0000010D

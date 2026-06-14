@@ -1,0 +1,3 @@
+[Oatchi's training points 99 after learning]
+04000000 01B4A100 52800C69
+04000000 01B4A104 B9006A89

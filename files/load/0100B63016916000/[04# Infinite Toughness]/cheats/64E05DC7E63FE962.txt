@@ -1,0 +1,2 @@
+[04# Infinite Toughness]
+040A0000 050D5FE0 00000004

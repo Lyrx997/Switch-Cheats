@@ -1,0 +1,2 @@
+[Infinite Time for W.G.P Mode]
+01000000 0127D3E1 00000060

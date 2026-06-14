@@ -1,0 +1,2 @@
+[Unlimited use of Scroll during battle]
+010E0000 01CFDB5E 0000001F

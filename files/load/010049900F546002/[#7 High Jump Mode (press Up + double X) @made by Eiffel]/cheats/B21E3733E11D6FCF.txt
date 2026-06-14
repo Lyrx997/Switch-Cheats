@@ -1,0 +1,5 @@
+[#7 High Jump Mode (press Up + double X) @made by Eiffel]
+80002000
+400F0000 00000000 00AA69F4
+640D01F0 00000000 52800036
+20000000

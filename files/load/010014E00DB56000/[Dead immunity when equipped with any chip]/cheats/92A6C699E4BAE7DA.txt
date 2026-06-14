@@ -1,0 +1,2 @@
+[Dead immunity when equipped with any chip]
+04000000 0005EC04 52800C88

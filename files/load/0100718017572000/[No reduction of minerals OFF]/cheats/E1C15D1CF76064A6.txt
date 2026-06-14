@@ -1,0 +1,2 @@
+[No reduction of minerals OFF]
+04000000 01723AEC 79404100

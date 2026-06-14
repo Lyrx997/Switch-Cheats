@@ -1,0 +1,2 @@
+[damager max off]
+04000000 00C40AB0 6DBD23E9

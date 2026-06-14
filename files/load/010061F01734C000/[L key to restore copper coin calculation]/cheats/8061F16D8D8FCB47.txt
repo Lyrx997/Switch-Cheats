@@ -1,0 +1,4 @@
+[L key to restore copper coin calculation]
+80000040
+04000000 019202EC A905A969
+20000000

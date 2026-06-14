@@ -1,0 +1,2 @@
+[Items x99 after Usage in Battle (On)]
+04000000 00062A80 52800C68

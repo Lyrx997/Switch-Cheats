@@ -1,0 +1,3 @@
+[01# Add a lot off money when buy stuff]
+04000000 0189458C 00000001
+04000000 01894590 58FFFFC0

@@ -1,0 +1,2 @@
+[03# Items not reduce (off)]
+04070000 02E60000 D102C3FF

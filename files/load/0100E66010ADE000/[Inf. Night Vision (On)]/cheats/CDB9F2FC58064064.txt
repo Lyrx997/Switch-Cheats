@@ -1,0 +1,2 @@
+[Inf. Night Vision (On)]
+040C0000 0051FE24 1E202820

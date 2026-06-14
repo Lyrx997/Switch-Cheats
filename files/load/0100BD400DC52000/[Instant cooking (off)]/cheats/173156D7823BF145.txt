@@ -1,0 +1,2 @@
+[Instant cooking (off)]
+04000000 004ED1A0 1E2703E0

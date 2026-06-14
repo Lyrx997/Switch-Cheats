@@ -1,0 +1,2 @@
+[Weapon Level Max]
+040C0000 01E7A108 5284E1F9

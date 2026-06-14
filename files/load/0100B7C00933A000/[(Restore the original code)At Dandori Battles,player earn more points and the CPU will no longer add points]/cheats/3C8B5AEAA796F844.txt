@@ -1,0 +1,2 @@
+[(Restore the original code)At Dandori Battles,player earn more points and the CPU will no longer add points]
+04000000 01DEC71C 0B150108

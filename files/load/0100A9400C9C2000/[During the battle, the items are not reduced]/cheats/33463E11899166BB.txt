@@ -1,0 +1,2 @@
+[During the battle, the items are not reduced]
+04000000 000CB264 E2400000

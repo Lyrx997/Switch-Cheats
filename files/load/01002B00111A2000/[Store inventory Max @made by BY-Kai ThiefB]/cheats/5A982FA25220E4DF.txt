@@ -1,0 +1,2 @@
+[Store inventory Max @made by BY-Kai ThiefB]
+040B0000 00B75588 782A69CC

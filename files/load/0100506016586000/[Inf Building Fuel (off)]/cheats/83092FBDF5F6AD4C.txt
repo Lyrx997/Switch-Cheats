@@ -1,0 +1,2 @@
+[Inf Building Fuel (off)]
+040A0000 016CA788 1E281800

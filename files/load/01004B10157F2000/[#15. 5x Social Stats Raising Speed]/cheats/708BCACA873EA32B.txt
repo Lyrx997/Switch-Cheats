@@ -1,0 +1,2 @@
+[#15. 5x Social Stats Raising Speed]
+040E0000 00E37194 0B000818

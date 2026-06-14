@@ -1,0 +1,3 @@
+[SP does not decrease (Player and Buddy) (Disable)]
+04000000 0020AFF4 2A0103F4
+04000000 003AD614 2A0103F4

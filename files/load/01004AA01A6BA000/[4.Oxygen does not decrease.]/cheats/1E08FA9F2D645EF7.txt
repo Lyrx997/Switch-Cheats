@@ -1,0 +1,2 @@
+[4.Oxygen does not decrease.]
+04000000 0285B7A4 1E3F2800

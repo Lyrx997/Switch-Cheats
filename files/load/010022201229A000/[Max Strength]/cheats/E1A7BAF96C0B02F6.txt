@@ -1,0 +1,2 @@
+[Max Strength]
+04000000 01DB4D0C 05F5E0FF

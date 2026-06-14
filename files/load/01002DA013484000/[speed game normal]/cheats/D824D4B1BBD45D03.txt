@@ -1,0 +1,2 @@
+[speed game normal]
+04000000 0104A198 1E2C1000

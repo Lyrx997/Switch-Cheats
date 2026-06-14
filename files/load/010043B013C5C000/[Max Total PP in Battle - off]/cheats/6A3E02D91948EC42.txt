@@ -1,0 +1,2 @@
+[Max Total PP in Battle - off]
+010E0000 0165F388 0000007F

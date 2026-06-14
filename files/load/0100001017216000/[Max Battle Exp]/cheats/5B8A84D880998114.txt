@@ -1,0 +1,2 @@
+[Max Battle Exp]
+04100000 09E4B3C0 3B9AC9FF

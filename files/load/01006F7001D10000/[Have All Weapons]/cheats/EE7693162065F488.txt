@@ -1,0 +1,2 @@
+[Have All Weapons]
+04100000 9AE10550 000000FF

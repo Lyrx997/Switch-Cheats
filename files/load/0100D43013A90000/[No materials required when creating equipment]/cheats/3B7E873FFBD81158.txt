@@ -1,0 +1,2 @@
+[No materials required when creating equipment]
+04000000 0233ECDC 2A1F03E0

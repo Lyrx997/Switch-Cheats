@@ -1,0 +1,2 @@
+[â„– 8. Sword Strong Attack (X) 100x Damage]
+080E0000 013279F4 D503201F 52A85B88

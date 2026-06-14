@@ -1,0 +1,2 @@
+[HP and Ammo Inf Off]
+04000000 02B41BF0 B9002EE8

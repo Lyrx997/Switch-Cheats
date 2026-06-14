@@ -1,0 +1,3 @@
+[refill fervor cost no life/tears]
+04000000 00437238 D503201F
+04000000 0043729C D503201F

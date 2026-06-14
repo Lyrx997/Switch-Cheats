@@ -1,0 +1,2 @@
+[all collectibles OFF]
+040B0000 00589E84 F9400108

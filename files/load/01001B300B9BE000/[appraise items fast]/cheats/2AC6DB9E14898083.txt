@@ -1,0 +1,2 @@
+[appraise items fast]
+04000000 001F998C D503201F

@@ -1,0 +1,2 @@
+[Hero's EXP increasing rate (16x default)]
+010E0000 01F8BAC5 00000012

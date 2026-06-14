@@ -1,0 +1,2 @@
+[(v1.1.0) Set 1st Item (PokeBall Pocket) to x999 Master Ball]
+04100000 42934AB8 01F38001

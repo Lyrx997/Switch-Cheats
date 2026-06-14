@@ -1,0 +1,4 @@
+[The Soul of Youkai (Type)(1st)]
+04100000 4BF0519C 0000XXXX
+XXXX = ID
+NEXT +18H

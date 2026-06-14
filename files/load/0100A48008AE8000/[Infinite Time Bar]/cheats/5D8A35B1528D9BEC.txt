@@ -1,0 +1,2 @@
+[Infinite Time Bar]
+04000000 05F72D80 42A00000

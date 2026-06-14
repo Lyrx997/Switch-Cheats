@@ -1,0 +1,2 @@
+[Max Fire Resistence]
+040C0000 020E9400 14B7345F

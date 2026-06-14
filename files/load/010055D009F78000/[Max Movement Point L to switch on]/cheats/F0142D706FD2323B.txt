@@ -1,0 +1,4 @@
+[Max Movement Point L to switch on]
+80000040
+04000000 000AFCC4 1A88B100
+20000000

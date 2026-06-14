@@ -1,0 +1,5 @@
+[when enemy unable to attack hold L to reduce HP to 0]
+04000000 004539E0 B9022A68
+80000040
+04000000 004539E0 B9022A7F
+20000000

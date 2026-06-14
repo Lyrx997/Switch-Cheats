@@ -1,0 +1,2 @@
+[enemies no attack off]
+04000000 0019EC20 360000A0

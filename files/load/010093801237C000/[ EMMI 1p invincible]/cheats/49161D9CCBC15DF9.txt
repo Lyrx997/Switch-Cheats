@@ -1,0 +1,2 @@
+[ EMMI 1p invincible]
+04000000 00D34F40 D65F03C0

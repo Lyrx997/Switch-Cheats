@@ -1,0 +1,2 @@
+[15# HP has the most response - common to me]
+04000000 007F13F4 1A8A8148

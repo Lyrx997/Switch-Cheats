@@ -1,0 +1,2 @@
+[Grenades Instant Reload]
+040A0000 00B185F4 1E2703E0

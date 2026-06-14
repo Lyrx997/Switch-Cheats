@@ -1,0 +1,4 @@
+[call at fight time 1p invicible only enemies plus pad on]
+80000400
+04000000 002308D0 D65F03C0
+20000000

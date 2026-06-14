@@ -1,0 +1,2 @@
+[P1 Infinite Ammo]
+02000000 01291142 0000FFFF

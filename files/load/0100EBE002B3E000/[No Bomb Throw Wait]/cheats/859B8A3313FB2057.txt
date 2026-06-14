@@ -1,0 +1,2 @@
+[No Bomb Throw Wait]
+04000000 01299BE6 FF0000FF

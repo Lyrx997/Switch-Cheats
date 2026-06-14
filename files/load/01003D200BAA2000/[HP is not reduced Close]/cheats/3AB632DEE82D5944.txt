@@ -1,0 +1,2 @@
+[HP is not reduced Close]
+04000000 026CC394 B9000A88

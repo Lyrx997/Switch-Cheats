@@ -1,0 +1,2 @@
+[Buy something = decrease Money]
+04000000 001DE650 4B000101

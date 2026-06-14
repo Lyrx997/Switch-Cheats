@@ -1,0 +1,2 @@
+[Cape Mario (Super Mario World)-STORY MODE]
+011F0000 90F4EC18 00000004

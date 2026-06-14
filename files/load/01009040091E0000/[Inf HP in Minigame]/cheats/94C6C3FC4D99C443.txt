@@ -1,0 +1,2 @@
+[Inf HP in Minigame]
+04000000 0108B2F0 52800008

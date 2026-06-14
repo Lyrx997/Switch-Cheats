@@ -1,0 +1,3 @@
+[18# Always drop biggest treasure chest (on)]
+04000000 000FBF90 52800060
+04000000 000FBF94 D65F03C0

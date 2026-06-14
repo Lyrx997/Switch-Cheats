@@ -1,0 +1,2 @@
+[Coins 8,888,888 (spend some)]
+FALSE

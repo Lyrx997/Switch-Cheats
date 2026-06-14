@@ -1,0 +1,2 @@
+[GIL Max After Battle]
+04100000 6387C6C8 0000FFFF

@@ -1,0 +1,3 @@
+[Full level after increased experience after equipping chips]
+04000000 0005EC2C 52993FE8
+04000000 0005EC30 72877348

@@ -1,0 +1,2 @@
+[1P Longer Sword Power Gauge]
+01000000 012A3CC7 00000082

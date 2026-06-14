@@ -1,0 +1,2 @@
+[Item Max when used in mission]
+04000000 007C98BC 2A0A03E9

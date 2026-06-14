@@ -1,0 +1,2 @@
+[Battle VR Modifier]
+041F0000 29AF1250 0001869F

@@ -1,0 +1,4 @@
+[Max Magic Powder (Right stick left)]
+80100000
+01000000 01CC0780 0000001E
+20000000

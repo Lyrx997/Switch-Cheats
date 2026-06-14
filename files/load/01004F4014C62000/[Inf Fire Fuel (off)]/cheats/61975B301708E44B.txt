@@ -1,0 +1,2 @@
+[Inf Fire Fuel (off)]
+040A0000 01B6063C 1E203900

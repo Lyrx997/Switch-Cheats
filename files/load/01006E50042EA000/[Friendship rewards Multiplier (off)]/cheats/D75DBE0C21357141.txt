@@ -1,0 +1,2 @@
+[Friendship rewards Multiplier (off)]
+04000000 01119764 0B1502C8

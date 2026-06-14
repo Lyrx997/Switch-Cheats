@@ -1,0 +1,2 @@
+[Money no decrease]
+040E0000 02F88194 2A1F03F4

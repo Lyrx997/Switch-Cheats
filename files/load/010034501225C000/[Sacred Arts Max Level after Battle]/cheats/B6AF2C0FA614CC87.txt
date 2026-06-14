@@ -1,0 +1,2 @@
+[Sacred Arts Max Level after Battle]
+040C0000 0020E9B0 144A3D55

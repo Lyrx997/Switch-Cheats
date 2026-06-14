@@ -1,0 +1,2 @@
+[100 Percent Rare Item Drop Rate (Disable)]
+04000000 0000D0F0 B9405000

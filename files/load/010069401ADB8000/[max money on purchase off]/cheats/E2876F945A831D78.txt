@@ -1,0 +1,2 @@
+[max money on purchase off]
+04000000 00035FC8 B9001008

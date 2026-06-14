@@ -1,0 +1,2 @@
+[The increase in the number of items in the cabinet is 4 times]
+04000000 003C0ED4 0B150929

@@ -1,0 +1,2 @@
+[always ice wind lightning off]
+04000000 00CC6AF0 F81C0FF7

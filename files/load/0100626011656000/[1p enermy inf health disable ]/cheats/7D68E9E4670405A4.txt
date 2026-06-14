@@ -1,0 +1,2 @@
+[1p enermy inf health disable ]
+04000000 01AFEB00 D102C3FF

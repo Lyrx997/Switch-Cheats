@@ -1,0 +1,2 @@
+[Item / Gold / Chests not decreasing]
+04000000 001F0668 510002E2

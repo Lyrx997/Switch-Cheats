@@ -1,0 +1,2 @@
+[Money multiplier (off)]
+04000000 0139E6C0 1B137C00

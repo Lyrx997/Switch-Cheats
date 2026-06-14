@@ -1,0 +1,2 @@
+[Gadwin weapon lvl 98]
+011F0000 003BD41C 00000062

@@ -1,0 +1,2 @@
+[1p auto block weapon]
+04000000 00CCD694 D503201F

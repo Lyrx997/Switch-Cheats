@@ -1,0 +1,2 @@
+[invincible off]
+04000000 014C22C0 2A1F03E1

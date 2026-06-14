@@ -1,0 +1,2 @@
+[Magic Ingredients No Decrease]
+04000000 018AAFCC 0B140AAA

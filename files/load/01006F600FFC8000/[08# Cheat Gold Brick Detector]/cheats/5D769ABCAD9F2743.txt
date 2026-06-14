@@ -1,0 +1,2 @@
+[08# Cheat Gold Brick Detector]
+010A0000 01E91AD2 00000001

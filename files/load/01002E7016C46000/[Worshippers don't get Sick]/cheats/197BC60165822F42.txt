@@ -1,0 +1,2 @@
+[Worshippers don't get Sick]
+040C0000 01B42BE8 1E2703E0

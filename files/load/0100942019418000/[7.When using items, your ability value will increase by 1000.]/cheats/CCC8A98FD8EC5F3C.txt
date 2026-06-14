@@ -1,0 +1,2 @@
+[7.When using items, your ability value will increase by 1000.]
+04000000 004395B8 110F9D28

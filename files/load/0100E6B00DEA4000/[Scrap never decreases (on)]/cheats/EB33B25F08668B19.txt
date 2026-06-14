@@ -1,0 +1,2 @@
+[Scrap never decreases (on)]
+04000000 004DEF10 2A1503EA

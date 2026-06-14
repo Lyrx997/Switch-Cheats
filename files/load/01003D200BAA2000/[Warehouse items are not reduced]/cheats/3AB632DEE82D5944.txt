@@ -1,0 +1,2 @@
+[Warehouse items are not reduced]
+04000000 0281D65C 6B1F02E1

@@ -1,0 +1,2 @@
+[No skill cooldown]
+040B0000 004B4C64 38696908

@@ -1,0 +1,2 @@
+[Feche a caixa Kanai sem consumir materiais]
+04000000 0085A460 D101C3FF

@@ -1,0 +1,3 @@
+[Able to craft anything without materials]
+04000000 000CA638
+52800020

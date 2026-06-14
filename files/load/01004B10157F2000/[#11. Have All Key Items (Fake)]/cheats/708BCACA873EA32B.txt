@@ -1,0 +1,2 @@
+[#11. Have All Key Items (Fake)]
+040E0000 0088C0BC 52800020

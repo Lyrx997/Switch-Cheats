@@ -1,0 +1,2 @@
+[Mouse Stage Inf HP]
+04000000 011D6540 1E2703E8

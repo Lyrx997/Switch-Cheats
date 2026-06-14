@@ -1,0 +1,2 @@
+[Maximum SP after equipping any chip]
+04000000 0005EAB4 52807D08

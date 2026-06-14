@@ -1,0 +1,2 @@
+[Force Enemy Idle (OFF)]
+040C0000 0611DE18 00000000

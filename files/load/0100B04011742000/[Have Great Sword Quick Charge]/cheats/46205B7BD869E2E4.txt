@@ -1,0 +1,2 @@
+[Have Great Sword Quick Charge]
+04070000 02B3E268 14000010

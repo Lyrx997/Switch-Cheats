@@ -1,0 +1,2 @@
+[Max Power Level]
+04000000 012FB5EC 52800140

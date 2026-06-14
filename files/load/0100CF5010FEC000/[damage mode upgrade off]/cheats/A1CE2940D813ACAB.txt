@@ -1,0 +1,2 @@
+[damage mode upgrade off]
+04000000 00972AC4 4B08014A

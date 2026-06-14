@@ -1,0 +1,2 @@
+[HP No Decrease Off]
+04000000 003B8544 4B160108

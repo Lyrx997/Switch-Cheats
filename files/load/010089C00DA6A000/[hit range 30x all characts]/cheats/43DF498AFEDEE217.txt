@@ -1,0 +1,2 @@
+[hit range 30x all characts]
+04000000 000643B0 1E27D002

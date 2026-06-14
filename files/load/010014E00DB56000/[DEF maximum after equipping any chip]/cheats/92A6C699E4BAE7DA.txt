@@ -1,0 +1,2 @@
+[DEF maximum after equipping any chip]
+04000000 0005EAD0 52807D08

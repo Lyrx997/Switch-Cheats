@@ -1,0 +1,2 @@
+[Dumb AI's / Wall Scratch AI's ON]
+04000000 0895CAE8 4FFFFFFF

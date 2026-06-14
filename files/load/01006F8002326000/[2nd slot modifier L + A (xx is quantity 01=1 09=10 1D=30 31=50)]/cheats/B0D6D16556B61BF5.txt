@@ -1,0 +1,3 @@
+[2nd slot modifier L + A (xx is quantity 01=1 09=10 1D=30 31=50)]
+80000041
+04100000 AC3B90C8 0000

@@ -1,0 +1,2 @@
+[#01. Infinite HP/Medicine/Items]
+040E0000 01A49B70 52800028

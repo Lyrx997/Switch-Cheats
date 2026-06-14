@@ -1,0 +1,2 @@
+[Always have Blue Ring]
+01100000 01E8E342 00000087

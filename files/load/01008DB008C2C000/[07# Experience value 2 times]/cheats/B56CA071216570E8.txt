@@ -1,0 +1,2 @@
+[07# Experience value 2 times]
+04000000 007F27AC 0B010536

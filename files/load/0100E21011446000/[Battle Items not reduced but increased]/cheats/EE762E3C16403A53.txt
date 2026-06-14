@@ -1,0 +1,2 @@
+[Battle Items not reduced but increased]
+040C0000 0095106C 0B020129

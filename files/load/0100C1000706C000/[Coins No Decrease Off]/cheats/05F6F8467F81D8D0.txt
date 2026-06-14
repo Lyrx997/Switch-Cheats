@@ -1,0 +1,2 @@
+[Coins No Decrease Off]
+04000000 00D3EF88 2A0103F3

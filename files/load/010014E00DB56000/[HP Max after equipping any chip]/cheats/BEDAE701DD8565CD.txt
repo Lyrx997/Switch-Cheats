@@ -1,0 +1,2 @@
+[HP Max after equipping any chip]
+04000000 0005EAA8 5284E1E8

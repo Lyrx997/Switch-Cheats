@@ -1,0 +1,2 @@
+[Always Revive with 100% HP/Mana/Oxy (Off)]
+04000000 00BA3CC8 3EE147AE

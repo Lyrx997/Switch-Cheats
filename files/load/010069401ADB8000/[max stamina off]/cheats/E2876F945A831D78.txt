@@ -1,0 +1,2 @@
+[max stamina off]
+04000000 000D6DE8 B9417E6B

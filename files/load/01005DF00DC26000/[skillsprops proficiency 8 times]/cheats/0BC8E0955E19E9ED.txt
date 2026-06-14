@@ -1,0 +1,2 @@
+[skills/props proficiency 8 times]
+04000000 00A8333C 0B150D4A

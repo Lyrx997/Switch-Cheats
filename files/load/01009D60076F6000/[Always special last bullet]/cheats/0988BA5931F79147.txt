@@ -1,0 +1,2 @@
+[Always special last bullet]
+04000000 009A622C 3707FEA0

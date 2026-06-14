@@ -1,0 +1,2 @@
+[#06. Confuse Enemies (original by @xtatu)]
+040E0000 00799438 461C4000

@@ -1,0 +1,2 @@
+[No reduction in the number of items (all items)]
+04000000 021F4B04 2A1F03F5

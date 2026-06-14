@@ -1,0 +1,2 @@
+[shop storage inf]
+040B0000 0080C318 0B1F018C

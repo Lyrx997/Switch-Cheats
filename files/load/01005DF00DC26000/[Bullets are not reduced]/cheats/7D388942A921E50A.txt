@@ -1,0 +1,2 @@
+[Bullets are not reduced]
+04000000 00A3E620 51000108

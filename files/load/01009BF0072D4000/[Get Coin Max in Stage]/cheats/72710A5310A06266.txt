@@ -1,0 +1,3 @@
+[Get Coin Max in Stage]
+04000000 00253FA8
+52807CF4

@@ -1,0 +1,2 @@
+[invincible on / Ghosts can kill]
+04000000 014C22C0 D65F03C0

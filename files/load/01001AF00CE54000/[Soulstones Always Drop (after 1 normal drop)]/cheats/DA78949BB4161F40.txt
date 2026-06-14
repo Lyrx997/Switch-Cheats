@@ -1,0 +1,2 @@
+[Soulstones Always Drop (after 1 normal drop)]
+04000000 00350728 D503201F

@@ -1,0 +1,2 @@
+[HP does not decrease off]
+040B0000 004D92C8 2A0103F4

@@ -1,0 +1,2 @@
+[(v1.2.0) Redeem Pokemon Let's Go Pikachu Reward (activate before Title Screen)]
+04000000 00C78E6C 6B1F011F

@@ -1,0 +1,2 @@
+[DE# 9999 Red pikmin in onion]
+041F0000 340E400C 0000270F

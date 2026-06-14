@@ -1,0 +1,2 @@
+[Coins Max after Battle Off]
+04000000 020BA5A0 1A89B108

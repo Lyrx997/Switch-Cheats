@@ -1,0 +1,2 @@
+[Experience value 32 times (off)]
+04000000 007E4EDC 0B010136

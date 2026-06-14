@@ -1,0 +1,2 @@
+[PokÃ©Balls Always Catch (Off)]
+04000000 008A70C8 54FFFE00

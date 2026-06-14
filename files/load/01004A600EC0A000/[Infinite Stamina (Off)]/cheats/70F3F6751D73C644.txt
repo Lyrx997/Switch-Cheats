@@ -1,0 +1,2 @@
+[Infinite Stamina (Off)]
+04000000 03FB6C38 BD01EAA8

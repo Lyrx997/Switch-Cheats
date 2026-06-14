@@ -1,0 +1,2 @@
+[Equipped with any chip after through the damage relief]
+04000000 0005EC68 52800C88

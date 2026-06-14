@@ -1,0 +1,2 @@
+[P1 Always Have Power Gauge]
+01000000 01242F51 00000000

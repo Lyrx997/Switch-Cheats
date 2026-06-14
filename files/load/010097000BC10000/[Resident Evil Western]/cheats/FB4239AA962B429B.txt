@@ -1,0 +1,2 @@
+[Resident Evil Western]
+081F0000 13EF7258 00000005 0C0B087D

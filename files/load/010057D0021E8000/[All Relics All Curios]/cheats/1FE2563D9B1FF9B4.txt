@@ -1,0 +1,2 @@
+[All Relics All Curios]
+04000000 00B37F44 FFFFFFFF

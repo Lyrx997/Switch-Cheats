@@ -1,0 +1,2 @@
+[Super Turrican Bombs]
+01000000 00DB0307 00000003

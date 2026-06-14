@@ -1,0 +1,2 @@
+[all items have unlimited durability]
+04000000 03B66070 00005431

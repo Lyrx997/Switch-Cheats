@@ -1,0 +1,2 @@
+[Combo Bar Not Decrease]
+04000000 017423F8 D503201F

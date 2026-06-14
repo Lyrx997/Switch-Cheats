@@ -1,0 +1,2 @@
+[Custom Charater Maxout Attributes]
+040E0000 02E607F0 528000A0

@@ -1,0 +1,2 @@
+[Maximum damage multiplier for chain attacks]
+040B0000 005FAEFC 790ADA60

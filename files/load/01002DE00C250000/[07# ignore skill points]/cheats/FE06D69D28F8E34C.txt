@@ -1,0 +1,2 @@
+[07# ignore skill points]
+040A0000 01CB40BC 6B00001F

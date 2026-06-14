@@ -1,0 +1,2 @@
+[rapid fire off]
+04000000 0016FC44 1E2E1000

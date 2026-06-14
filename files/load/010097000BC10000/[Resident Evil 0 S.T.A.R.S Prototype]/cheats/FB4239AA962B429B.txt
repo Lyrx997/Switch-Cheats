@@ -1,0 +1,2 @@
+[Resident Evil 0 S.T.A.R.S Prototype]
+081F0000 13EF7258 00000007 0C0B8A89

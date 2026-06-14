@@ -1,0 +1,2 @@
+[Fame value is not reduced / PT]
+04000000 0039F284 6B1F0108

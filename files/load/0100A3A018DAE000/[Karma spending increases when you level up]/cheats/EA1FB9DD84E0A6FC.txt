@@ -1,0 +1,2 @@
+[Karma spending increases when you level up]
+04000000 017CDE88 0B180100

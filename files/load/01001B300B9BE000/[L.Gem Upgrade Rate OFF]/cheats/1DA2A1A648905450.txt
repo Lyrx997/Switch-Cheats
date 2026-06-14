@@ -1,0 +1,2 @@
+[L.Gem Upgrade Rate OFF]
+04000000 0067B81C BC685928

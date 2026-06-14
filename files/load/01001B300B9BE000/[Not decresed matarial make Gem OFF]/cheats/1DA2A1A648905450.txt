@@ -1,0 +1,2 @@
+[Not decresed matarial make Gem OFF]
+04000000 00475DA4 CB130113

@@ -1,0 +1,2 @@
+[max kazemaru stamina off]
+040B0000 0379A414 BD002660

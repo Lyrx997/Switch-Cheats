@@ -1,0 +1,2 @@
+[Instant Cooldown for Skill]
+040E0000 01411054 BD005260

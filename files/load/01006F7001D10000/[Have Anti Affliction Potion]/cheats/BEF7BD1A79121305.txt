@@ -1,0 +1,2 @@
+[Have Anti Affliction Potion]
+04100000 9AE1068C 00000005

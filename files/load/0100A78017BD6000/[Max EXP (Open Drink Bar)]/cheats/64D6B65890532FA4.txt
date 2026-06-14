@@ -1,0 +1,2 @@
+[Max EXP (Open Drink Bar)]
+040C0000 006F8110 94205582

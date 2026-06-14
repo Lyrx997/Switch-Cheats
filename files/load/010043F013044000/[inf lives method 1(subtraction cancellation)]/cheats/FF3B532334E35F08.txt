@@ -1,0 +1,2 @@
+[inf lives method 1(subtraction cancellation)]
+04000000 0080937C 51000129

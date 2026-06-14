@@ -1,0 +1,2 @@
+[Max Money (off)]
+040A0000 00BE2C0C B9400100

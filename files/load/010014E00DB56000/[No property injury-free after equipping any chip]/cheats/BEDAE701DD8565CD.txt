@@ -1,0 +1,2 @@
+[No property injury-free after equipping any chip]
+04000000 0005EB94 52800C88

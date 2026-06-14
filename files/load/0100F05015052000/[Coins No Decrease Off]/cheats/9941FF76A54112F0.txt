@@ -1,0 +1,2 @@
+[Coins No Decrease Off]
+04000000 02B25C38 1B14A128

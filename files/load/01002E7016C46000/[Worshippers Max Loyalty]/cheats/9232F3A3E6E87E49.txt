@@ -1,0 +1,2 @@
+[Worshippers Max Loyalty]
+040C0000 0420EC80 94005B20

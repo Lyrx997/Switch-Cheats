@@ -1,0 +1,2 @@
+[don't turn on hits]
+04000000 01F116F0 D65F03C0

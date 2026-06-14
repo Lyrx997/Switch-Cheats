@@ -1,0 +1,2 @@
+[Empty Flamethrower]
+040C0000 09E834D8 00000001

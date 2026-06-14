@@ -1,0 +1,2 @@
+[P2 Always Maximum Stars]
+01000000 0127ED05 00000099

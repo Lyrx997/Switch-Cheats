@@ -1,0 +1,2 @@
+[Golden Axe 3 Infinite HP]
+01000000 030F729F 00000033

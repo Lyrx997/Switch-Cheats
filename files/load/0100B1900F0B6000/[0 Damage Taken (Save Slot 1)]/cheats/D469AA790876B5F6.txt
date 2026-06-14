@@ -1,0 +1,2 @@
+[0 Damage Taken (Save Slot 1)]
+04000000 6874F47C 00000000

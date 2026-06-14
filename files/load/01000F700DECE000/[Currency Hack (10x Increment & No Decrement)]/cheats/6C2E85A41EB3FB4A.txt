@@ -1,0 +1,3 @@
+[Currency Hack (10x Increment & No Decrement)]
+040E0000 01A88E10 D65F03C0
+040E0000 0012EDDC 94656809

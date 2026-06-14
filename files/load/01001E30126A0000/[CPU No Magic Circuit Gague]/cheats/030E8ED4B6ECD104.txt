@@ -1,0 +1,2 @@
+[CPU No Magic Circuit Gague]
+04000000 09262708 00000000

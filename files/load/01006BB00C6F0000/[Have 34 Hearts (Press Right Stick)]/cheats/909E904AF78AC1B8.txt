@@ -1,0 +1,3 @@
+[Have 3/4 Hearts (Press Right Stick)]
+80000020 04000000 01CC0770 0000000F
+20000000

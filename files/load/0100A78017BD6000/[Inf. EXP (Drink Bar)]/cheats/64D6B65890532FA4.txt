@@ -1,0 +1,2 @@
+[Inf. EXP (Drink Bar)]
+040C0000 0070143C CB1F013C

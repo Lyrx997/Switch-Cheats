@@ -1,0 +1,2 @@
+[Obtain a lot of EXP]
+04000000 009B03FC 0B015901

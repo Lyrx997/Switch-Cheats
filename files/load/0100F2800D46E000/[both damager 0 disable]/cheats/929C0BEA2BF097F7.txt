@@ -1,0 +1,2 @@
+[both damager 0 disable]
+04000000 0021ECC4 6DB63BEF

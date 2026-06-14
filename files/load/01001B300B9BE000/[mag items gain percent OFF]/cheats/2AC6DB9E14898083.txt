@@ -1,0 +1,2 @@
+[mag items gain percent OFF]
+04000000 004582D8 140862B6

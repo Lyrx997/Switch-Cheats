@@ -1,0 +1,2 @@
+[normal mode+speed]
+04000000 001C7B5C 1E2E1000

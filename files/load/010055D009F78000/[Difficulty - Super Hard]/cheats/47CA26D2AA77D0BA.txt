@@ -1,0 +1,2 @@
+[Difficulty - Super Hard]
+01000000 019FB460 00000002

@@ -1,0 +1,2 @@
+[can craft without mats - just press A]
+04000000 0025B550 52800020

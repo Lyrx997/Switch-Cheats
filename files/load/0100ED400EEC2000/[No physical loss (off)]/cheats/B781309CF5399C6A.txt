@@ -1,0 +1,2 @@
+[No physical loss (off)]
+04000000 004287B4 1A8CB16B

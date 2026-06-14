@@ -1,0 +1,2 @@
+[#06. Shield durability does not decrease]
+040E0000 006FD104 1E2703E0

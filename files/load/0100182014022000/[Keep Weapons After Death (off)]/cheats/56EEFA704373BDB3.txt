@@ -1,0 +1,2 @@
+[Keep Weapons After Death (off)]
+040A0000 00F4B540 A9BE4FF4

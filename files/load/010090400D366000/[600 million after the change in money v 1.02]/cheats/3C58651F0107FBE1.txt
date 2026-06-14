@@ -1,0 +1,3 @@
+[600 million after the change in money v 1.02]
+04000000 00472DD8 5290D548
+04000000 00472DDC 72A4F788

@@ -1,0 +1,2 @@
+[game speed normal]
+04000000 0070C25C 1E2E1009

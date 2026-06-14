@@ -1,0 +1,3 @@
+[Have Map/Compass/Boss Key & Other Items In Map Screen]
+01000000 01CBB301 0000000F
+01000000 01CBB321 0000000F

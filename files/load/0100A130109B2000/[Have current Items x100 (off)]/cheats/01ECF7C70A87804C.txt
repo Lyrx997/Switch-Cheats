@@ -1,0 +1,2 @@
+[Have current Items x100 (off)]
+04000000 002B2370 B9401400

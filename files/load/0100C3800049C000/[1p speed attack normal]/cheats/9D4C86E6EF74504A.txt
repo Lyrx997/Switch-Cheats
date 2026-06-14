@@ -1,0 +1,2 @@
+[1p speed attack normal]
+04000000 00534F4C EEB50AC0

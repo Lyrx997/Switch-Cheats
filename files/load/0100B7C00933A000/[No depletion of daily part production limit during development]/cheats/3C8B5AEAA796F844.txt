@@ -1,0 +1,2 @@
+[No depletion of daily part production limit during development]
+04000000 01D569B8 6B1F0108

@@ -1,0 +1,2 @@
+[*Ammo OFF Jericoss]
+04000000 022F4180 B9402A68

@@ -1,0 +1,2 @@
+[Worshippers don't get older]
+040C0000 0213D0C4 0B1F010A

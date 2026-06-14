@@ -1,0 +1,2 @@
+[Cape Mario (Super Mario World)]
+011F0000 93D4EC18 00000004

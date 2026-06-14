@@ -1,0 +1,2 @@
+[Gemstone x9999 on collect (off)]
+04000000 00D19AEC 0B140115

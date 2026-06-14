@@ -1,0 +1,2 @@
+[Unlock Classic Doom]
+040C0000 069741F0 00000001

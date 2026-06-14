@@ -1,0 +1,2 @@
+[Infinite Pump Rifle Cartridges]
+01100000 2C2318C4 0000000A

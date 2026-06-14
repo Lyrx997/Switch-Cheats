@@ -1,0 +1,36 @@
+[99 x Original Gem S Available infinite]
+04000000 00BBC884 00000063
+
+[99 x Forgotten Bone D Available infinite]
+04000000 00BBC878 00000063
+
+[99 x Magic Grass B Aromatic Available Infinite]
+04000000 00BBC85C 00000063
+
+[99 x Audras Tail C Available infinite]
+04000000 00BBC880 00000063
+
+[99 x Magic Grass Available Infinite]
+04000000 00BBC858 00000063
+
+[Infinite Money]
+04000000 00BB7968 0098967F
+
+[99 xMandra Root E Available infinite]
+04000000 00BBC868 00000063
+
+[99 x Serenity Flower E Available infinite]
+04000000 00BBC870 00000063
+
+[99 x Puniball E Available infinite]
+04000000 00BBC87C 00000063
+
+[99 x Globe Sphere E Available infinite]
+04000000 00BBC874 00000063
+
+[99 x Fest A  Available infinite]
+04000000 00BBC864 00000063
+
+[99 xPhlogiston E Available infinite]
+04000000 00BBC86C 00000063
+

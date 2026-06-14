@@ -1,0 +1,2 @@
+[Inf Stamina Off]
+04000000 0186B280 FC1D0FE8

@@ -1,0 +1,2 @@
+[Itens infinitos em batalha (Desativar)]
+04000000 000CB264 E2400001

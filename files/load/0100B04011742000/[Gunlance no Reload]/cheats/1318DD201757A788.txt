@@ -1,0 +1,2 @@
+[Gunlance no Reload]
+040C0000 037DE264 D503201F

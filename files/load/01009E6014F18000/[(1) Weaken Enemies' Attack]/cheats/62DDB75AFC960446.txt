@@ -1,0 +1,2 @@
+[(1) Weaken Enemies' Attack]
+040E0000 01479174 1E2E1000

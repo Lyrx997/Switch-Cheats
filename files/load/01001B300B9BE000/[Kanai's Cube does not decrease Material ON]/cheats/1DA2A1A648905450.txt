@@ -1,0 +1,2 @@
+[Kanai's Cube does not decrease Material ON]
+04000000 00865100 D65F03C0

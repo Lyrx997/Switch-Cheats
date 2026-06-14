@@ -1,0 +1,2 @@
+[No Random Encounters]
+04100000 63C9AED9 00000000

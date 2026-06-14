@@ -1,0 +1,2 @@
+[max sword energy off]
+04000000 02107404 BD1BB280

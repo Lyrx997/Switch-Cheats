@@ -1,0 +1,2 @@
+[Super Drop Rate Disable]
+04070000 006B76C0 AA0003F4

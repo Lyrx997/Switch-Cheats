@@ -1,0 +1,2 @@
+[Augmentation du niveau de l'équipement 2 fois]
+04000000 002FDC20 0B0006C0

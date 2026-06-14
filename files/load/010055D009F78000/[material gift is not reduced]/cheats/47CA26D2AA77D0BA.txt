@@ -1,0 +1,3 @@
+[material / gift is not reduced]
+04000000 0039C118 4B1F014A
+04000000 0039C3A8 4B1F014A

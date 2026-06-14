@@ -1,0 +1,2 @@
+[04# inf item usage]
+04000000 0018DADC 110006E0

@@ -1,0 +1,3 @@
+[EP (Hunger) does not decrease (Player and Buddy) (Enable)]
+04000000 0020B2C0 52800014
+04000000 003AD910 52800014

@@ -1,0 +1,2 @@
+[55555 coins at the end of level]
+04000000 015AF700 529B2060

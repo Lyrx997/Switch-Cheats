@@ -1,0 +1,2 @@
+[Ethereal Stone x80 - 2D]
+04000000 08D65D6C 0050008F

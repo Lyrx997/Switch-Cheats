@@ -1,0 +1,2 @@
+[Two times the effect of the incense props of each attribute]
+04000000 0015A8F8 E0820080

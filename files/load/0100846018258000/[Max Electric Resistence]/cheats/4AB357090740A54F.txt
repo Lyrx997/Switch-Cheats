@@ -1,0 +1,2 @@
+[Max Electric Resistence]
+040C0000 01E122A0 14C290F3

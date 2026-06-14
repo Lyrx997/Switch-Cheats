@@ -1,0 +1,2 @@
+[enchant without mats]
+04000000 00525A64 14000033

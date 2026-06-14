@@ -1,0 +1,2 @@
+[1p speed normal attack]
+04000000 000AAD60 1E2E1000

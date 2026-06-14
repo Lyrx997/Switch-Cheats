@@ -1,0 +1,2 @@
+[Enemy Infinite HP]
+04000000 0068CE5C 1E2703E0

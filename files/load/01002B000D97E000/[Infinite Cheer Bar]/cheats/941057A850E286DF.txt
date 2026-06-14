@@ -1,0 +1,2 @@
+[Infinite Cheer Bar]
+04000000 006A0FB8 0044AA20

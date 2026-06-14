@@ -1,0 +1,2 @@
+[Money no decrease]
+010E0000 01FD2B8E 0000001F

@@ -1,0 +1,2 @@
+[1p hitrange normal]
+04000000 054157E0 1E2E1007

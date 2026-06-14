@@ -1,0 +1,2 @@
+[Timer stop(for emulator)]
+04000000 01DC6C08 D503201F

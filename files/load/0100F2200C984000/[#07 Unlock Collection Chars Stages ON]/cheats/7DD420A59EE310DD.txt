@@ -1,0 +1,2 @@
+[#07 Unlock Collection Chars Stages ON]
+08000000 01E3BA10 D65F03C0 320003E0

@@ -1,0 +1,2 @@
+[Research does not consume bottles]
+04000000 00CC046C D503201F

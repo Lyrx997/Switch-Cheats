@@ -1,0 +1,2 @@
+[Have inf Return Village Time Disable]
+04070000 03EF8408 1E213800

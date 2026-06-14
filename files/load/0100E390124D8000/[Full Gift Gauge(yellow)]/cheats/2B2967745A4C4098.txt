@@ -1,0 +1,2 @@
+[Full Gift Gauge(yellow)]
+040E0000 00160D58 D503201F

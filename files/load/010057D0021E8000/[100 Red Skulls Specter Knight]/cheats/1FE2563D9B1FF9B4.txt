@@ -1,0 +1,2 @@
+[100 Red Skulls Specter Knight]
+01000000 00B381B4 00000064

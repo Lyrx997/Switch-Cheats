@@ -1,0 +1,2 @@
+[Experience value 16 times]
+04000000 00A72DFC 0B011108

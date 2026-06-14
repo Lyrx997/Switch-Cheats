@@ -1,0 +1,2 @@
+[100% escape rate after equipping any chip]
+04000000 0005EC20 52800C88

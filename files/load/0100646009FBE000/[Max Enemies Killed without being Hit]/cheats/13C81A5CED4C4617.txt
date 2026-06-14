@@ -1,0 +1,3 @@
+[Max Enemies Killed without being Hit]
+40030000 00000000 00000074
+64030120 00000000 3B9AC9FF

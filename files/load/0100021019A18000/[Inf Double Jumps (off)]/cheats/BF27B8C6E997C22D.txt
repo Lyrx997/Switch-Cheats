@@ -1,0 +1,2 @@
+[Inf Double Jumps (off)]
+040A0000 01F735B8 39451668

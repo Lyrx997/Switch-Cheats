@@ -1,0 +1,2 @@
+[Disable Enemy Movement]
+040C0000 069032E8 00000000

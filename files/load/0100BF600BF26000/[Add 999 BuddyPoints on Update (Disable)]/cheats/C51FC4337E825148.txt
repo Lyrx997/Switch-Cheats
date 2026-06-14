@@ -1,0 +1,2 @@
+[Add 999 BuddyPoints on Update (Disable)]
+04000000 00204630 2A0203F3

@@ -1,0 +1,2 @@
+[Remove Item Durability (off)]
+04000000 008AB780 D105C3FF

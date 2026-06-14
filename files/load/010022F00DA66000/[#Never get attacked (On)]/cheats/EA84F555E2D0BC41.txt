@@ -1,0 +1,2 @@
+[#Never get attacked (On)]
+04000000 00684B10 D65F03C0

@@ -1,0 +1,2 @@
+[#07. Instant Charge Skill]
+040E0000 0023690C 1E3E1002

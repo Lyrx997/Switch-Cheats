@@ -1,0 +1,2 @@
+[Max Mana (Open Skill Shop)]
+040C0000 00B9C92C 940CFA58

@@ -1,0 +1,2 @@
+[Stage before Moon Score - Set to 0 (Cat food + xp + silver ticket)]
+04100000 B02453F4 00000000

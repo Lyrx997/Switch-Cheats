@@ -1,0 +1,2 @@
+[Zero I - Quick Weapon Charge]
+04000000 02FB6662 0000FFFF

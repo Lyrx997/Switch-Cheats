@@ -1,0 +1,2 @@
+[Normal Skill Points up]
+010E0000 2B010108 00000001

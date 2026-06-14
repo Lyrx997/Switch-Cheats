@@ -1,0 +1,2 @@
+[enermy speed 2x]
+04000000 00BA2CD4 1E201000

@@ -1,0 +1,2 @@
+[hint coins don't decrease]
+040F0000 00533556 00000063

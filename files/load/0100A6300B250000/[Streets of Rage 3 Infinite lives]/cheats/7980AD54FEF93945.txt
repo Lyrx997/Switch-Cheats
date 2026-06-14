@@ -1,0 +1,2 @@
+[Streets of Rage 3 Infinite lives]
+010F0000 030F8932 00000009

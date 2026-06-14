@@ -1,0 +1,2 @@
+[OMEGA weapon unlimited]
+04000000 0003FA04 D503201F

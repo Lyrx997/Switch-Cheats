@@ -1,0 +1,2 @@
+[Demons always drop Ammo & Health (OFF)]
+040C0000 06932C40 00000000

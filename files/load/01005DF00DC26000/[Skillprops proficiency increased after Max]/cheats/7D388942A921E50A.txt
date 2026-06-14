@@ -1,0 +1,2 @@
+[Skill/props proficiency increased after Max]
+04000000 00A87A44 1A8BB16B

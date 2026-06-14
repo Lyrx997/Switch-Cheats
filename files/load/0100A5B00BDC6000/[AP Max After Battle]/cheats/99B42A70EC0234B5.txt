@@ -1,0 +1,2 @@
+[AP Max After Battle]
+04100000 6387C6C4 0000270F

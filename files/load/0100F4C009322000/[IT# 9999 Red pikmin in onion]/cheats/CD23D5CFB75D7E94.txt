@@ -1,0 +1,2 @@
+[IT# 9999 Red pikmin in onion]
+041F0000 341DE00C 0000270F

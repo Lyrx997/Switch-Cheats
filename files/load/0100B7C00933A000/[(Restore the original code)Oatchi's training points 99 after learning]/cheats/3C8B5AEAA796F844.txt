@@ -1,0 +1,3 @@
+[(Restore the original code)Oatchi's training points 99 after learning]
+04000000 01B4A100 B9406E89
+04000000 01B4A104 4B080129

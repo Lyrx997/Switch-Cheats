@@ -1,0 +1,2 @@
+[Mareg HP 999 on battle]
+040F0000 002EE5B4 0000270F

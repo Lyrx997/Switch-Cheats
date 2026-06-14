@@ -1,0 +1,2 @@
+[Spells have no cooldown]
+04000000 017BE418 1E283900

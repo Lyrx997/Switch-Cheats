@@ -1,0 +1,2 @@
+[grenade and skill inf]
+04000000 0027477C 51000108

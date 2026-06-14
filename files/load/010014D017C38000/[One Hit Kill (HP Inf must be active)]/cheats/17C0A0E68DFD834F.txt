@@ -1,0 +1,2 @@
+[One Hit Kill (HP Inf must be active)]
+04000000 01BC9F20 52800008

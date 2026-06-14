@@ -1,0 +1,2 @@
+[Get All items (Beware! Game may damage! Good luck!)]
+040E0000 0238B180 14250337

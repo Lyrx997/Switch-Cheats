@@ -1,0 +1,2 @@
+[Weapon Attachment no Cooldown]
+040C0000 0385A8AC 2A1F03E8

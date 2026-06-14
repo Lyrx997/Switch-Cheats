@@ -1,0 +1,2 @@
+[Achievement rate]
+040F0000 00BFE170 000F0000

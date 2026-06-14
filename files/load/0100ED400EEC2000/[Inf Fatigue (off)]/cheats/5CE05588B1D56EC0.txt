@@ -1,0 +1,2 @@
+[Inf Fatigue (off)]
+04000000 00428B24 0B0C01CE

@@ -1,0 +1,2 @@
+[CrystalRace 1 Crystal is worth 5]
+04000000 00E65EE0 11001508

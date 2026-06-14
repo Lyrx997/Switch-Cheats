@@ -1,0 +1,2 @@
+[Get Double EXP for Kill]
+04000000 002CEB98 0B160529

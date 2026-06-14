@@ -1,0 +1,2 @@
+[Max Weapon Proficiency]
+040C0000 006C6164 2A0903E8

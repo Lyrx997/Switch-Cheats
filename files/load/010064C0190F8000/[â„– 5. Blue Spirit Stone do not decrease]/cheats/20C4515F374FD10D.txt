@@ -1,0 +1,2 @@
+[â„– 5. Blue Spirit Stone do not decrease]
+040E0000 0089F87C D503201F

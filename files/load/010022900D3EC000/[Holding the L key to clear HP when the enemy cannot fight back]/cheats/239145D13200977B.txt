@@ -1,0 +1,5 @@
+[Holding the L key to clear HP when the enemy cannot fight back]
+04000000 0041C290 B9022668
+80000040
+04000000 0041C290 B902267F
+20000000

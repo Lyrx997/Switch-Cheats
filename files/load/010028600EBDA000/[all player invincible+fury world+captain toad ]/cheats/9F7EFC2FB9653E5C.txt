@@ -1,0 +1,2 @@
+[all player invincible+fury world+captain toad ]
+04000000 0038C8D4 7100051F

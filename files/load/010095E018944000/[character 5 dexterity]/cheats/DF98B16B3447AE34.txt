@@ -1,0 +1,2 @@
+[character 5 dexterity]
+04000000 021207EC 000003E7

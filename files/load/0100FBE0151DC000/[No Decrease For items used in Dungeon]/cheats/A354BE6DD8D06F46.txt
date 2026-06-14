@@ -1,0 +1,2 @@
+[No Decrease For items used in Dungeon]
+040E0000 01D6DAC0 4B1F01AD

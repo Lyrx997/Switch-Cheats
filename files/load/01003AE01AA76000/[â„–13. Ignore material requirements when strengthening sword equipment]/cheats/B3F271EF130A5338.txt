@@ -1,0 +1,4 @@
+[â„–13. Ignore material requirements when strengthening sword equipment]
+040E0000 0122B244 2A1F03E9
+040E0000 0122AF0C 2A1F03F9
+040E0000 00E097D8 2A1F03F7

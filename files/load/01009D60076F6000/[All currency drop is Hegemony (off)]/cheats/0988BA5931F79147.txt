@@ -1,0 +1,3 @@
+[All currency drop is Hegemony (off)]
+04000000 00DD7A80 54000C6B
+04000000 00DD7A84 360003D7

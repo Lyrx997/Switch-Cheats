@@ -1,0 +1,2 @@
+[cpu boss no move]
+04000000 010BB800 D65F03C0

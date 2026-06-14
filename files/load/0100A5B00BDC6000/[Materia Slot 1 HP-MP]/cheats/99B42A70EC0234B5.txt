@@ -1,0 +1,2 @@
+[Materia Slot 1 HP<->MP]
+04100000 63C9E8B4 FFFFFF12

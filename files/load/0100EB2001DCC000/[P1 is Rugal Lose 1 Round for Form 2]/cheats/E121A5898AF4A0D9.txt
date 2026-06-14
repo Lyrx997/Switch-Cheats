@@ -1,0 +1,2 @@
+[P1 is Rugal Lose 1 Round for Form 2]
+01000000 012A1938 00000008

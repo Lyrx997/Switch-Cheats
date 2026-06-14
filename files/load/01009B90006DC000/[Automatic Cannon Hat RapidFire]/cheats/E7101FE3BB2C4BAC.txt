@@ -1,0 +1,2 @@
+[Automatic Cannon Hat RapidFire]
+04100000 9260B588Â€¬ 0000FFFF

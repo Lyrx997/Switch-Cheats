@@ -1,0 +1,2 @@
+[Skill points do not decrease]
+04000000 03B662A0 00005431

@@ -1,0 +1,2 @@
+[Max Wisdom (Open Menu/Character)]
+040C0000 042740B4 9408B8AA

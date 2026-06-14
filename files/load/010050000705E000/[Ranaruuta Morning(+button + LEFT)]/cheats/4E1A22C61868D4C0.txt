@@ -1,0 +1,4 @@
+[Ranaruuta Morning(+button + LEFT)]
+80001400
+04100000 417D5058 40000000
+20000000

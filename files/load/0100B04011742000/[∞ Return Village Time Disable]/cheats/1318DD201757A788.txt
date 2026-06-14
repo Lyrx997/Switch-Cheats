@@ -1,0 +1,2 @@
+[∞ Return Village Time Disable]
+040C0000 02F19754 1E213800

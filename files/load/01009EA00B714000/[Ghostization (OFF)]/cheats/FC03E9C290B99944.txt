@@ -1,0 +1,2 @@
+[Ghostization (OFF)]
+04000000 002F9DA0 D61F00A0

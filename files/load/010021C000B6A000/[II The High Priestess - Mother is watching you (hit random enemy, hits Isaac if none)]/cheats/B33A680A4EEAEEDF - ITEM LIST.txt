@@ -1,0 +1,3 @@
+[II The High Priestess - Mother is watching you (hit random enemy, hits Isaac if none)]
+40000000 00000000 00001C00
+640C0100 00000000 00000003

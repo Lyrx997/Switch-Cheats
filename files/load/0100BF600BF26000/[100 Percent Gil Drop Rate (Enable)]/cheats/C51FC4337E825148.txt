@@ -1,0 +1,2 @@
+[100 Percent Gil Drop Rate (Enable)]
+04000000 0000D130 52800C80

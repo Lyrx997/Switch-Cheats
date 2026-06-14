@@ -1,0 +1,3 @@
+[Persona combine no need materials]
+040B0000 006CB588 5280002E
+040B0000 006CBB40 52800028

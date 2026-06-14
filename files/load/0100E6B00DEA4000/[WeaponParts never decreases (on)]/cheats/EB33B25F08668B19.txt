@@ -1,0 +1,2 @@
+[WeaponParts never decreases (on)]
+04000000 004DF8A4 D503201F

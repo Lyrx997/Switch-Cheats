@@ -1,0 +1,2 @@
+[enemy auto Suicide off]
+04000000 00FD4530 A9BD57F6

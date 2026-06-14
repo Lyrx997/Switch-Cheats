@@ -1,0 +1,2 @@
+[hit range does not affect graphic weapons]
+04000000 05302940 1E2F9007

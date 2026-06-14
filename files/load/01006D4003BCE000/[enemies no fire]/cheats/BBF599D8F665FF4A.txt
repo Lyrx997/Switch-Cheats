@@ -1,0 +1,2 @@
+[enemies no fire]
+04000000 00200B24 D65F03C0

@@ -1,0 +1,2 @@
+[â„– 7. Hidden Sword Gauge / Substitution Gauge Instant Max]
+040E0000 00CFB6E4 1E204020

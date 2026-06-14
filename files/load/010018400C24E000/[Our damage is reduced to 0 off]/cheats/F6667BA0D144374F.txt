@@ -1,0 +1,2 @@
+[Our damage is reduced to 0 off]
+040B0000 006A06C0 B971D108

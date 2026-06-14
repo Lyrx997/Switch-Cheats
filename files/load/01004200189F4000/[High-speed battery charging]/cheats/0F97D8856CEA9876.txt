@@ -1,0 +1,2 @@
+[High-speed battery charging]
+04000000 00368638 94445F46

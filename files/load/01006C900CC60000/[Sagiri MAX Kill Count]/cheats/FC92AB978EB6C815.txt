@@ -1,0 +1,2 @@
+[Sagiri MAX Kill Count]
+020F0000 018E4890 000003E7

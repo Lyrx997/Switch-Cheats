@@ -1,0 +1,3 @@
+[Slot 28 max cash stack (unlimited)]
+04100000 AC3B9040 000008A4
+04100000 AC3B9044 00000009

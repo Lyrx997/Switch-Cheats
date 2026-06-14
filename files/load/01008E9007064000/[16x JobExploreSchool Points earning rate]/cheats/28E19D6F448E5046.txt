@@ -1,0 +1,3 @@
+[16x Job/Explore/School Points earning rate]
+010E0000 0083B609 00000011
+010E0000 0083B611 00000011

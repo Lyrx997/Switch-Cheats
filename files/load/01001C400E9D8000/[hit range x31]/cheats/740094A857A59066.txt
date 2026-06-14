@@ -1,0 +1,2 @@
+[hit range x31]
+04000000 001C4DEC 1E27F00C

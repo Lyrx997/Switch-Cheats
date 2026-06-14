@@ -1,0 +1,2 @@
+[Fuel no reduction]
+04000000 0035A340 D503201F

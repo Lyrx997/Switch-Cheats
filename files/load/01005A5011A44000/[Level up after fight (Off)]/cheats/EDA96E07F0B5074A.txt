@@ -1,0 +1,2 @@
+[Level up after fight (Off)]
+04000000 004464E0 2A0003F7

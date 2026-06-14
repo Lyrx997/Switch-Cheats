@@ -1,0 +1,2 @@
+[ItemPoint not decrease]
+040F0000 007B992C 4B1C03E8

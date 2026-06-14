@@ -1,0 +1,2 @@
+[Infinite Rupees (sets to 99,999)]
+041F0000 48954D64 0001869F

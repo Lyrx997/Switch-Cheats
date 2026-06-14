@@ -1,0 +1,2 @@
+[Inf Boss Battle Time]
+04000000 000641C0 2A0003E0

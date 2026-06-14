@@ -1,0 +1,2 @@
+[14# Always Cure Successfully]
+040A0000 00601458 52800020

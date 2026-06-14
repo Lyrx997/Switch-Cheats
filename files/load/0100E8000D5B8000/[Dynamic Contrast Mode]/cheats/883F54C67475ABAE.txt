@@ -1,0 +1,2 @@
+[Dynamic Contrast Mode]
+01100000 A0801F66 00000001

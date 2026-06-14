@@ -1,0 +1,3 @@
+[HP does not decrease (Player and Buddy) (Enable)]
+04000000 0020A830 52800013
+04000000 003ACE40 52800013

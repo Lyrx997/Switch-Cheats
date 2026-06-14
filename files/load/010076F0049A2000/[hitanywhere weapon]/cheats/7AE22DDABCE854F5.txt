@@ -1,0 +1,2 @@
+[hitanywhere weapon]
+04000000 00AFD700 D65F03C0

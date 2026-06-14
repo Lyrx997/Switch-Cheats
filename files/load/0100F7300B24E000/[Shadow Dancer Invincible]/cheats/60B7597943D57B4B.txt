@@ -1,0 +1,2 @@
+[Shadow Dancer Invincible]
+01000000 030EBD60 000000FF

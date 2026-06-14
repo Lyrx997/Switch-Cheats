@@ -1,0 +1,2 @@
+[Unlock All Echoes]
+040A0000 024861AC 5280003C

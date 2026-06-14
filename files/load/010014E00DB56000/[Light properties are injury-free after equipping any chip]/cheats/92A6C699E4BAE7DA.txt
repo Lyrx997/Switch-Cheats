@@ -1,0 +1,2 @@
+[Light properties are injury-free after equipping any chip]
+04000000 0005EB78 52800C88

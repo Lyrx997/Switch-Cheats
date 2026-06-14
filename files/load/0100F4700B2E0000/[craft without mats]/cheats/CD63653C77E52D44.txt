@@ -1,0 +1,2 @@
+[craft without mats]
+04000000 000B8EAC 1400002F

@@ -1,0 +1,3 @@
+[HP & MP of enemy is always visible (On)]
+04000000 002DF7E0 52800020
+04000000 002DF7E4 D65F03C0

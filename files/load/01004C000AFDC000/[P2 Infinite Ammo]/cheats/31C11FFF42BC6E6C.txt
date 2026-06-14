@@ -1,0 +1,2 @@
+[P2 Infinite Ammo]
+02000000 017AAA44 0000FFFF

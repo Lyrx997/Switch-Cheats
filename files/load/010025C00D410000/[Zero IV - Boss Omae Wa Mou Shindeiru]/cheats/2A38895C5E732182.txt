@@ -1,0 +1,4 @@
+[Zero IV - Boss Omae Wa Mou Shindeiru]
+80001082
+01000000 02FD8520 00000000
+20000000

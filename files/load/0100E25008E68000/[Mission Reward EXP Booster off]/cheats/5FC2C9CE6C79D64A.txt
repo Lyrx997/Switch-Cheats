@@ -1,0 +1,2 @@
+[Mission Reward EXP Booster off]
+04000000 00E87FD0 B9403400

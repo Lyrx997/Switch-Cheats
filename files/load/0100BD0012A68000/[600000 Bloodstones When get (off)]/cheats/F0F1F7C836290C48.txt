@@ -1,0 +1,2 @@
+[600000 Bloodstones When get (off)]
+04000000 001A2D44 0B140000

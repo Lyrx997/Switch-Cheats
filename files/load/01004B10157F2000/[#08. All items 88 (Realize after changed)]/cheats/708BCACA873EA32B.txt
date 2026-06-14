@@ -1,0 +1,2 @@
+[#08. All items 88 (Realize after changed)]
+040E0000 0088C08C 52800B00

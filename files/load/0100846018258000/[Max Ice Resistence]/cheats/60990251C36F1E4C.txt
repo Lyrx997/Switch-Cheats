@@ -1,0 +1,2 @@
+[Max Ice Resistence]
+040C0000 020E9410 14B7345B

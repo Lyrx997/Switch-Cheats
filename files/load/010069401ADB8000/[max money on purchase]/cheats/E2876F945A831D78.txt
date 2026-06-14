@@ -1,0 +1,2 @@
+[max money on purchase]
+04000000 00035FC8 B9001009

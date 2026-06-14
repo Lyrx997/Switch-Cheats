@@ -1,0 +1,2 @@
+[Corpse will not rot]
+040E0000 004EAEE0 D503201F

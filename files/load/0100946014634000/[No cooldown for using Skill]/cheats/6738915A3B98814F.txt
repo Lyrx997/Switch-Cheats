@@ -1,0 +1,2 @@
+[No cooldown for using Skill]
+040E0000 01C77FA8 1E2A1000

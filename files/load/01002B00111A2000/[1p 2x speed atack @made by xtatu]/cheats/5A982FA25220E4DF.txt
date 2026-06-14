@@ -1,0 +1,2 @@
+[1p 2x speed atack @made by xtatu]
+04000000 000AA550 1E201000

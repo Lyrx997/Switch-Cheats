@@ -1,0 +1,2 @@
+[Potion Recovery Max]
+04000000 00519428 1E209C00

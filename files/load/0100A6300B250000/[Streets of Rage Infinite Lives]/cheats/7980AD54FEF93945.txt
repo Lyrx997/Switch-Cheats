@@ -1,0 +1,2 @@
+[Streets of Rage Infinite Lives]
+010F0000 030FA8C9 00000009

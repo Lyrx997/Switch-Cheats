@@ -1,0 +1,2 @@
+[Inf Batterypower]
+040A0000 01961CB4 1E29280B

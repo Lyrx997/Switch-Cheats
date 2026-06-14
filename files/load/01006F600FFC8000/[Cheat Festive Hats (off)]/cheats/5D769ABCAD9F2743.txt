@@ -1,0 +1,2 @@
+[Cheat Festive Hats (off)]
+010A0000 01E91BB2 00000000

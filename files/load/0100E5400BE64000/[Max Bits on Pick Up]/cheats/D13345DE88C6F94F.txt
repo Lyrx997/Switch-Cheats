@@ -1,0 +1,2 @@
+[Max Bits on Pick Up]
+01000000 001A4A85 00000009

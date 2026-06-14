@@ -1,0 +1,2 @@
+[8x USB effect for military division]
+04000000 0005EC30 0B090D08

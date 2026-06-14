@@ -1,0 +1,2 @@
+[Have Invicible Disable]
+04070000 02F23C44 BD440280

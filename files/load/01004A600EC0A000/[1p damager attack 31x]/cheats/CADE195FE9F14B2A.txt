@@ -1,0 +1,2 @@
+[1p damager attack 31x]
+04000000 02D42BE4 1E27F000

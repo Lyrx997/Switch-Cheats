@@ -1,0 +1,2 @@
+[Infinite Shurikens]
+04100000 9512571C 00000009
